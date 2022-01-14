@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/atiprtgd/font-mukti
+    - /bin/cp -R font-mukti $DEPLOYPATH
