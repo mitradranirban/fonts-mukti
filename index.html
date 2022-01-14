@@ -1,13 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.4.7.2 (Linux)"/>
+	<meta name="created" content="2022-01-12T20:36:37.282807082"/>
+	<meta name="changed" content="2022-01-12T20:42:19.931829401"/>
+</head>
+<body lang="en-IN" dir="ltr"><h1>Mukti Open Source Open Type Bangla /
+Bengali font 
+</h1>
+<hr/>
 
----
-title: Home
----
-<!doctype html>
-  <head>
-    <meta charset="utf-8">
-    <title>Mukti Opentype Bangla Font</title>
-  </head>
-  <body>
-    <h1>Mukti Open Source OpenType Bangla Font</h1>
-  </body>
+<p style="margin-top: 0.42cm; page-break-after: avoid"><font face="Liberation Sans, sans-serif"><font size="4" style="font-size: 14pt">Mukti
+Version 3 Release notes </font></font>
+</p>
+<p>by Dr Anirban Mitra 
+</p>
+<p>TL;DR: Mukti Open Source OpenType Bengali Font  Version 3.0 with
+lots of new features is out and is avalable for download at
+https://fonts.atipra.in/mukti 
+</p>
+<p>Long Post Ahead 
+</p>
+<p>Way back in 2002, I got interested in Digital Typograph, mainly is
+order to produce a font to view Bangla Documents in my Windows 98 PC.
+ In the process I came in contact with other members of Free Bangla
+Font Project like Sayamindu and Deepayan and with their help made 4
+fonts, Ani, MitraMono, Mukti and Mukti Narrow. Mukti had to be
+withdrawn due to copywrite issues with the base glyphs, (which
+belonged to Linotype Bengali, which were later used by Microsoft and
+Monotype to createSonar Bangla font for Windows). However,
+MuktiNarrow was well appreciated and was used by Ankur Project as
+default UI font when they came out with AnkurOs, world's first
+operating system with a Bangla user interface.  Even now version 0.94
+of Mukti Narrow is available with Bengali pack of all Debian and
+Fedora based Linux distros. I wrote about my journey in an article in
+https://opensource.com/2020/Nov/Linux/bengali</p>
+<p> 
+</p>
+<p>When Corona Pandemic drastically reduced patients in my chamber, I
+thought of using some of the free time to upgrade the font, now
+renamed only Mukti. Previous two such attempts in 2006 with version
+1.99 and in 2015 with version 2.01  resulted in appearance of more
+bugs than usefullness mainly due to hatiness with which I did it.
+Moreover the reluctance of indic group of Debian to incorporate the
+newer version in stead of the old one also damped my morale. This
+time however I took my time and tried to remove as much bugs as
+possible with  introduction of newer features .</p>
+<p>Here are the most important changes in Mukti Version 3.0 compared
+to MuktiNarrow 0.94 
+</p>
+<p><br/>
+<br/>
+
+</p>
+<p>1. Shift to Open Source editor: - MuktiNarrow was developed using
+FontCreatorProgram and Microsoft VOLT in Windows98. Mukti is
+re-edited in open source font editor Fontforge  in Ubuntu Linux. Now
+I can proudly say No non-free/ closed source programs are used in
+creating the font. 
+</p>
+<p>2, Change in tecnical matrix:- As a result of change in editors
+the EM of the font is changed from 2048 to 1000 and the curves are
+saved as cubic bezier which are converted to quadratic during
+production of q</p>
+<p>3. Upgrade to Unicode 14.0 standard - MuktiNarrow was created at
+times when Unicode version 4.0 was in vogue. A few characters are
+added in Bengali block since then, notably Khanda Ta, Abbreviation
+mark etc . They are added in the font.</p>
+<p>4. Shift from Version 1 to Version 2 of Bengali OpenType Font
+specification : - This required complete overhauling of the OpenType
+GSUB tables. However it will help in proper postioning of reph and
+left sided matras in case an conjuct is absent in font, 
+</p>
+<p>5. Support for Assamese language forms which was absent in Mukti
+Narrow is added  in this version 
+</p>
+<p>6. Both traditional and modern form of conjucts available as
+alternate 
+</p>
+<p>7. Vedic Stress marks to indicate voice modulation for writing
+Vedic hymns in Bangla as well as musical notations  
+</p>
+<p>8. Addition of autohinting by Fontforge:-  will make the font look
+crisper in small points in screen compared to MuktiNarrow which was
+not hinted and Antialiased in all sizes. 
+</p>
+<p>8. Various bugfixes and addition of few new conjuncts , 
+</p>
+</body>
 </html>
