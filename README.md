@@ -1,7 +1,8 @@
 MUKTI OPEN SOURCE OPEN TYPE BANGLA FONT
 =======================================
 
-﻿This is a font made by using good quality glyphs of GPLed font bng2-n from Cyberscape Multimedia <www.akruti.com/freedom>. It is made for Mukta Bangla Font project.
+﻿This is a font made by using good quality glyphs of GPLed font bng2-n from Cyberscape Multimedia 
+<https://web.archive.org/web/20021113130716/http://www.akruti.com/freedom/>. It is made for Mukta Bangla Font project.
 * created using MuktiNarrow*ttf created for Free bangla Font Project
  * now edited using fontforge and source saved in .sfd format
  * converted to cubic spline from quadratic ones

@@ -30889,12 +30889,11 @@ SplineSet
  91 99 96.008413087 103.981838415 109 110 c 2
  245 173 l 2
 EndSplineSet
-LCarets2: 2 0 0
-Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099f u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099f u09cd u09ac
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099f u09cd u09f1
 EndChar
 
-StartChar: NameMe.569
+StartChar: u099f_u09cd_u09ae.cjct
 Encoding: 569 -1 567
 Width: 711
 Flags: HW
