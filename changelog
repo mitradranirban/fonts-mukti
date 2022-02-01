@@ -1,0 +1,22 @@
+changelog
+
+* Version 3.0.1 Fri Jan 28 2022 21:42:16 +0530  Dr Anirban Mitra  - 
+- Change in EM square from 2048 to 1000
+- Upgrade from Unicode 4.0 to Unicode 14.0 standard for Bengali
+- shift from version 1 to version 2 of Bengali OpenType specification
+- support for Assamese language
+- support for both traditional and modern form of conjunts 
+- addition of vedic stress marks
+- removal of Latin glyphs
+- removal of references and over lapping 
+- addition of missing conjuncts 
+- various bugfixes 
+* Version 2.1.0 Wed Sep 19 2018 20:02:43 +0530  Dr Anirban Mitra  - 
+- added Open type tables to font
+* Version  2.0.0 ;  Tue Nov 10 2015 07:16:51 +0530 Dr Anirban Mitra  -
+- Removed Bengali namespace error of double utf-8 encoding
+* Version 1.9.9 Thu Jan 26 2006 +00:00:00 +0530 Dr Anirban Mitra <mitra_anirban@yahoo.co.in> -
+- Created Mukti from MuktiNarrow 
+- Converted splines from quadratic to cubic
+- saved source in fontforge sfd format 
+- removed microsoft volt tables from font  
