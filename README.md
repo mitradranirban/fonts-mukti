@@ -6,4 +6,4 @@ This is a one of the earliest Open Source OpenType Bengali / Bangla font It was 
 
 For detail of changes in version 3.0 please visit https://mitradranirban.github.io/fonts-mukti 
 
-This version is going to be a part of debian package fonts-beng-extra
+This version is a part of debian package fonts-beng-extra
