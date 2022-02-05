@@ -1,3 +1,6 @@
 index.html
-pics
-_*
+pics/
+_layouts/
+_site/
+.github/
+.config.yml
