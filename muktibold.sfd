@@ -5,7 +5,7 @@ FamilyName: Mukti
 Weight: Bold
 Copyright: GNU GPL3+ (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-22. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
 FontLog: "muktiregular3.0beta1"
-Version: 3.0.3 February1,2024
+Version: 3.0.3 Feb 11,2024
 ItalicAngle: 0
 UnderlinePosition: -166
 UnderlineWidth: 73
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1138213189
-ModificationTime: 1706585441
+ModificationTime: 1707491471
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -94,7 +94,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 378 18 7
+WinInfo: 531 9 6
 BeginPrivate: 6
 BlueValues 31 [-23 0 524 539 709 709 729 741]
 OtherBlues 11 [-218 -218]
@@ -30062,7 +30062,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.65945
+StartChar: u09bf.salt
 Encoding: 563 -1 561
 Width: 245
 Flags: W
@@ -30104,7 +30104,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.65946
+StartChar: u09c0.salt
 Encoding: 564 -1 562
 Width: 243
 Flags: W
@@ -30148,7 +30148,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.65947
+StartChar: u09ae_u09cd_u09a4.cjct
 Encoding: 565 -1 563
 Width: 485
 Flags: W
@@ -30224,9 +30224,10 @@ SplineSet
  495 595 l 1
  480.376043053 595 465.752086105 595 451.128129158 595 c 1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09a4
 EndChar
 
-StartChar: NameMe.65948
+StartChar: u09ae_u09cd_u09a6.cjct
 Encoding: 566 -1 564
 Width: 597
 Flags: W
@@ -30302,9 +30303,10 @@ SplineSet
  32.1770431514 358.661643705 31 371.774936934 31 383 c 0
  31 435.768510145 59.8032549494 477.329871932 111.736016793 506.784191943 c 1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09a6
 EndChar
 
-StartChar: NameMe.65949
+StartChar: u09ae_u09cd_u09b9.cjct
 Encoding: 567 -1 565
 Width: 473
 Flags: W
@@ -30380,9 +30382,10 @@ SplineSet
  472.143672752 567.647721434 488 521.669639386 488 479 c 0
  488 428.012395866 469.880408711 388.173349065 433.704569361 364.440538656 c 1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09b9
 EndChar
 
-StartChar: NameMe.65950
+StartChar: u099f_u09cd_u09ac.cjct
 Encoding: 568 -1 566
 Width: 525
 Flags: W
@@ -30478,9 +30481,10 @@ SplineSet
  392.236525981 263.861754557 l 1
  392.901614514 262.001447009 l 1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099f u09cd u09ac
 EndChar
 
-StartChar: NameMe.65951
+StartChar: u099f_09cd_09ae.cjct
 Encoding: 569 -1 567
 Width: 711
 Flags: W
@@ -30594,9 +30598,10 @@ SplineSet
  415.402697488 281.323104247 416.829109392 279.983942226 418.149522463 277.468736288 c 0
  418.567290893 276.672944685 419.870245679 275.374001196 419.870245679 270.480435963 c 0
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099f u09cd u09ae
 EndChar
 
-StartChar: NameMe.65952
+StartChar: u09b2_u09cd_u09a4.cjct
 Encoding: 570 -1 568
 Width: 556
 Flags: W
@@ -30675,9 +30680,10 @@ SplineSet
  225.759279613 588.106627755 243.300187126 577.371372049 259.959169436 563.203922001 c 1
  275.032106785 578.450481358 291.512950962 589.202350777 308.790178711 595 c 1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09a4
 EndChar
 
-StartChar: NameMe.65953
+StartChar: u09b2_u09cd_u09a7.cjct
 Encoding: 571 -1 569
 Width: 554
 Flags: W
@@ -30770,9 +30776,10 @@ SplineSet
  328.84772964 121.849068093 l 1
  403 63.0386467734 l 1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09a7
 EndChar
 
-StartChar: NameMe.65954
+StartChar: u09a7_u09cd_u09ae.cjct
 Encoding: 572 -1 570
 Width: 532
 Flags: W
@@ -30852,9 +30859,10 @@ SplineSet
  211.008096871 267.632153493 l 1
  213.525644213 274 l 1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a7 u09cd u09ae
 EndChar
 
-StartChar: NameMe.573
+StartChar: u09b2_u09cd_u09ad.cjct
 Encoding: 573 -1 571
 Width: 564
 Flags: W
@@ -30942,9 +30950,10 @@ SplineSet
  225.759279613 588.106627755 243.300187126 577.371372049 259.959169436 563.203922001 c 1
  275.032106785 578.450481358 291.512950962 589.202350777 308.790178711 595 c 1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09ad
 EndChar
 
-StartChar: NameMe.574
+StartChar: u09b6_u09cd_u09a4.cjct
 Encoding: 574 -1 572
 Width: 540
 Flags: W
@@ -31037,9 +31046,10 @@ SplineSet
  327.23376679 372.158048806 362.641690479 389.580945445 407.077937828 395 c 1
  408 395 l 2
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09a4
 EndChar
 
-StartChar: NameMe.575
+StartChar: u09b7_u09cd_u09aa_u09b0.cjct
 Encoding: 575 -1 573
 Width: 964
 Flags: W
@@ -31120,9 +31130,11 @@ SplineSet
  489 587 532 608 577 608 c 0x1d80
  622 608 666 587 711 544 c 1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09aa u09cd u09f0
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09aa u09cd u09b0
 EndChar
 
-StartChar: NameMe.576
+StartChar: u09b7_u09cd_u09ac.cjct
 Encoding: 576 -1 574
 Width: 357
 Flags: W
@@ -31168,6 +31180,8 @@ SplineSet
  238 248.065793013 l 1
  148.470636395 200.588100191 l 1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09f1
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09ac
 EndChar
 EndChars
 EndSplineFont

@@ -3,9 +3,9 @@ FontName: Mukti
 FullName: Mukti
 FamilyName: Mukti
 Weight: Medium
-Copyright: GNU GPL3+ (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-22. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
+Copyright: GNU GPL3+ (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-24. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
 FontLog: "muktiregular3.0beta1"
-Version: 3.0.3 February 1 2024
+Version: 3.0.3 Feb 11, 2024
 ItalicAngle: 0
 UnderlinePosition: -166
 UnderlineWidth: 73
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1138213189
-ModificationTime: 1706585540
+ModificationTime: 1707491487
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -94,10 +94,10 @@ LangName: 1033 "GNU GPL3+- +AKkA Mukta Bangla Font Project 2002-2022 Free Softwa
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -48
+DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 351 27 9
+WinInfo: 536 8 7
 BeginPrivate: 6
 BlueValues 31 [-23 0 524 539 709 709 729 741]
 OtherBlues 11 [-218 -218]
@@ -7725,6 +7725,7 @@ SplineSet
  355 115 l 1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09b7 u09cd
 EndChar
 
@@ -19969,6 +19970,7 @@ SplineSet
  96 486 93 476 93 465 c 0
 EndSplineSet
 Validated: 549
+LCarets2: 4 0 0 0 0
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a4 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a4 u09cd u09ac
 EndChar
@@ -31205,6 +31207,7 @@ SplineSet
  211.095703125 278.831054688 212 276.580078125 212 274 c 2
  212 280.890625 l 2
 EndSplineSet
+LCarets2: 2 0 0
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a7 u09cd u09ae
 EndChar
 
@@ -31354,6 +31357,7 @@ SplineSet
  303 313 308 323 315 332 c 0
  336 359 367 375 408 380 c 0
 EndSplineSet
+LCarets2: 2 0 0
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09a4
 EndChar
 
@@ -31438,10 +31442,11 @@ SplineSet
  489 587 532 608 577 608 c 0x1d80
  622 608 666 587 711 544 c 1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09aa_u09b0_u09cd.blwf.vatu
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09aa u09cd u09f0
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09aa u09cd u09b0
 EndChar
 
-StartChar: NameMe.576
+StartChar: u09b7_u09cd_u09ac.cjct
 Encoding: 576 -1 574
 Width: 357
 Flags: W
@@ -31489,8 +31494,9 @@ SplineSet
  121 203 l 1
  253 100 l 1xe0
 EndSplineSet
-LCarets2: 2 0 0
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09ac
+LCarets2: 2 0 0
 EndChar
 EndChars
 EndSplineFont
