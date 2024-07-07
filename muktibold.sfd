@@ -3,9 +3,9 @@ FontName: muktibold
 FullName: Mukti Bold
 FamilyName: Mukti
 Weight: Bold
-Copyright: GNU GPL3+ (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-22. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
+Copyright: GNU GPL3+ FE (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-22. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
 FontLog: "muktiregular3.0beta1+AAoACgAA-version3.0.2"
-Version: 3.0.3 Feb 11,2024
+Version: 3.4.0 Feb 11,2024
 ItalicAngle: 0
 UnderlinePosition: -166
 UnderlineWidth: 73
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1138213189
-ModificationTime: 1707491471
+ModificationTime: 1720334746
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -300,7 +300,7 @@ SplineSet
  493 602 l 1
  508 572 516 537 517 498 c 1xdc
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: percent
@@ -358,7 +358,7 @@ SplineSet
  22 576 44 622 89 659 c 0
  123 687 162 701 206 701 c 0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: ampersand
@@ -415,7 +415,7 @@ SplineSet
  516 286 526 325 526 363 c 2
  526 373 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: quotesingle
@@ -569,7 +569,7 @@ SplineSet
  64 0 l 1
  64 146 l 1xe0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: period
@@ -664,7 +664,7 @@ SplineSet
  238 0 l 1
  238 489 l 1xf0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: two
@@ -747,7 +747,7 @@ SplineSet
  299 310 l 1
  280 315 253 317 217 317 c 1xf2
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: four
@@ -940,7 +940,7 @@ SplineSet
  501 483 486 445 455 416 c 0
  446 407 430 397 409 386 c 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: nine
@@ -1037,7 +1037,7 @@ SplineSet
  113 0 l 1
  113 146 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: less
@@ -1146,7 +1146,7 @@ SplineSet
  404 298 385 279 378 266 c 0
  372 253 369 232 369 201 c 1xec
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: at
@@ -1239,7 +1239,7 @@ SplineSet
  66 729 l 1
  308 729 l 1xe0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: backslash
@@ -1280,7 +1280,7 @@ SplineSet
  260 -200 l 1
  18 -200 l 1xe0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: asciicircum
@@ -1507,7 +1507,7 @@ SplineSet
  254 615 l 1
  254 585 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: doubledanda
@@ -1545,7 +1545,7 @@ SplineSet
  185.643719917 619.501670533 l 1
  185.999732952 535.126581152 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: u0981
@@ -1842,7 +1842,7 @@ SplineSet
  110 776 l 1
  110 776 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u0988
@@ -1905,7 +1905,7 @@ SplineSet
  637 673 l 1
  637 590 l 1xf5
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u0989
@@ -1964,7 +1964,7 @@ SplineSet
  306 776 l 1
  305 776 l 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 EndChar
 
 StartChar: u098a
@@ -2026,7 +2026,7 @@ SplineSet
  787 673 l 1
  787 590 l 1xf580
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u098b
@@ -2126,7 +2126,7 @@ SplineSet
  472 487 571 393 571 273 c 0
  571 251 568 228 561 203 c 1xd8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u098f
@@ -2173,7 +2173,7 @@ SplineSet
  597 609 610 575 610 532 c 2
  610 67 l 2x7c
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: u0990
@@ -2236,7 +2236,7 @@ SplineSet
  704 391 661 358 610 343 c 1
  610 67 l 2x7f80
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u0993
@@ -2283,7 +2283,7 @@ SplineSet
  663 579 681 537 681 488 c 0
  681 450 669 413 644 378 c 1xf8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u0994
@@ -2349,7 +2349,7 @@ SplineSet
  644 378 l 0
  645 378 l 2
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u0995
@@ -2860,7 +2860,7 @@ SplineSet
  691 350 710 319 734 293 c 0
  763 260 792 246 821 251 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u099f
@@ -2964,7 +2964,7 @@ SplineSet
  516 673 l 1
  516 590 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: u09a1
@@ -3189,7 +3189,7 @@ SplineSet
  575 673 l 1
  575 590 l 1x78
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09a6
@@ -3673,7 +3673,7 @@ SplineSet
  695 673 l 1
  695 590 l 1xdc
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09b6
@@ -3981,7 +3981,7 @@ SplineSet
  191 939 252 954 316 954 c 0
  445 954 552 897 638 783 c 1xf0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: u09c0
@@ -4023,7 +4023,7 @@ SplineSet
  230 673 l 1
  230 590 l 1xf0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09c1
@@ -4097,7 +4097,7 @@ SplineSet
  -66 -38 -59 -41 -54 -47 c 1
  87 -139 l 2xd0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09c3
@@ -4408,7 +4408,7 @@ SplineSet
  9 562.486722019 31.5321665785 610.484003455 74.0913109174 648.442159217 c 0
  112.142048514 682.016339449 154.810016538 701 201.357092256 701 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Colour: ff0000
 EndChar
 
@@ -4552,7 +4552,7 @@ SplineSet
  238 -8 248 -13 257 -21 c 0
  266 -29 271 -39 271 -51 c 0xe8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'nukt' Nukta Forms in Bengali lookup 1 subtable" u09a2 u09bc
 EndChar
 
@@ -4664,7 +4664,7 @@ SplineSet
  638 688 652 681 652 666 c 2
  652 169 l 2
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09e1
@@ -4742,7 +4742,7 @@ SplineSet
  472 487 571 393 571 273 c 0xe980
  571 251 568 228 561 203 c 1xc140
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09e2
@@ -4790,7 +4790,7 @@ SplineSet
  189 195 229 157 229 109 c 0
  229 100 227 91 224 81 c 0xd8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09e3
@@ -4875,7 +4875,7 @@ SplineSet
  -171 230 -188 236 -193 239 c 0
  -207 246 -213 254 -212 262 c 0xcdc0
 EndSplineSet
-Validated: 8388649
+Validated: 41
 EndChar
 
 StartChar: u09e6
@@ -5193,7 +5193,7 @@ SplineSet
  407 264 405 230 405 209 c 0xf0
  405 142 417 109 442 110 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09ee
@@ -5239,7 +5239,7 @@ SplineSet
  627 495 631 484 631 472 c 0
  631 459 626 449 617 440 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09ef
@@ -5287,7 +5287,7 @@ SplineSet
  472 487 571 393 571 273 c 0
  571 251 568 228 561 203 c 1xd8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09f0
@@ -5459,7 +5459,7 @@ SplineSet
  584.359108653 274.567345381 607.407290505 260.680452664 629.026350473 241.337083219 c 0
  662.293739613 211.511148128 683 174.61568711 683 134 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: u09f4
@@ -5617,7 +5617,7 @@ SplineSet
  81.4031427883 453.849560583 105.529982152 434.404875863 112.111673673 423.536009727 c 2
  143.231905841 382.530527342 l 1
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar
 
 StartChar: u09f9
@@ -5652,7 +5652,7 @@ SplineSet
  177 345.246073229 172.292809949 356.347006616 158.361892493 367.491740581 c 0
  149.299605456 374.612108968 140.082089651 377.862206369 128.340057819 378.000132234 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: u09fa
@@ -5691,7 +5691,7 @@ SplineSet
  288.723207387 846.538728447 l 1
  294.790377159 843.100665575 l 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: zwnj
@@ -5961,7 +5961,7 @@ SplineSet
  -53.8238643823 685.839990848 -75.7591589364 676.417512996 -101.280021606 670.167505811 c 1
  -106.795438301 669.861093773 -112.598273742 669.626930588 -118.071143262 669.626930588 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bn_ja_nya.akhnd
@@ -6099,7 +6099,7 @@ SplineSet
  837 673 l 1
  837 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'akhn' Akhand in Bengali lookup 2 subtable" u0995 u09cd u09b7
 EndChar
 
@@ -6165,7 +6165,7 @@ SplineSet
  790 673 l 1
  790 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09b9_u09cd_u09ae.salt
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b9 u09cd u09ae
 EndChar
@@ -6220,7 +6220,7 @@ SplineSet
  690 673 l 1
  690 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09a4
 EndChar
 
@@ -6369,7 +6369,7 @@ SplineSet
  709 -121 l 1
  544 0 l 1
 EndSplineSet
-Validated: 8388649
+Validated: 41
 Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u0997 u09cd
 EndChar
 
@@ -6771,7 +6771,7 @@ SplineSet
  763 -121 l 1
  598 0 l 1
 EndSplineSet
-Validated: 8388649
+Validated: 41
 Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u099e u09cd
 EndChar
 
@@ -6883,7 +6883,7 @@ SplineSet
  475 -101 l 1
  310 20 l 1
 EndSplineSet
-Validated: 8388617
+Validated: 9
 Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09a0 u09cd
 EndChar
 
@@ -7025,7 +7025,7 @@ SplineSet
  622 -125 l 1
  457 -5 l 1
 EndSplineSet
-Validated: 8388617
+Validated: 9
 Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09a3 u09cd
 EndChar
 
@@ -7128,7 +7128,7 @@ SplineSet
  690 -116 l 1
  525 5 l 1
 EndSplineSet
-Validated: 8388649
+Validated: 41
 Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09a5 u09cd
 EndChar
 
@@ -7658,7 +7658,7 @@ SplineSet
  753 -135 l 1
  588 -15 l 1
 EndSplineSet
-Validated: 8388649
+Validated: 41
 EndChar
 
 StartChar: u09b6_u09cd.haln
@@ -7859,7 +7859,7 @@ SplineSet
  573 -179 l 1
  408 -59 l 1
 EndSplineSet
-Validated: 8388649
+Validated: 41
 Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09b9 u09cd
 EndChar
 
@@ -7918,7 +7918,7 @@ SplineSet
  724 -145 l 1
  559 -24 l 1
 EndSplineSet
-Validated: 8388649
+Validated: 41
 Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09dc u09cd
 EndChar
 
@@ -7973,7 +7973,7 @@ SplineSet
  587 -130 l 1
  422 -10 l 1
 EndSplineSet
-Validated: 8388649
+Validated: 41
 Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09dd u09cd
 EndChar
 
@@ -8172,7 +8172,7 @@ SplineSet
  734 -130 l 1
  569 -10 l 1
 EndSplineSet
-Validated: 8388649
+Validated: 41
 Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" bn_ka_ssa.akhn u09cd
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" bn_ka_ssa.akhn u09cd zwj
 EndChar
@@ -8263,7 +8263,7 @@ SplineSet
  -74 111 l 1
  -74 -10 l 2x90
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'blwf' Below Base Forms in Bengali2 lookup 4 subtable" u09cd u09f0
 Ligature2: "'blwf' Below Base Forms in Bengali2 lookup 4 subtable" u09cd u09b0
 EndChar
@@ -8365,7 +8365,7 @@ SplineSet
  593 673 l 1
  611 673 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u0995_u09cd_u09b0.salt
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u0995 u09b0_u09cd.blwf
 EndChar
@@ -8425,7 +8425,7 @@ SplineSet
  632 673 l 1
  632 590 l 1x9d
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u0996 u09b0_u09cd.blwf
 EndChar
 
@@ -8486,7 +8486,7 @@ SplineSet
  624 673 l 1
  624 589 l 1x1640
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u0997 u09b0_u09cd.blwf
 EndChar
 
@@ -8545,7 +8545,7 @@ SplineSet
  546 673 l 1
  546 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u0998 u09b0_u09cd.blwf
 EndChar
 
@@ -8621,7 +8621,7 @@ SplineSet
  338 651 368 668 398 671 c 0
  444 676 482 654 514 606 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u0999 u09b0_u09cd.blwf
 EndChar
 
@@ -8684,7 +8684,7 @@ SplineSet
  345 253 360 294 360 330 c 0
  360 339 359 347 357 355 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u099a u09b0_u09cd.blwf
 EndChar
 
@@ -8756,7 +8756,7 @@ SplineSet
  250 302 280 319 317 353 c 0
  354 387 371 415 368 435 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u099b u09b0_u09cd.blwf
 EndChar
 
@@ -8822,7 +8822,7 @@ SplineSet
  672 673 l 1
  672 590 l 1x3f
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u099c u09b0_u09cd.blwf
 EndChar
 
@@ -8880,7 +8880,7 @@ SplineSet
  328 179 l 1x9a
  336 179 l 1x96
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u099d u09b0_u09cd.blwf
 EndChar
 
@@ -8967,7 +8967,7 @@ SplineSet
  610 81 l 1
  610 -70 l 2x1f80
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u099e u09b0_u09cd.blwf
 EndChar
 
@@ -9040,7 +9040,7 @@ SplineSet
  555 671 l 1
  555 588 l 1x7f80
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u099f u09b0_u09cd.blwf
 EndChar
 
@@ -9107,7 +9107,7 @@ SplineSet
  516 673 l 1
  516 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a0 u09b0_u09cd.blwf
 EndChar
 
@@ -9170,7 +9170,7 @@ SplineSet
  734 673 l 1
  734 590 l 1x7f80
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a1 u09b0_u09cd.blwf
 EndChar
 
@@ -9230,7 +9230,7 @@ SplineSet
  523 670 l 1
  523 587 l 1x7c
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a2 u09b0_u09cd.blwf
 EndChar
 
@@ -9285,7 +9285,7 @@ SplineSet
  523 673 l 1
  523 590 l 1x2e
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a3 u09b0_u09cd.blwf
 EndChar
 
@@ -9338,7 +9338,7 @@ SplineSet
  611 673 l 1
  611 590 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09a4_u09b0_u09cd.vatu.salt
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a4 u09b0_u09cd.blwf
 EndChar
@@ -9396,7 +9396,7 @@ SplineSet
  575 673 l 1
  575 590 l 1x0f
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a5 u09b0_u09cd.blwf
 EndChar
 
@@ -9445,7 +9445,7 @@ SplineSet
  447 673 l 1
  447 590 l 1x78
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a6 u09b0_u09cd.blwf
 EndChar
 
@@ -9502,7 +9502,7 @@ SplineSet
  484 673 l 1
  484 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a7 u09b0_u09cd.blwf
 EndChar
 
@@ -9561,7 +9561,7 @@ SplineSet
  526 673 l 1
  526 589 l 1x3d
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a8 u09b0_u09cd.blwf
 EndChar
 
@@ -9622,7 +9622,7 @@ SplineSet
  672 673 l 1
  672 589 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09aa u09b0_u09cd.blwf
 EndChar
 
@@ -9682,7 +9682,7 @@ SplineSet
  694 673 l 1
  694 590 l 1x3f
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09ab u09b0_u09cd.blwf
 EndChar
 
@@ -9730,7 +9730,7 @@ SplineSet
  487 673 l 1
  487 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09ac u09b0_u09cd.blwf
 EndChar
 
@@ -9846,7 +9846,7 @@ SplineSet
  480 673 l 1
  480 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09ae u09b0_u09cd.blwf
 EndChar
 
@@ -9898,7 +9898,7 @@ SplineSet
  496 673 l 1
  496 590 l 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09af u09b0_u09cd.blwf
 EndChar
 
@@ -9956,7 +9956,7 @@ SplineSet
  328 169 l 1x8e
  333 169 l 1x8d
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09b0 u09b0_u09cd.blwf
 EndChar
 
@@ -10017,7 +10017,7 @@ SplineSet
  561 673 l 1
  561 590 l 1x7d
 EndSplineSet
-Validated: 8388641
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09b2 u09b0_u09cd.blwf
 EndChar
@@ -10082,7 +10082,7 @@ SplineSet
  661 590 l 1
  567 592 l 1x7d
 EndSplineSet
-Validated: 8388641
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09b6 u09b0_u09cd.blwf
 EndChar
@@ -10135,7 +10135,7 @@ SplineSet
  496 673 l 1
  496 590 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09b7 u09b0_u09cd.blwf
 EndChar
 
@@ -10196,7 +10196,7 @@ SplineSet
  578 673 l 1
  578 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09b8 u09b0_u09cd.blwf
 EndChar
 
@@ -10258,7 +10258,7 @@ SplineSet
  453 589 l 1
  291 589 l 1x1c
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09b9 u09b0_u09cd.blwf
 EndChar
 
@@ -10343,7 +10343,7 @@ SplineSet
  890 673 l 1
  890 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: bn_ka_ssa.akhn_bn_raphala.vatu
@@ -10419,7 +10419,7 @@ SplineSet
  837 673 l 1
  837 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" bn_ka_ssa.akhn u09b0_u09cd.blwf
 EndChar
 
@@ -10489,7 +10489,7 @@ SplineSet
  690 673 l 1
  690 590 l 1
 EndSplineSet
-Validated: 8389153
+Validated: 545
 EndChar
 
 StartChar: u0995_u09cd_u0995.cjct
@@ -10703,7 +10703,7 @@ SplineSet
  630 673 l 1
  690 673 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u0995_u09cd_u09a4.salt
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u09a4
 EndChar
@@ -10767,7 +10767,7 @@ SplineSet
  586 673 l 1
  586 590 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u09a8
 EndChar
 
@@ -10838,7 +10838,7 @@ SplineSet
  542 590 l 1
  410 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u09ae
 EndChar
 
@@ -10908,7 +10908,7 @@ SplineSet
  281 385 l 1x9d
  282 386 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u09b2
 EndChar
 
@@ -11052,7 +11052,7 @@ SplineSet
  837 673 l 1
  837 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" bn_ka_ssa.akhn u09cd u09a8
 EndChar
 
@@ -11133,7 +11133,7 @@ SplineSet
  757 673 l 1
  757 589 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" bn_ka_ssa.akhn u09cd u09ae
 EndChar
 
@@ -11202,7 +11202,7 @@ SplineSet
  515 673 l 1
  515 590 l 1xd2
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u0997
 EndChar
 
@@ -11263,7 +11263,7 @@ SplineSet
  515 673 l 1
  515 590 l 1xd4
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09a4
 EndChar
 
@@ -11325,7 +11325,7 @@ SplineSet
  774 668 l 1
  774 585 l 1x9a
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09a6
 EndChar
 
@@ -11404,7 +11404,7 @@ SplineSet
  585 120 592 110 592 96 c 0
  592 84 587 72 575 60 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09a7
 EndChar
 
@@ -11465,7 +11465,7 @@ SplineSet
  515 673 l 1
  515 590 l 1xe5
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u0997_u09cd_u09ae.cjct
@@ -11530,7 +11530,7 @@ SplineSet
  515 590 l 1
  484 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09ae
 EndChar
 
@@ -11596,7 +11596,7 @@ SplineSet
  515 673 l 1
  515 590 l 1x96
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09b2
 EndChar
 
@@ -11664,7 +11664,7 @@ SplineSet
  439 535 451 546 452 564 c 0xdd
  452 572 448 581 441 590 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u0999_u09cd_u0995.salt
 EndChar
 
@@ -11734,7 +11734,7 @@ SplineSet
  802 673 l 1
  802 590 l 1xb8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0999 u09cd u0996
 EndChar
 
@@ -11802,7 +11802,7 @@ SplineSet
  577 673 l 1
  577 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u0999_u09cd_u0997.salt
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0999 u09cd u0997
 EndChar
@@ -11877,7 +11877,7 @@ SplineSet
  348 587 l 2
  348 587 l 2x9780
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099a u09cd u099b
 EndChar
 
@@ -11962,7 +11962,7 @@ SplineSet
  509 350 539 365 570 365 c 0
  604 365 633 346 658 307 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099a u09cd u099e
 EndChar
 
@@ -12049,7 +12049,7 @@ SplineSet
  660 553 l 1
  660 553 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099c u09cd u099c
 EndChar
@@ -12187,7 +12187,7 @@ SplineSet
  161 322 l 1
  351 152 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u099e_u09cd_u099a.salt
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099e u09cd u099a
 EndChar
@@ -12270,7 +12270,7 @@ SplineSet
  435 180 412 143 365 113 c 1
  414 89 484 44 577 -19 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099e u09cd u099b
 EndChar
 
@@ -12357,7 +12357,7 @@ SplineSet
  481 382 510 365 541 365 c 0
  545 365 549 365 554 366 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099e u09cd u099c
 EndChar
 
@@ -12441,7 +12441,7 @@ SplineSet
  496 643 530 658 566 658 c 0
  607 658 639 639 664 600 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099e u09cd u099d
 EndChar
 
@@ -12507,7 +12507,7 @@ SplineSet
  526 673 l 1
  526 590 l 1xf680
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099f u09cd u099f
 EndChar
 
@@ -12579,7 +12579,7 @@ SplineSet
  637 590 l 1
  436 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a1 u09cd u09a1
 EndChar
 
@@ -12642,7 +12642,7 @@ SplineSet
  760 673 l 1
  760 590 l 1xef40
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a3 u09cd u099f
 EndChar
 
@@ -12700,7 +12700,7 @@ SplineSet
  620 673 l 1
  620 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a3 u09cd u09a0
 EndChar
 
@@ -12876,7 +12876,7 @@ SplineSet
  453 673 l 1
  453 592 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09a8
 EndChar
 
@@ -12947,7 +12947,7 @@ SplineSet
  324 436 329 447 329 459 c 0
  329 477 320 494 300 510 c 0xd4c0
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09ae
 EndChar
 
@@ -13070,7 +13070,7 @@ SplineSet
  529 96 536 86 536 72 c 0
  536 60 531 47 519 35 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09a7
 EndChar
 
@@ -13126,7 +13126,7 @@ SplineSet
  574 673 l 1
  574 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09ae
 EndChar
 
@@ -13187,7 +13187,7 @@ SplineSet
  389 149 l 1
  389 149 l 1xbc
 EndSplineSet
-Validated: 8388613
+Validated: 5
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0998 u09cd u09a8
 EndChar
 
@@ -13306,7 +13306,7 @@ SplineSet
  278 396 l 1
  282 399 l 1xd8
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u09ac
 EndChar
@@ -13361,7 +13361,7 @@ SplineSet
  272 191 l 1
  365 119 l 1x28
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09ac
 EndChar
@@ -13608,7 +13608,7 @@ SplineSet
  167 164 l 1
  260 92 l 1xf8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09ac
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09f1
 EndChar
@@ -13659,7 +13659,7 @@ SplineSet
  211 179 l 1
  304 106 l 1xe8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09ac
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09f1
 EndChar
@@ -13721,7 +13721,7 @@ SplineSet
  663 590 l 1
  381 590 l 1xb8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a7 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a7 u09cd u09ac
 EndChar
@@ -13775,7 +13775,7 @@ SplineSet
  199 188 l 1
  292 116 l 1xe8
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09ac
 EndChar
@@ -13835,7 +13835,7 @@ SplineSet
  292 191 l 1
  384 119 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09ac
 EndChar
@@ -13952,7 +13952,7 @@ SplineSet
  290 196 l 1
  382 124 l 1xe8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09ac
 EndChar
@@ -14012,7 +14012,7 @@ SplineSet
  324 213 l 1
  416 141 l 1x30
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09ac
 EndChar
@@ -14068,7 +14068,7 @@ SplineSet
  455 673 l 1
  455 590 l 1xfa
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09a8
 EndChar
 
@@ -14128,7 +14128,7 @@ SplineSet
  484 673 l 1
  484 590 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a7 u09cd u09a8
 EndChar
 
@@ -14187,7 +14187,7 @@ SplineSet
  444 673 l 1
  444 590 l 1xfc
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a4
 EndChar
 
@@ -14261,7 +14261,7 @@ SplineSet
  444 673 l 1
  444 590 l 1x7b40
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: u09a8_u09cd_u09a4_u09c1.blws
@@ -14329,7 +14329,7 @@ SplineSet
  444 673 l 1
  444 590 l 1xf7
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a8_u09cd._u09a4.cjct u09c1
 EndChar
 
@@ -14394,7 +14394,7 @@ SplineSet
  444 673 l 1
  444 590 l 1xf4
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a5
 EndChar
 
@@ -14526,7 +14526,7 @@ SplineSet
  517 106 524 96 524 82 c 0
  524 70 518 57 506 45 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a7
 EndChar
 
@@ -14586,7 +14586,7 @@ SplineSet
  444 673 l 1
  444 590 l 1xf5
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a8
 EndChar
 
@@ -14651,7 +14651,7 @@ SplineSet
  444 590 l 1
  416 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09ae
 EndChar
 
@@ -14718,7 +14718,7 @@ SplineSet
  353 440 369 445 386 445 c 0
  419 445 456 425 497 387 c 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09b8
 EndChar
 
@@ -14783,7 +14783,7 @@ SplineSet
  770 673 l 1
  770 590 l 1xee
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09a4
 EndChar
 
@@ -14852,7 +14852,7 @@ SplineSet
  226 162 l 1
  311 246 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09aa
 EndChar
 
@@ -14922,7 +14922,7 @@ SplineSet
  561 590 l 1
  526 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09ae
 EndChar
 
@@ -14988,7 +14988,7 @@ SplineSet
  510 675 l 1
  510 592 l 1xea
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09a8
 EndChar
 
@@ -15059,7 +15059,7 @@ SplineSet
  512 673 l 1
  512 590 l 1x92
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09b2
 EndChar
 
@@ -15129,7 +15129,7 @@ SplineSet
  694 673 l 1
  694 590 l 1x9fa0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ab u09cd u09b2
 EndChar
 
@@ -15206,7 +15206,7 @@ SplineSet
  689 411 l 1
  814 535 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09aa
 EndChar
 
@@ -15286,7 +15286,7 @@ SplineSet
  710 554 746 547 773 533 c 0
  800 519 825 494 846 459 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09ab
 EndChar
 
@@ -15357,7 +15357,7 @@ SplineSet
  710 673 l 1
  710 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09ad
 EndChar
 
@@ -15421,7 +15421,7 @@ SplineSet
  217 255 256 235 287 199 c 1
  287 258 l 1xdb
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09a8
 EndChar
 
@@ -15493,7 +15493,7 @@ SplineSet
  480 590 l 1
  460 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09ae
 EndChar
 
@@ -15564,7 +15564,7 @@ SplineSet
  480 673 l 1
  480 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09b2
 EndChar
 
@@ -15636,7 +15636,7 @@ SplineSet
  589 673 l 1
  589 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09b2_u09cd_u0995.cjct
@@ -15709,7 +15709,7 @@ SplineSet
  282 171 l 1
  393 98 l 1xe6
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u0995
 EndChar
 
@@ -15781,7 +15781,7 @@ SplineSet
  561 673 l 1
  561 590 l 1x7d
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u0997
 EndChar
 
@@ -15840,7 +15840,7 @@ SplineSet
  316 174 l 1
  409 102 l 1xf4
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09ac
 EndChar
@@ -15910,7 +15910,7 @@ SplineSet
  403 350 l 1xbc
  406 350 l 1xba
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09aa
 EndChar
 
@@ -15978,7 +15978,7 @@ SplineSet
  561 590 l 1
  523 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09ae
 EndChar
 
@@ -16047,7 +16047,7 @@ SplineSet
  561 673 l 1
  561 590 l 1xdf
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09b2
 EndChar
 
@@ -16154,7 +16154,7 @@ SplineSet
  664 673 l 1
  664 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ac u09cd u09a6
 EndChar
 
@@ -16267,7 +16267,7 @@ SplineSet
  135 463 l 1
  248 390 l 1xf8
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ac u09cd u09a8
 EndChar
 
@@ -16327,7 +16327,7 @@ SplineSet
  240 400 l 1x94
  243 402 l 1x92
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ac u09cd u09b2
 EndChar
 
@@ -16401,7 +16401,7 @@ SplineSet
  537 673 l 1
  537 590 l 1xde
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09b2
 EndChar
 
@@ -16473,7 +16473,7 @@ SplineSet
  522 675 l 1
  522 592 l 1xd9
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u0995
 EndChar
 
@@ -16548,7 +16548,7 @@ SplineSet
  247 592 238 593 230 593 c 0
  221 593 213 592 204 590 c 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u099f
 EndChar
 
@@ -16612,7 +16612,7 @@ SplineSet
  604 673 l 1
  604 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09a0
 EndChar
 
@@ -16674,7 +16674,7 @@ SplineSet
  501 355 520 324 544 298 c 0
  573 265 602 251 631 256 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09a3
 EndChar
 
@@ -16745,7 +16745,7 @@ SplineSet
  572 414 l 1
  697 538 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09aa
 EndChar
 
@@ -16818,7 +16818,7 @@ SplineSet
  500 309 534 295 562 271 c 0
  590 247 605 216 605 178 c 0xba
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u0995
 EndChar
 
@@ -16882,7 +16882,7 @@ SplineSet
  578 673 l 1
  578 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09a4
 EndChar
 
@@ -16953,7 +16953,7 @@ SplineSet
  578 673 l 1
  578 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09a5
 EndChar
 
@@ -17023,7 +17023,7 @@ SplineSet
  482 673 l 1
  482 590 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09a8
 EndChar
 
@@ -17096,7 +17096,7 @@ SplineSet
  578 590 l 1
  562 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09ae
 EndChar
 
@@ -17166,7 +17166,7 @@ SplineSet
  578 673 l 1
  578 590 l 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09b2
 EndChar
 
@@ -17244,7 +17244,7 @@ SplineSet
  749 552 785 545 812 531 c 0
  839 517 864 492 885 457 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09ab
 EndChar
 
@@ -17328,7 +17328,7 @@ SplineSet
  -6 673 l 1
  377 673 l 2
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u099f
 EndChar
 
@@ -17431,7 +17431,7 @@ SplineSet
  591 124 l 1
  591 -45 l 2
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09b8_u09cd_u09aa.cjct
@@ -17507,7 +17507,7 @@ SplineSet
  489 561 494 550 498 538 c 1
  511 558 525 575 541 590 c 1x2c
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09aa
 EndChar
 
@@ -17585,7 +17585,7 @@ SplineSet
  578 673 l 1
  578 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09b8_u09cd_u0995_u09b0.vatu
@@ -17675,7 +17675,7 @@ SplineSet
  578 592 l 1x00f4
  578 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09b9_u09cd_u09a8.cjct
@@ -17735,7 +17735,7 @@ SplineSet
  620 451 633 422 633 389 c 0
  633 380 632 370 630 361 c 0xd7
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b9 u09cd u09a8
 EndChar
 
@@ -17831,7 +17831,7 @@ SplineSet
  671 552 l 2
  671 552 l 2
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099c u09cd u099c u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099c u09cd u099c u09cd u09ac
 EndChar
@@ -17918,7 +17918,7 @@ SplineSet
  552 673 l 1
  552 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u099f_u09b0_u09cd.blwf.vatu
 EndChar
 
@@ -17982,7 +17982,7 @@ SplineSet
  634 673 l 1
  634 590 l 1x7b
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a6_u09b0_u09cd.blwf.vatu
 EndChar
 
@@ -18060,7 +18060,7 @@ SplineSet
  635 673 l 1
  635 589 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09aa_u09cd_u09a4_u09b0.vatu
@@ -18142,7 +18142,7 @@ SplineSet
  507 673 l 1
  507 590 l 1x3680
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09ae_u09cd_u09aa_u09b0.vatu
@@ -18235,7 +18235,7 @@ SplineSet
  689 411 l 1
  814 535 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09b7_u09cd_u099f_u09b0.vatu
@@ -18326,7 +18326,7 @@ SplineSet
  247 592 238 593 230 593 c 0
  221 593 213 592 204 590 c 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 EndChar
 
 StartChar: u09b8_u09cd_u09aa_u09b0.vatu
@@ -18417,7 +18417,7 @@ SplineSet
  489 561 494 550 498 538 c 1
  511 558 525 575 541 590 c 1x05
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09a4_u09cd_u09a4_u09ac.cjct
@@ -18484,7 +18484,7 @@ SplineSet
  362 -76 l 1
  436 -117 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09a4 u09cd u09ac
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09a4 u09cd u09f1
 EndChar
@@ -18552,7 +18552,7 @@ SplineSet
  436 179 l 1
  528 106 l 1x3a
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a6 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a6 u09cd u09ac
 EndChar
@@ -18625,7 +18625,7 @@ SplineSet
  371 673 l 1
  444 673 l 1xfe80
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u099f
 EndChar
 
@@ -18693,7 +18693,7 @@ SplineSet
  628 673 l 1
  628 590 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a0
 EndChar
 
@@ -18818,7 +18818,7 @@ SplineSet
  292 673 l 1xf6
  444 673 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u099a
 EndChar
 
@@ -18894,7 +18894,7 @@ SplineSet
  652 517 667 476 667 434 c 0
  667 391 651 352 620 319 c 1x7f
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09a8_u09cd_u099f_u09b0.vatu
@@ -18983,7 +18983,7 @@ SplineSet
  543 109 521 87 500 71 c 1
  500 -48 l 2x7f70
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09a8_u09cd_u09a0_u09b0.vatu
@@ -19068,7 +19068,7 @@ SplineSet
  628 673 l 1
  628 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09a8_u09cd_u09a1_u09b0.cjct
@@ -19145,7 +19145,7 @@ SplineSet
  800 673 l 1
  800 590 l 1xbfe0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a1_u09b0_u09cd.blwf.vatu
 EndChar
 
@@ -19208,7 +19208,7 @@ SplineSet
  693 673 l 1
  693 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u0996
 EndChar
 
@@ -19275,7 +19275,7 @@ SplineSet
  806 675 l 1
  806 592 l 1xde
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u099a
 EndChar
 
@@ -19343,7 +19343,7 @@ SplineSet
  182 203 l 1
  292 130 l 1xca
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u0995
 EndChar
 
@@ -19431,7 +19431,7 @@ SplineSet
  399 345 424 351 450 351 c 0
  504 351 540 330 559 287 c 0x0e58
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u0995_u09b0_u09cd.blwf.vatu
 EndChar
 
@@ -19507,7 +19507,7 @@ SplineSet
  742 189 706 158 668 143 c 1
  768 126 858 89 939 32 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u099b
 EndChar
 
@@ -19568,7 +19568,7 @@ SplineSet
  428 592 l 1
  394 592 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a3 u09cd u09ae
 EndChar
 
@@ -19643,7 +19643,7 @@ SplineSet
  537 590 l 1
  501 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09ae
 EndChar
 
@@ -19764,7 +19764,7 @@ SplineSet
  355 590 l 1
  352 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09ae
 EndChar
 
@@ -19825,7 +19825,7 @@ SplineSet
  662 673 l 1
  662 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u099a_u09cd_u099a.cjct
@@ -19887,7 +19887,7 @@ SplineSet
  330 520 335 514 338 507 c 1
  338 590 l 1xee
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099a u09cd u099a
 EndChar
 
@@ -19975,7 +19975,7 @@ SplineSet
  348 594 l 2
  348 595 l 2xcbe0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099a u09cd u099c u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099a u09cd u099c u09cd u09ac
 EndChar
@@ -20120,7 +20120,7 @@ SplineSet
  212 -25 l 1
  267 -62 l 1xfe
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09aa_u09cd_u099f.cjct
@@ -20197,7 +20197,7 @@ SplineSet
  405 645 428 673 475 673 c 2
  483 673 l 1xdd
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u099f
 EndChar
 
@@ -20266,7 +20266,7 @@ SplineSet
  537 673 l 1
  537 590 l 1xf9
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09a8
 EndChar
 
@@ -20338,7 +20338,7 @@ SplineSet
  438 445 455 449 472 449 c 0xd8
  496 449 517 441 537 423 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09b8
 EndChar
 
@@ -20408,7 +20408,7 @@ SplineSet
  453 589 l 1
  291 589 l 1x0580
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b9 u09cd u09b2
 EndChar
 
@@ -20550,7 +20550,7 @@ SplineSet
  355 592 l 1xef80
  355 590 l 1xf780
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09ab
 EndChar
 
@@ -20705,7 +20705,7 @@ SplineSet
  532 673 l 1
  532 590 l 1xee
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09aa_u09cd_u09a4.cjct u09c1
 EndChar
 
@@ -20768,7 +20768,7 @@ SplineSet
  577 673 l 1
  577 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 LCarets2: 1 0
 EndChar
 
@@ -20830,7 +20830,7 @@ SplineSet
  135 463 l 1
  248 390 l 1xfc
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ac u09cd u09ad
 EndChar
 
@@ -20892,7 +20892,7 @@ SplineSet
  838 673 l 1
  838 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b9 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b9 u09cd u09ac
 EndChar
@@ -20966,7 +20966,7 @@ SplineSet
  578 673 l 1
  578 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b8_u09cd_u09a4.cjct u09c1
 EndChar
 
@@ -21107,7 +21107,7 @@ SplineSet
  120 781 l 1
  119 781 l 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u0987 u0981
 EndChar
 
@@ -21189,7 +21189,7 @@ SplineSet
  273 892 276 899 281 904 c 0
  286 909 293 912 301 912 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u0988 u0981
 EndChar
 
@@ -21270,7 +21270,7 @@ SplineSet
  306 776 l 1
  305 776 l 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u0989 u0981
 EndChar
 
@@ -21354,7 +21354,7 @@ SplineSet
  427 915 435 917 441 917 c 0
  451 917 459 912 466 902 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u098a u0981
 EndChar
 
@@ -21430,7 +21430,7 @@ SplineSet
  186 907 189 914 194 919 c 0
  199 924 205 927 213 927 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u099f u0981
 EndChar
@@ -21500,7 +21500,7 @@ SplineSet
  354 851 361 854 367 854 c 0
  377 854 386 848 393 838 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09a0 u0981
 EndChar
 
@@ -21637,7 +21637,7 @@ SplineSet
  557 958 560 965 565 970 c 0
  570 975 576 978 584 978 c 0xd380
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09bf u0981
 EndChar
 
@@ -21700,7 +21700,7 @@ SplineSet
  -132 1010 -129 1016 -124 1021 c 0
  -119 1026 -112 1029 -104 1029 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09c0 u0981
 EndChar
 
@@ -21758,7 +21758,7 @@ SplineSet
  -95 758 -83 752 -73 745 c 1
  -9 796 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09c0 u09b0_u09cd.rphf
 EndChar
 
@@ -21876,7 +21876,7 @@ SplineSet
  702 556 717 513 717 471 c 0
  717 426 700 387 665 353 c 1xde
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u0997 u09c1
 EndChar
 
@@ -21944,7 +21944,7 @@ SplineSet
  687 519 701 479 701 439 c 0
  701 396 685 357 653 322 c 1xbc
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b6 u09c1
 EndChar
 
@@ -22071,7 +22071,7 @@ SplineSet
  487 592 l 1x2e80
  487 590 l 1x3680
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b0 u09c2
 EndChar
 
@@ -22143,7 +22143,7 @@ SplineSet
  599 673 l 1
  611 673 l 1
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a4_u09b0_u09cd.blwf.vatu u09c1
 EndChar
 
@@ -22215,7 +22215,7 @@ SplineSet
  597 673 l 1
  611 673 l 1
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a4_u09b0_u09cd.blwf.vatu u09c2
 EndChar
 
@@ -22283,7 +22283,7 @@ SplineSet
  594 483 606 454 606 420 c 0
  606 399 601 379 591 359 c 0x7f
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a6_u09b0_u09cd.blwf.vatu u09c1
 EndChar
 
@@ -22351,7 +22351,7 @@ SplineSet
  587 145 596 132 596 114 c 0
  596 96 587 84 570 79 c 0x3f
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a6_u09b0_u09cd.blwf.vatu u09c2
 EndChar
 
@@ -22421,7 +22421,7 @@ SplineSet
  632 592 l 1x83e0
  632 590 l 1x85e0
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09ad_u09b0_u09cd.blwf.vatu u09c1
 EndChar
 
@@ -22494,7 +22494,7 @@ SplineSet
  597 673 l 1
  632 673 l 1
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09ad_u09b0_u09cd.blwf.vatu u09c2
 EndChar
 
@@ -22576,7 +22576,7 @@ SplineSet
  808 483 821 454 821 420 c 0
  821 399 816 379 806 359 c 0x2db0
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b6_u09b0_u09cd.blwf.vatu u09c1
 EndChar
 
@@ -22659,7 +22659,7 @@ SplineSet
  787 145 796 132 796 114 c 0
  796 96 787 84 770 79 c 0x5d90
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b6_u09b0_u09cd.blwf.vatu u09c2
 EndChar
 
@@ -22774,7 +22774,7 @@ SplineSet
  599 147 608 134 608 116 c 0
  608 98 599 87 582 82 c 0xd7
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b9 u09c3
 EndChar
 
@@ -22822,7 +22822,7 @@ SplineSet
  238 673 l 1
  238 590 l 1xf0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09d7 u09b0_u09cd.rphf
 EndChar
 
@@ -22902,7 +22902,7 @@ SplineSet
  624 590 l 1x10cc
  624 589 l 1x114c
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u0997_u09b0_u09cd.blwf.vatu u09c1
 EndChar
 
@@ -22983,7 +22983,7 @@ SplineSet
  624 590 l 1x00c8
  624 589 l 1x0148
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u0997_u09b0_u09cd.blwf.vatu u09c2
 EndChar
 
@@ -23059,7 +23059,7 @@ SplineSet
  412 58 411 55 409 52 c 1
  409 27 l 2x5f40
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a7_u09b0_u09cd.blwf.vatu u09c1
 EndChar
 
@@ -23136,7 +23136,7 @@ SplineSet
  412 58 411 55 409 52 c 1
  409 27 l 2x1f
 EndSplineSet
-Validated: 8389153
+Validated: 545
 LCarets2: 1 0
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a7_u09b0_u09cd.blwf.vatu u09c2
 EndChar
@@ -23217,7 +23217,7 @@ SplineSet
  633 590 l 1x37
  633 589 l 1x3b
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09aa_u09b0_u09cd.blwf.vatu u09c1
 EndChar
 
@@ -23298,7 +23298,7 @@ SplineSet
  672 590 l 1x1680
  672 589 l 1x1a80
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09aa_u09b0_u09cd.blwf.vatu u09c2
 EndChar
 
@@ -23375,7 +23375,7 @@ SplineSet
  755 483 768 454 768 420 c 0
  768 399 762 379 752 359 c 0x1bd0
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a5_u09b0_u09cd.blwf.vatu u09c1
 EndChar
 
@@ -23453,7 +23453,7 @@ SplineSet
  767 673 l 1
  767 590 l 1
 EndSplineSet
-Validated: 8389157
+Validated: 549
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a5_u09b0_u09cd.blwf.vatu u09c2
 EndChar
 
@@ -23520,7 +23520,7 @@ SplineSet
  418 121 l 1x9e80
  418 0 l 2
 EndSplineSet
-Validated: 8389157
+Validated: 549
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09ac_u09b0_u09cd.blwf.vatu u09c1
 EndChar
 
@@ -23588,7 +23588,7 @@ SplineSet
  414 121 l 1
  414 0 l 2x8e
 EndSplineSet
-Validated: 8389153
+Validated: 545
 LCarets2: 1 0
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09ac_u09b0_u09cd.blwf.vatu u09c2
 EndChar
@@ -23680,7 +23680,7 @@ SplineSet
  515 241 527 215 527 190 c 0
  527 163 514 139 486 119 c 1xbdb0
 EndSplineSet
-Validated: 8389153
+Validated: 545
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b2_u09cd._u0997.cjct u09c1
 EndChar
 
@@ -23764,7 +23764,7 @@ SplineSet
  576 320 l 1
  816 151 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09a6_u09cd_u09a7_u09ac.cjct
@@ -23903,7 +23903,7 @@ SplineSet
  896 673 l 1
  896 590 l 1x2f80
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09ab
 EndChar
 
@@ -24044,7 +24044,7 @@ SplineSet
  -6 673 l 1
  450 673 l 1xf7a0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u099f
 EndChar
 
@@ -24105,7 +24105,7 @@ SplineSet
  263 206 l 1
  355 133 l 1x24
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09ac
 EndChar
@@ -24166,7 +24166,7 @@ SplineSet
  385 673 l 1
  464 673 l 1xf8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a3 u09cd u09a2
 EndChar
 
@@ -24245,7 +24245,7 @@ SplineSet
  726 263 741 304 741 340 c 0
  741 349 740 357 738 365 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u099a_u09cd_u099b_u09b0.vatu
@@ -24336,7 +24336,7 @@ SplineSet
  351 587 l 2
  351 587 l 2x25f0
 EndSplineSet
-Validated: 8388645
+Validated: 37
 LCarets2: 1 0
 EndChar
 
@@ -24391,7 +24391,7 @@ SplineSet
  508 673 l 1
  508 589 l 1x2c
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph478
@@ -24474,7 +24474,7 @@ SplineSet
  515 673 l 1
  515 590 l 1xb0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph480
@@ -24866,7 +24866,7 @@ SplineSet
  561 673 l 1
  561 590 l 1xa0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph490
@@ -25196,7 +25196,7 @@ SplineSet
  480 673 l 1
  480 590 l 1x78
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph499
@@ -25241,7 +25241,7 @@ SplineSet
  480 673 l 1
  480 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph500
@@ -25284,7 +25284,7 @@ SplineSet
  578 673 l 1
  578 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph501
@@ -25523,7 +25523,7 @@ SplineSet
  85 135 92 125 92 111 c 0
  92 99 86 86 74 74 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09a8_alt
@@ -25702,7 +25702,7 @@ SplineSet
  -70 456 l 1
  -70 77 l 2xd0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09ae_alt
@@ -25743,7 +25743,7 @@ SplineSet
  231 673 l 1
  231 590 l 1xd8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph513
@@ -25785,7 +25785,7 @@ SplineSet
  270 673 l 1
  270 590 l 1xec
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph514
@@ -25934,7 +25934,7 @@ SplineSet
  172 673 l 1
  172 590 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: glyph517
@@ -26037,7 +26037,7 @@ SplineSet
  -70 98 l 1
  -70 -132 l 2xb0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: glyph520
@@ -26076,7 +26076,7 @@ SplineSet
  -150 85 l 1
  -70 85 l 1x4c
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph521
@@ -26243,7 +26243,7 @@ SplineSet
  198 673 l 1
  198 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph525
@@ -26291,7 +26291,7 @@ SplineSet
  -64 340 -62 321 -62 292 c 2
  -62 8 l 2x7c
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: glyph526
@@ -26334,7 +26334,7 @@ SplineSet
  -31 337 -18 309 -18 275 c 0
  -18 254 -24 234 -35 214 c 1xf8
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph527
@@ -26402,7 +26402,7 @@ SplineSet
  21 306 33 271 33 230 c 0xe8
  33 201 26 175 12 152 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph529
@@ -26440,7 +26440,7 @@ SplineSet
  211 491 223 463 223 432 c 0xc0
  223 399 209 370 182 343 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph530
@@ -26501,7 +26501,7 @@ SplineSet
  -324 776 l 1
  -325 776 l 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 EndChar
 
 StartChar: glyph532
@@ -26746,7 +26746,7 @@ SplineSet
  178 673 l 1
  178 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph538
@@ -26812,7 +26812,7 @@ SplineSet
  -70 111 l 1
  -70 -10 l 2x90
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph540
@@ -26844,7 +26844,7 @@ SplineSet
  -75 426 l 1
  -75 77 l 2x60
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph541
@@ -26875,7 +26875,7 @@ SplineSet
  -70 164 l 1
  -70 28 l 2x90
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: glyph542
@@ -26908,7 +26908,7 @@ SplineSet
  -17 121 l 1
  -17 -48 l 2x60
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: glyph543
@@ -26937,7 +26937,7 @@ SplineSet
  -216 133 -195 137 -177 137 c 0
  -145 137 -117 124 -92 98 c 0x40
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: glyph544
@@ -27098,7 +27098,7 @@ SplineSet
  497 329 504 324 514 313 c 0
  524 302 530 287 533 270 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09e7_slash_u09e8.afrc
@@ -27168,7 +27168,7 @@ SplineSet
  178.249869071 357.090418226 161.497308843 354.242574646 144.677998998 352 c 2
  143 352 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: u09e7_slash_u09e9.afrc
@@ -27251,7 +27251,7 @@ SplineSet
  121 227.397191154 127.614745687 245.463763906 140.557808489 260 c 1
  75.743148637 260 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: u09e7_slash_u09ea.afrc
@@ -27337,7 +27337,7 @@ SplineSet
  -43 417 l 1
  487 417 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: u09e7_slash_u09ee.afrc
@@ -27420,7 +27420,7 @@ SplineSet
  -38 392 l 1
  372 392 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: u09e8_slash_u09e9.afrc
@@ -27494,7 +27494,7 @@ SplineSet
  237.220479838 166.974645362 232.862381723 181.519201269 227.815832644 189.532964522 c 0
  222.108043893 198.596755844 215.262133387 202.377208163 201.66980787 202.945385511 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: u09e9_slash_u09ea.afrc
@@ -27580,7 +27580,7 @@ SplineSet
  -43 417 l 1
  487 417 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: u09b7_u09cd_u0995_u09b0.vatu
@@ -27665,7 +27665,7 @@ SplineSet
  355 595 l 1x01dc
  355 590 l 1x02dc
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: u09a6_u09cd_u0997.cjct
@@ -27730,7 +27730,7 @@ SplineSet
  272 376 269 353 269 332 c 0
  269 285 281 238 305 190 c 1xcf
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u0997
 EndChar
 
@@ -27797,7 +27797,7 @@ SplineSet
  286 555 290 572 297 590 c 1x7c
  258 590 l 1xbc
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u0998
 EndChar
 
@@ -27918,7 +27918,7 @@ SplineSet
  111 402 l 1
  267 261 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u0995 u09cd zwj
 EndChar
 
@@ -28005,7 +28005,7 @@ SplineSet
  515 673 l 1
  515 590 l 1xb0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u0997 u09cd zwj
 EndChar
 
@@ -28298,7 +28298,7 @@ SplineSet
  488 674 l 1
  488 590 l 1xe0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u099d u09cd zwj
 EndChar
 
@@ -28369,7 +28369,7 @@ SplineSet
  456 445 469 423 486 405 c 0
  507 382 527 372 547 375 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u099e u09cd zwj
 EndChar
 
@@ -28471,7 +28471,7 @@ SplineSet
  359 669 l 1
  362 594 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09a0 u09cd zwj
 EndChar
 
@@ -28682,7 +28682,7 @@ SplineSet
  391 672 l 1
  391 592 l 1x78
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09a5 u09cd zwj
 EndChar
 
@@ -28762,7 +28762,7 @@ SplineSet
  322 683 l 1
  322 591 l 1xb0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 LCarets2: 2 0 0
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09a7 u09cd zwj
 EndChar
@@ -28847,7 +28847,7 @@ SplineSet
  561 673 l 1
  561 590 l 1xa0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09aa u09cd zwj
 EndChar
 
@@ -29023,7 +29023,7 @@ SplineSet
  480 673 l 1
  480 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09ae u09cd zwj
 EndChar
 
@@ -29258,7 +29258,7 @@ SplineSet
  578 673 l 1
  578 590 l 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09b8 u09cd zwj
 EndChar
 
@@ -29302,7 +29302,7 @@ SplineSet
  317 594 l 1
  204 594 l 1x70
 EndSplineSet
-Validated: 8388609
+Validated: 1
 LCarets2: 2 0 0
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09b9 u09cd zwj
 EndChar
@@ -29406,7 +29406,7 @@ SplineSet
  367 675 l 1
  369 591 l 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09dd u09cd zwj
 EndChar
@@ -29716,7 +29716,7 @@ SplineSet
  276.774867971 595 l 1
  -7 595 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 3 0 0 0
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd zwnj u09a4
 EndChar
@@ -29812,7 +29812,7 @@ SplineSet
  333.614925487 154.507998878 333.501501349 154.527634249 333.499665579 154.528910283 c 1
  333.64903794 154.483580288 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b9 u09cd zwnj u09ae
 EndChar
 
@@ -29910,7 +29910,7 @@ SplineSet
  296.088293492 595.198108896 280.624753594 580.592449705 269.141578965 553.432685911 c 1
  279.112581764 551.776788416 286.938444379 551 293 551 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0999 u09cd zwnj u0997
 EndChar
 
@@ -29978,7 +29978,7 @@ SplineSet
  136.906297755 339.730672411 l 1
  342 154.727781814 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u0995 zwnj u09b0_u09cd.blwf
 EndChar
 
@@ -30073,7 +30073,7 @@ SplineSet
  371 88.9498984757 l 1xfd
  265.936074992 47.4772964988 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0999 u09cd zwnj u0995
 EndChar
 
@@ -30137,7 +30137,7 @@ SplineSet
  474 595 l 1
  474 688 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09f0 u09c1
 EndChar
 
@@ -30200,7 +30200,7 @@ SplineSet
  537.322952338 80.8116151202 526.93825454 96.7451315516 522.127160641 116.676806277 c 1
  520.991733897 132.572780695 520 161.657200317 520 207 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09f0 u09c2
 EndChar
 
@@ -30250,7 +30250,7 @@ SplineSet
  254 300 l 1
  272 346 l 0
 EndSplineSet
-Validated: 524329
+Validated: 41
 Colour: ff0000
 EndChar
 
@@ -30376,7 +30376,7 @@ SplineSet
  -236.28515625 761.6875 -240.627929688 760.72265625 -244.969726562 759.275390625 c 1
  -244.969726562 789.672851562 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Colour: ff0000
 EndChar
 
@@ -30459,7 +30459,7 @@ SplineSet
  516.277708999 128.106518961 526.465153395 125.733072724 536.879882812 121.734130325 c 1
  536.879882812 137.197326602 l 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: u09b8_u09cd_u0995_u09b0.salt
@@ -30543,7 +30543,7 @@ SplineSet
  373 239.002746063 l 1
  267.098060177 197.472573583 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: u09b8_u09cd_u09a4_u09b0.salt
@@ -30637,7 +30637,7 @@ SplineSet
  415.369673298 42.8466116992 428.016117615 39.8716466524 441 34.4755716047 c 1
  441 56.6301414243 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: u09bf.salt
@@ -30680,7 +30680,7 @@ SplineSet
  165.575270027 900.011597126 156.059122576 921.162952286 145.279375409 935.331163866 c 0
  136.356755886 947.058485417 128.340148478 951.716347507 122.175862738 951.716347507 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: u09c0.salt
@@ -30725,7 +30725,7 @@ SplineSet
  -337.482948723 780.744133921 -331.826741904 777.597327462 -321.117015138 776.974389803 c 1
  -320.82192326 747.045674126 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: u09ae_u09cd_u09a4.cjct
@@ -30804,7 +30804,7 @@ SplineSet
  495 595 l 1
  480.376043053 595 465.752086105 595 451.128129158 595 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09a4
 EndChar
 
@@ -30884,7 +30884,7 @@ SplineSet
  32.1770431514 358.661643705 31 371.774936934 31 383 c 0
  31 435.768510145 59.8032549494 477.329871932 111.736016793 506.784191943 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09a6
 EndChar
 
@@ -30964,7 +30964,7 @@ SplineSet
  472.143672752 567.647721434 488 521.669639386 488 479 c 0
  488 428.012395866 469.880408711 388.173349065 433.704569361 364.440538656 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09b9
 EndChar
 
@@ -31064,7 +31064,7 @@ SplineSet
  392.236525981 263.861754557 l 1
  392.901614514 262.001447009 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099f u09cd u09ac
 EndChar
 
@@ -31182,7 +31182,7 @@ SplineSet
  415.402697488 281.323104247 416.829109392 279.983942226 418.149522463 277.468736288 c 0
  418.567290893 276.672944685 419.870245679 275.374001196 419.870245679 270.480435963 c 0
 EndSplineSet
-Validated: 524293
+Validated: 5
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099f u09cd u09ae
 EndChar
 
@@ -31265,7 +31265,7 @@ SplineSet
  225.759279613 588.106627755 243.300187126 577.371372049 259.959169436 563.203922001 c 1
  275.032106785 578.450481358 291.512950962 589.202350777 308.790178711 595 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09a4
 EndChar
 
@@ -31362,7 +31362,7 @@ SplineSet
  328.84772964 121.849068093 l 1
  403 63.0386467734 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09a7
 EndChar
 
@@ -31446,7 +31446,7 @@ SplineSet
  211.008096871 267.632153493 l 1
  213.525644213 274 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a7 u09cd u09ae
 EndChar
 
@@ -31538,7 +31538,7 @@ SplineSet
  225.759279613 588.106627755 243.300187126 577.371372049 259.959169436 563.203922001 c 1
  275.032106785 578.450481358 291.512950962 589.202350777 308.790178711 595 c 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09ad
 EndChar
 
@@ -31635,7 +31635,7 @@ SplineSet
  327.23376679 372.158048806 362.641690479 389.580945445 407.077937828 395 c 1
  408 395 l 2
 EndSplineSet
-Validated: 524293
+Validated: 5
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09a4
 EndChar
 
@@ -31720,7 +31720,7 @@ SplineSet
  489 587 532 608 577 608 c 0x1d80
  622 608 666 587 711 544 c 1
 EndSplineSet
-Validated: 524329
+Validated: 41
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09aa u09cd u09f0
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09aa u09cd u09b0
 EndChar
@@ -31771,7 +31771,7 @@ SplineSet
  238 248.065793013 l 1
  148.470636395 200.588100191 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09ac
 EndChar
