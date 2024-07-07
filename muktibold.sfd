@@ -1,5 +1,5 @@
 SplineFontDB: 3.2
-FontName: muktibold
+FontName: MuktiBold
 FullName: Mukti Bold
 FamilyName: Mukti
 Weight: Bold
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1138213189
-ModificationTime: 1720334746
+ModificationTime: 1720336350
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
