@@ -52,7 +52,8 @@ time however I took my time and tried to remove as much bugs as
 possible with introduction of newer features .</p>
 <p>Here are the most important changes in Mukti Version 3.0 compared
 to MuktiNarrow 0.94 </p>
-<p><b>1. Shift to Open Source editor:</b> - MuktiNarrow was developed using
+<h2>1. Shift to Open Source editor:</h2> 
+	<p> MuktiNarrow was developed using
 FontCreatorProgram and Microsoft VOLT in Windows98. Mukti is
 re-edited in open source font editor Fontforge in Ubuntu Linux. Now I
 can proudly say No non-free/ closed source programs are used in
@@ -60,20 +61,23 @@ creating the font.</p>
 <p><img src="pics/volt2ff.png"alt="VOLT2Fonforge" data-linktype="relative-path"/> </p>
 <br/>
 
-<p><b> 2, Change in Technical details :-</b> Alongwith change in editors
+<h2> 2, Change in Technical details :-</h2> 
+	<p>Alongwith change in editors
 the EM of the font is changed from 2048 to 1000 and the curves are
 saved as cubic bezier which are converted to quadratic during
 production of ttf fonts.</p>
 <br/>
 
-<p><b>3. Upgrade to Unicode 14.0 standard </b>- MuktiNarrow was created at
+<h2>3. Upgrade to Unicode 14.0 standard </h2>-
+	<p>MuktiNarrow was created at
 times when Unicode version 4.0 was in vogue. A few characters are
 added in Bengali block since then, notably Khanda Ta, Abbreviation
 mark etc . They are added in the font.</p>
 <p><img src="pics/uni14.png" alt="unicode14.0complinant" data-linktype="relative-path"/></p>
 <br/>
 
-<p><b> 4. Shift from Version 1 to Version 2 of Bengali OpenType Font specification :- </b> This required complete
+<h2> 4. Shift from Version 1 to Version 2 of Bengali OpenType Font specification :- </h2>
+	<p>This required complete
 			overhauling of the OpenType GSUB tables. However it will help in
 			proper postioning of reph and left sided matras in case an conjuct
 			is absent in font.  
@@ -83,37 +87,45 @@ mark etc . They are added in the font.</p>
  
 <br/>
 
-	<p>	 <b>5.Support for Assamese language</b> Assamese / Ahamia specific forms which was absent in Mukti Narrow is added in this version</p>
+	 <h2>5.Support for Assamese language</h2> 
+	<p>Assamese / Ahamia specific forms which was absent in Mukti Narrow is added in this version</p>
 			<p><img src="pics/asm.png" name="Assamese"data-linktype="relative-path"/>
 			</p>
 <br/>
 
 </p>
 <br/>
-	<p><b>6. Support for both traditional and modern form of conjucts:- </b> Alternate modern "schoolbook" forms are are available as Stylistic alternate </p>
+	<h2>6. Support for both traditional and modern form of conjucts:- </h2>
+	<p>Alternate modern "schoolbook" forms are are available as Stylistic alternate </p>
 		<p><img src="pics/salt.png" name="AlternateConjunct"/>
 
 <br/>
 
-<p><b>7. Addition of Vedic stress Marks:- </b> Vedic Stress marks to indicate voice modulation for writing
+<h2>7. Addition of Vedic stress Marks:- </h2> 
+			<p>Vedic Stress marks to indicate voice modulation for writing
 Vedic hymns in Bangla as well as musical notations are added in the font.
 </p>
 <p ><img src="pics/vedic.png" alt="vedic-marks"/></p>
 <br/>
 
-<p><b>8. Addition of autohinting by Fontforge:-</b> It will make the font look
+<h2>8. Addition of autohinting by Fontforge:-</h2> 
+	<p>It will make the font look
 crisper in small points in screen compared to MuktiNarrow which was not hinted and Antialiased in all sizes. 
 </p>
-<p><b>9. Removal of Latin glyphs:- </b> Latin glyphs sourced from GNU-Unifont was added
+<h2>9. Removal of Latin glyphs:- </h2>
+	<p>Latin glyphs sourced from GNU-Unifont was added
 to MuktNarrow as it was a necessary condtion to be able to use and edit the font in Windows 98 platform which did not support pure Unicode font. As modern operating systems accept pure unicode fonts, latin glyphs are removed from the font </p>
 <br/>
-<p><b>10. Addition of few new conjuncts </b> - as per juktakshar list  </p>
-<p>
-	<b>11. Removal of references and overlapping </b> Instead of forming conjuncts as combination of reference of component glyphs, conjuntcs are formed after removing overlap between component glyphs so that white area does not appear in large point sizes. 
+<h2>10. Addition of few new conjuncts </h2> - 
+	<p>As per juktakshar list  </p>
+
+	<h2>11. Removal of references and overlapping </h2> 
+	<p>Instead of forming conjuncts as combination of reference of component glyphs, conjuntcs are formed after removing overlap between component glyphs so that white area does not appear in large point sizes. 
 </p>
 <p><img src="pics/deref.png" alt="remove-reference"/> </p>
-</p>and 
-12. Various bugfixes  </p>
+</p>
+	
+<h2>12. Various bugfixes  </h2>
 <br/>
 <p> The font is now licenced under GPL3+ with font exeption</p>
 <p> <img src="pics/gplfe.png" alt="GPLFE" data-linktype="relative-path"/>    </p>
@@ -128,6 +140,7 @@ issues </a>section </p>
 	<li>1.99 - January 26 2006   </li>
 	<li>2.1  October 1 2018  </li>
 	<li>3.0.1 January 26 2022 </li>
+	<li> 3.1.0 July 7 2024 - added Italic and Bold Italic</li>
 </ul>
 </body>
 </html>
