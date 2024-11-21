@@ -5,14 +5,13 @@ FamilyName: Mukti
 Weight: Medium
 Copyright: GNU GPL3+ FE (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-24. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
 FontLog: "muktiregular3.0beta1+AAoACgAA-v3.0.3"
-Version: 3.4.0 Jul 7, 2024
+Version: 3.402
 ItalicAngle: 0
 UnderlinePosition: -166
 UnderlineWidth: 73
 Ascent: 800
 Descent: 200
 InvalidEm: 0
-sfntRevision: 0x0001fd70
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
@@ -23,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1138213189
-ModificationTime: 1720334703
+ModificationTime: 1732206422
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -72,11 +71,8 @@ Lookup: 4 0 0 "'blws' Below Base Substitutions in Bengali lookup 10" { "'blws' B
 Lookup: 4 0 0 "'abvs' Above Base Substitutions in Bengali lookup 11" { "'abvs' Above Base Substitutions in Bengali lookup 11 subtable"  } ['abvs' ('bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'haln' Halant Forms in Bengali lookup 12" { "'haln' Halant Forms in Bengali lookup 12 subtable"  } ['haln' ('bng2' <'dflt' > ) ]
 Lookup: 1 0 0 "'salt' Stylistic Alternatives in Bengali2 lookup 17" { "'salt' Stylistic Alternatives in Bengali2 lookup 17-1"  } ['salt' ('bng2' <'dflt' > ) ]
-Lookup: 4 0 0 "'afrc' Vertical Fractions in Bengali2 lookup 13" { } ['afrc' ('bng2' <'dflt' > ) ]
 Lookup: 2 0 0 "Reverse for conjunct" { "Reverse for conjunct-1"  } []
-Lookup: 1 0 0 "Single Substitution Lookup 27" { "Single Substitution Lookup 27"  } []
-Lookup: 1 0 0 "Single Substitution Lookup 28" { "Single Substitution Lookup 28"  } []
-Lookup: 1 0 0 "Single Substitution lookup 29" { "Single Substitution lookup 29"  } []
+Lookup: 4 0 0 "'afrc' Vertical Fractions lookup 0" { "'afrc' Vertical Fractions lookup 0-1"  } ['afrc' ('DFLT' <'dflt' > 'bng2' <'ASM ' 'dflt' > 'dev2' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Bengali lookup 0" { "'abvm' Above Base Mark in Bengali lookup 0 subtable"  } ['abvm' ('bng2' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Bengali lookup 1" { "'blwm' Below Base Mark in Bengali lookup 1 subtable"  } ['blwm' ('bng2' <'dflt' > ) ]
 MarkAttachClasses: 2
@@ -90,14 +86,14 @@ ChainSub2: coverage "'cjct' Contextual Chaining Substitution in Bengali2 lookup 
   SeqLookup: 0 "Reverse for conjunct"
 EndFPST
 LangName: 1093 "" "+Ca4JwQmVCc0JpAm/" "" "" "+Ca4JwQmVCc0JpAm/" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+CZwJlwmkCccA +CYYJqAmoCc0JpgmvCZwJzQmeCccA +CYYJrgm+CbAA +CagJvwmuCagJzQmkCc0JsAmo "
-LangName: 1033 "GNU GPL3+- +AKkA Mukta Bangla Font Project 2002-2022 Free Software. For detail licence agreement see www.gnu.org/licences/gpl.txt+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version." "" "Book" "Mukti" "" "" "" "" "Mukta Bangla Font Project" "Dr Anirban Mitra" "This is a font made by using good quality glyphs of GPLed font bng2-n from Cyberscape Multimedia <www.akruti.com/freedom>. It is made for Mukta Bangla Font project." "http://www.nongnu.org/freebangfont" "http://sites.google.com/site/mitradrani" "GNU GPL3+-+AKkA Mukta Bangla Font Project, Dr Anirban Mitra 2002-2022" "http://www.gnu.org/copyleft/gpl.htm" "" "Mukti" "Regular" "" "+CZwJlwmkCccA +CYYJqAmoCc0JpgmvCZwJzQmeCccA +CYYJrgm+CbAA +CagJvwmuCagJzQmkCc0JsAmo "
+LangName: 1033 "GNU GPL3+- +AKkA Mukta Bangla Font Project 2002-2022 Free Software. For detail licence agreement see www.gnu.org/licences/gpl.txt+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version." "" "Book" "Mukti" "" "" "" "" "Mukta Bangla Font Project" "Dr Anirban Mitra" "This is a font made by using good quality glyphs of GPLed font bng2-n from Cyberscape Multimedia <www.akruti.com/freedom>. It is made for Mukta Bangla Font project." "http://www.nongnu.org/freebangfont" "http://github.com/mitradranirban" "GNU GPL3+-+AKkA Mukta Bangla Font Project, Dr Anirban Mitra 2002-2022" "http://www.gnu.org/copyleft/gpl.htm" "" "Mukti" "Regular" "" "+CZwJlwmkCccA +CYYJqAmoCc0JpgmvCZwJzQmeCccA +CYYJrgm+CbAA +CagJvwmuCagJzQmkCc0JsAmo "
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 536 8 7
+WinInfo: 0 18 7
 BeginPrivate: 6
 BlueValues 31 [-23 0 524 539 709 709 729 741]
 OtherBlues 11 [-218 -218]
@@ -107,7 +103,7 @@ StdHW 4 [63]
 StdVW 4 [62]
 EndPrivate
 AnchorClass2: "Anchor-1" "'blwm' Below Base Mark in Bengali lookup 1 subtable" "Anchor-0" "'abvm' Above Base Mark in Bengali lookup 0 subtable"
-BeginChars: 587 575
+BeginChars: 587 576
 
 StartChar: .notdef
 Encoding: 154 -1 0
@@ -1559,7 +1555,7 @@ SplineSet
  -205 869 -193 849 -172 832 c 0
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution Lookup 27" u0981.salt
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u0981.salt
 EndChar
 
 StartChar: u0982
@@ -3996,7 +3992,7 @@ SplineSet
  445 954 552 898 638 786 c 0xe0
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution Lookup 28" u09bf.salt
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09bf.salt
 EndChar
 
 StartChar: u09c0
@@ -4041,7 +4037,7 @@ SplineSet
  -159 934 -127 931 -98 925 c 0xfc
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 29" u09c0.salt
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09c0.salt
 EndChar
 
 StartChar: u09c1
@@ -11088,7 +11084,7 @@ SplineSet
  444 -14 415 3 385 3 c 0
 EndSplineSet
 Validated: 33
-Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995_u09cd_u09b7.akhn u09cd u09a3_u09b0_u09cd.blwf.vatu
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995_u09cd_u09b7.akhn u09cd u09a3
 EndChar
 
 StartChar: bn_ka_ssa.akhn_u09cd_u09ae.cjct
@@ -27288,6 +27284,7 @@ SplineSet
  297 355 l 1
 EndSplineSet
 Validated: 33
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09e8
 EndChar
 
 StartChar: u09e7_slash_u09e9.afrc
@@ -27355,6 +27352,7 @@ SplineSet
  326 490 326 486 326 483 c 0
 EndSplineSet
 Validated: 33
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09e9
 EndChar
 
 StartChar: u09e7_slash_u09ea.afrc
@@ -27428,6 +27426,7 @@ SplineSet
  297 421 297 418 297 415 c 0xfa
 EndSplineSet
 Validated: 33
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09ea
 EndChar
 
 StartChar: u09e7_slash_u09ee.afrc
@@ -27496,6 +27495,7 @@ SplineSet
  48 364 l 1
 EndSplineSet
 Validated: 33
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09ee
 EndChar
 
 StartChar: u09e8_slash_u09e9.afrc
@@ -27565,6 +27565,7 @@ SplineSet
  140 170 136 180 136 200 c 0
 EndSplineSet
 Validated: 33
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e8 slash u09e9
 EndChar
 
 StartChar: u09e9_slash_u09ea.afrc
@@ -27639,6 +27640,7 @@ SplineSet
  52 359 l 1
 EndSplineSet
 Validated: 33
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e9 slash u09ea
 EndChar
 
 StartChar: u09b7_u09cd_u0995_u09b0.vatu
@@ -30910,7 +30912,7 @@ SplineSet
 EndSplineSet
 Validated: 33
 LCarets2: 3 0 0 0
-Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09b9 
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09b9
 EndChar
 
 StartChar: u099f_u09cd_u09ac.cjct
@@ -31589,6 +31591,43 @@ Validated: 33
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09ac
 LCarets2: 2 0 0
+EndChar
+
+StartChar: .notdef
+Encoding: 44 -1 575
+Width: 1000
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+266 800 m 1
+ 734 800 l 1
+ 734 0 l 1
+ 266 0 l 1
+ 266 800 l 1
+326 742 m 1
+ 326 62 l 1
+ 686 62 l 1
+ 686 742 l 1
+ 326 742 l 1
+416 604 m 1
+ 474.668104851 649.331825906 530.66810486 649.331825895 584 604 c 1
+ 628.146057978 549.939946006 640.842484892 485.949080994 584 400 c 1
+ 490 400 l 1
+ 490 212 l 1
+ 448 212 l 1
+ 448 400 l 1
+ 448 446 l 1
+ 538 446 l 1
+ 596.718238405 484.397340208 585.701164669 526.28154246 538 570 c 1
+ 497.334498525 616.180153716 456.666653347 569.472103507 416 570 c 1
+ 416 604 l 1
+450 152 m 1
+ 494 152 l 1
+ 494 108 l 1
+ 450 108 l 1
+ 450 152 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

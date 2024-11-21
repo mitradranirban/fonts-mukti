@@ -5,7 +5,7 @@ FamilyName: Mukti
 Weight: Bold
 Copyright: GNU GPL3+ (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-22. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
 FontLog: "muktiregular3.0beta1+AAoACgAA-version3.0.2"
-Version: 3.4.0 Jul 7,2024
+Version: 3.4.2
 ItalicAngle: 0
 UnderlinePosition: -166
 UnderlineWidth: 73
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1138213189
-ModificationTime: 1720334530
+ModificationTime: 1732206650
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -71,9 +71,9 @@ Lookup: 4 0 0 "'vatu' Vattu Variants in Bengali lookup 7" { "'vatu' Vattu Varian
 Lookup: 4 0 0 "'blws' Below Base Substitutions in Bengali lookup 10" { "'blws' Below Base Substitutions in Bengali lookup 10 subtable"  } ['blws' ('bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'abvs' Above Base Substitutions in Bengali lookup 11" { "'abvs' Above Base Substitutions in Bengali lookup 11 subtable"  } ['abvs' ('bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'haln' Halant Forms in Bengali lookup 12" { "'haln' Halant Forms in Bengali lookup 12 subtable"  } ['haln' ('bng2' <'dflt' > ) ]
-Lookup: 1 0 0 "'salt' Stylistic Alternatives in Bengali2 lookup 17" { "'salt' Stylistic Alternatives in Bengali2 lookup 17-1"  } ['salt' ('bng2' <'dflt' > ) ]
-Lookup: 4 0 0 "'afrc' Vertical Fractions in Bengali2 lookup 13" { } ['afrc' ('bng2' <'dflt' > ) ]
 Lookup: 2 0 0 "Reverse for conjunct" { "Reverse for conjunct-1"  } []
+Lookup: 4 0 0 "'afrc' Vertical Fractions lookup 0" { "'afrc' Vertical Fractions lookup 0-1"  } ['afrc' ('DFLT' <'dflt' > 'bng2' <'ASM ' 'dflt' > 'dev2' <'dflt' > ) ]
+Lookup: 1 0 0 "'salt' Stylistic Alternatives in Bengali2 lookup 17" { "'salt' Stylistic Alternatives in Bengali2 lookup 17-1"  } ['salt' ('bng2' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Bengali lookup 0" { "'abvm' Above Base Mark in Bengali lookup 0 subtable"  } ['abvm' ('bng2' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Bengali lookup 1" { "'blwm' Below Base Mark in Bengali lookup 1 subtable"  } ['blwm' ('bng2' <'dflt' > ) ]
 MarkAttachClasses: 2
@@ -94,7 +94,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 468 18 7
+WinInfo: 0 18 7
 BeginPrivate: 6
 BlueValues 31 [-23 0 524 539 709 709 729 741]
 OtherBlues 11 [-218 -218]
@@ -104,12 +104,13 @@ StdHW 4 [63]
 StdVW 4 [62]
 EndPrivate
 AnchorClass2: "Anchor-1" "'blwm' Below Base Mark in Bengali lookup 1 subtable" "Anchor-0" "'abvm' Above Base Mark in Bengali lookup 0 subtable"
-BeginChars: 577 575
+BeginChars: 577 576
 
 StartChar: .notdef
 Encoding: 154 -1 0
 Width: 398
-Flags: HW
+Flags: W
+HStem: 0 33<67 317> 633 33<206 455>
 LayerCount: 2
 Fore
 SplineSet
@@ -551,7 +552,8 @@ Encoding: 16 47 16
 AltUni2: 002044.ffffffff.0
 Width: 257
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: -14 21G<-1 70.8901>
 LayerCount: 2
 Fore
 SplineSet
@@ -1456,6 +1458,7 @@ SplineSet
  220 911 231 914 241 914 c 0
  257 914 269 905 275 888 c 1
 EndSplineSet
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u0981.salt
 EndChar
 
 StartChar: u0982
@@ -3706,6 +3709,7 @@ SplineSet
  395 939 454 954 514 954 c 0
  634 954 720 897 774 783 c 1xf0
 EndSplineSet
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09bf.salt
 EndChar
 
 StartChar: u09c0
@@ -3745,6 +3749,7 @@ SplineSet
  378 673 l 1
  359 590 l 1xf0
 EndSplineSet
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09c0.salt
 EndChar
 
 StartChar: u09c1
@@ -4586,7 +4591,9 @@ StartChar: u09e7
 Encoding: 121 2535 117
 Width: 444
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 49 71<166.5 303.704>
+VStem: 193 68<578.859 671.687>
 LayerCount: 2
 Fore
 SplineSet
@@ -4616,7 +4623,8 @@ StartChar: u09e8
 Encoding: 122 2536 118
 Width: 444
 GlyphClass: 2
-Flags: HW
+Flags: W
+VStem: 217 70<608.001 651.484>
 LayerCount: 2
 Fore
 SplineSet
@@ -4653,7 +4661,9 @@ StartChar: u09e9
 Encoding: 123 2537 119
 Width: 631
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 74 78<320.919 450.172> 569 75<436.731 552.205>
+VStem: 153 70<293.375 528.141> 328 70<410.561 525.234>
 LayerCount: 2
 Fore
 SplineSet
@@ -4690,7 +4700,8 @@ StartChar: u09ea
 Encoding: 124 2538 120
 Width: 472
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 42 85<178.619 304.773>
 LayerCount: 2
 Fore
 SplineSet
@@ -4848,11 +4859,13 @@ StartChar: u09ee
 Encoding: 128 2542 124
 Width: 604
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 38 75<187.236 265.634> 388 76<245.424 398.009> 598 75<163.489 194.125>
+VStem: 152 110<599.39 661.016>
 LayerCount: 2
 Fore
 SplineSet
-403 356 m 0xf4
+403 356 m 0
  396 377 377 388 346 388 c 0
  315 388 270 377 212 354 c 1
  211 349 208 337 202 316 c 0
@@ -4861,22 +4874,22 @@ SplineSet
  192 115 199 113 207 113 c 0
  237 113 276 135 321 179 c 0
  366 223 394 266 404 308 c 0
- 408 326 407 342 403 356 c 0xf4
+ 408 326 407 342 403 356 c 0
 675 440 m 1
  483 362 l 1
  483 348 481 334 478 319 c 0
  462 251 423 187 360 127 c 0
  295 65 231 35 170 38 c 1
  143 45 125 57 116 73 c 0
- 107 89 102 113 103 145 c 1xec
- 101 180 110 238 134 321 c 0xf4
+ 107 89 102 113 103 145 c 1
+ 101 180 110 238 134 321 c 0
  169 446 188 509 188 511 c 0
  201 570 196 599 174 598 c 1
  155 601 148 611 152 630 c 0
  155 641 161 650 171 659 c 0
  181 668 192 673 204 673 c 0
  236 673 255 660 262 636 c 0
- 269 612 267 573 255 520 c 0xec
+ 269 612 267 573 255 520 c 0
  250 497 242 470 232 439 c 1
  289 456 333 464 366 464 c 0
  407 464 438 452 459 429 c 1
@@ -5527,7 +5540,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: cbindusmall
+StartChar: u0981.salt
 Encoding: 156 -1 144
 Width: 5
 GlyphClass: 2
@@ -16634,6 +16647,7 @@ SplineSet
  693 673 l 1
  674 590 l 1
 EndSplineSet
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09b8_u09cd_u09a4_u09b0.salt
 EndChar
 
 StartChar: u09b8_u09cd_u0995_u09b0.vatu
@@ -16721,6 +16735,7 @@ SplineSet
  674 592 l 1x00f4
  674 590 l 1
 EndSplineSet
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09b8_u09cd_u0995_u09b0.salt
 EndChar
 
 StartChar: u09b9_u09cd_u09a8.cjct
@@ -25661,11 +25676,12 @@ StartChar: u09e7_slash_u09e8.afrc
 Encoding: 507 -1 495
 Width: 305
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 215 118<51 125 216 374> 351 92<129.519 216.936> 352 75<185.325 232.949>
 LayerCount: 2
 Fore
 SplineSet
-317 -38 m 0xe0
+317 -38 m 0x80
  314 -53 303 -62 296 -67 c 0
  285 -75 274 -76 266 -76 c 0
  257 -76 248 -74 241 -71 c 2
@@ -25694,20 +25710,19 @@ SplineSet
  290 83 268 62 245 49 c 0
  242 47 238 47 235 45 c 1
  260 27 285 9 309 -9 c 0
- 315 -14 320 -24 317 -38 c 0xe0
-215 352 m 2
- 203 352 194 351 175 351 c 0
+ 315 -14 320 -24 317 -38 c 0x80
+215 352 m 2xa0
+ 203 352 194 351 175 351 c 0xc0
  166 351 159 354 152 357 c 0
  142 362 127 371 116 379 c 0
  116 385 115 389 115 395 c 0
  115 397 115 399 116 404 c 0
- 118 412 123 420 129 427 c 0
- 140 438 155 443 171 443 c 0
+ 118 412 123 420 129 427 c 0xa0
+ 140 438 155 443 171 443 c 0xc0
  176 443 181 442 185 442 c 0
  192 433 195 427 218 427 c 0
  225 427 232 428 233 429 c 0
  241 433 250 442 256 468 c 0
- 256 468 l 0
  256 471 253 475 247 481 c 0
  238 490 221 502 196 514 c 0
  176 527 163 538 155 547 c 0
@@ -25719,27 +25734,30 @@ SplineSet
  229 600 231 598 235 595 c 0
  249 586 262 577 276 569 c 0
  319 541 347 508 336 460 c 0
- 335 456 335 453 334 449 c 0xd0
+ 335 456 335 453 334 449 c 0
  320 412 298 381 266 366 c 0
  249 357 232 354 216 352 c 2
- 215 352 l 2
+ 215 352 l 2xa0
 EndSplineSet
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09e8
 EndChar
 
 StartChar: u09e7_slash_u09e9.afrc
 Encoding: 508 -1 496
 Width: 561
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 39 78<181.026 279.826> 260 119<83 116.125 131 191 360 624>
+VStem: 160 84<164.968 197> 212 84<594.477 630.717> 296 85<134.027 204.67>
 LayerCount: 2
 Fore
 SplineSet
-651 379 m 1xf8
+651 379 m 1xd0
  624 260 l 1
  360 260 l 1
  361 259 362 258 363 257 c 0
- 382 235 387 205 381 171 c 0
- 381 168 380 166 379 163 c 0xf4
+ 382 235 387 205 381 171 c 0xc8
+ 381 168 380 166 379 163 c 0
  372 133 353 108 327 85 c 0
  293 55 254 39 214 39 c 0
  181 39 151 51 124 72 c 0
@@ -25769,16 +25787,14 @@ SplineSet
  270 640 280 639 288 632 c 0
  292 628 296 622 296 612 c 2
  296 608 l 1
- 296 608 l 2
  297 607 299 605 303 603 c 0
  317 595 331 586 345 578 c 0
  388 551 417 519 406 473 c 0
  405 469 404 466 403 462 c 0
  389 426 367 395 335 381 c 0
  333 380 331 380 329 379 c 1
- 651 379 l 1xf8
+ 651 379 l 1xd0
 246 213 m 1
- 246 213 l 1
  246 213 l 1
 131 260 m 1
  139 258 145 253 149 247 c 2
@@ -25799,27 +25815,29 @@ SplineSet
  244 193 l 2
  241 179 229 167 215 161 c 0
  208 158 199 156 191 156 c 0
- 181 156 163 159 160 178 c 0
+ 181 156 163 159 160 178 c 0xe8
  159 187 158 197 161 209 c 0
  165 227 176 245 191 260 c 1
  131 260 l 1
 EndSplineSet
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09e9
 EndChar
 
 StartChar: u09e7_slash_u09ea.afrc
 Encoding: 509 -1 497
 Width: 360
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 4 83<175.416 248.848> 114 81<205.813 248.233> 221 81<206.095 273.601> 312 105<57 526> 436 94<205.066 266> 436 78<270.192 320.903> 710 20G<269.5 280.5>
 LayerCount: 2
 Fore
 SplineSet
-430 548 m 0xfe
+430 548 m 0xf6
  429 543 427 540 426 538 c 2
  426 537 l 1
  411 497 387 467 354 451 c 0
  337 443 320 439 304 437 c 0
- 297 436 288 436 275 436 c 0
+ 297 436 288 436 275 436 c 0xf6
  270 436 264 436 257 436 c 0
  248 436 241 439 233 442 c 0
  222 447 207 456 195 465 c 1
@@ -25827,7 +25845,7 @@ SplineSet
  194 477 193 482 195 491 c 0
  196 497 199 504 204 510 c 0
  215 525 232 530 251 530 c 0
- 256 530 261 530 266 530 c 1
+ 256 530 261 530 266 530 c 1xfa
  270 523 l 2
  274 518 284 514 304 514 c 0
  313 514 319 515 321 516 c 0
@@ -25843,8 +25861,8 @@ SplineSet
  309 715 311 707 310 697 c 1
  311 695 314 692 319 689 c 0
  333 680 349 672 364 663 c 0
- 411 634 441 597 430 548 c 0xfe
-249 106 m 0xfd
+ 411 634 441 597 430 548 c 0xf6
+249 106 m 0
  249 108 249 108 249 108 c 0
  249 108 248 109 246 111 c 0
  244 113 241 114 231 114 c 0
@@ -25856,7 +25874,7 @@ SplineSet
  180 90 189 87 202 87 c 0
  216 87 229 91 239 97 c 0
  243 100 246 102 247 103 c 0
- 248 104 249 104 249 106 c 0xfd
+ 248 104 249 104 249 106 c 0
 275 213 m 0
  275 214 275 214 272 217 c 0
  270 219 266 221 259 221 c 0
@@ -25864,7 +25882,6 @@ SplineSet
  240 220 229 216 217 211 c 0
  212 209 208 206 206 205 c 0
  205 204 205 203 205 203 c 0
- 205 203 l 0
  205 202 l 0
  205 201 205 201 208 199 c 0
  210 197 215 195 226 195 c 0
@@ -25889,17 +25906,20 @@ SplineSet
  57 417 l 1
  550 417 l 1
 EndSplineSet
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09ea
 EndChar
 
 StartChar: u09e7_slash_u09ee.afrc
 Encoding: 510 -1 498
 Width: 371
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: -10 21G<109.5 126.5> 301 91<56 416> 434 95<174.629 230> 434 79<230.078 269.624> 714 20G<243 251.5>
+VStem: 64 77<72 123.781> 84 90<230.375 284.168> 184 77<90.4355 128.861> 204 72<701 729.159>
 LayerCount: 2
 Fore
 SplineSet
-349 549 m 0xfe
+349 549 m 0xd880
  348 544 347 542 346 539 c 2
  345 538 l 1
  333 502 317 468 288 450 c 0
@@ -25911,7 +25931,7 @@ SplineSet
  165 469 165 473 165 476 c 0
  165 478 165 483 166 489 c 0
  169 501 177 514 190 522 c 0
- 199 528 208 529 216 529 c 0
+ 199 528 208 529 216 529 c 0xe880
  221 529 225 528 230 528 c 1
  235 520 l 2
  237 515 239 513 250 513 c 0
@@ -25930,27 +25950,27 @@ SplineSet
  275 698 l 0
  275 698 275 695 280 691 c 0
  290 682 301 672 311 663 c 0
- 343 632 359 594 349 549 c 0xfe
-184 123 m 0xfd
+ 343 632 359 594 349 549 c 0xd880
+184 123 m 0xcd
  184 125 185 126 184 129 c 0
  183 129 183 130 179 130 c 0
  173 130 163 128 149 124 c 1
  146 110 l 2
  142 93 141 81 141 72 c 1
  145 74 151 79 160 88 c 0
- 176 104 182 114 184 123 c 0xfd
+ 176 104 182 114 184 123 c 0xcd
 320 230 m 0
  331 230 339 225 343 219 c 0
  348 212 351 201 348 189 c 0
  347 184 345 178 341 172 c 0
  337 165 331 160 325 155 c 1
  261 129 l 2
- 261 128 l 0
+ 261 128 l 0xcb
  253 94 233 61 204 34 c 0
  175 6 142 -10 111 -10 c 0
  108 -10 105 -10 103 -9 c 0
  89 -5 78 2 72 11 c 0
- 64 22 64 37 64 51 c 0
+ 64 22 64 37 64 51 c 0xcc80
  63 65 65 81 69 100 c 0
  71 109 74 119 77 130 c 0
  91 180 98 205 98 205 c 2
@@ -25959,7 +25979,7 @@ SplineSet
  82 238 83 246 84 252 c 0
  87 265 95 273 100 279 c 0
  113 293 127 294 134 294 c 0
- 156 294 169 284 174 268 c 0
+ 156 294 169 284 174 268 c 0xca
  179 251 177 231 172 208 c 1
  182 210 190 211 198 211 c 0
  214 211 228 207 239 200 c 1
@@ -25971,13 +25991,16 @@ SplineSet
  56 392 l 1
  437 392 l 1
 EndSplineSet
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09ee
 EndChar
 
 StartChar: u09e8_slash_u09e9.afrc
 Encoding: 511 -1 499
 Width: 364
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 5 81<177.893 238.239> 203 80<229.986 256.947> 331 98<63 257 352 477> 716 20G<256 267>
+VStem: 217 76<684.959 728.036>
 LayerCount: 2
 Fore
 SplineSet
@@ -26040,22 +26063,23 @@ SplineSet
  208 86 210 86 216 89 c 0
  232 98 250 117 255 140 c 0
  255 141 256 144 256 145 c 2
- 256 145 l 2
  260 167 259 182 256 190 c 0
  253 199 248 202 235 203 c 0
 EndSplineSet
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e8 slash u09e9
 EndChar
 
 StartChar: u09e9_slash_u09ea.afrc
 Encoding: 512 -1 500
 Width: 365
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: -9 85<135.912 175.126> 214 82<166.294 199.001> 312 105<57 526> 444 81<279.169 339.43> 642 80<331.785 358.151>
 LayerCount: 2
 Fore
 SplineSet
-336 642 m 1xfc
- 336 642 l 1xfc
+336 642 m 1
+ 336 642 l 1
 337 642 m 0
  336 642 334 639 333 634 c 0
  333 632 332 621 331 616 c 2
@@ -26066,9 +26090,8 @@ SplineSet
  269 565 277 549 284 539 c 0
  293 528 301 525 306 525 c 0
  309 525 311 525 317 528 c 0
- 333 537 351 556 356 579 c 0xfc40
+ 333 537 351 556 356 579 c 0
  356 580 357 583 357 584 c 2
- 357 584 l 2
  361 606 361 621 358 629 c 0
  355 638 350 641 337 642 c 0
 352 722 m 0
@@ -26086,7 +26109,7 @@ SplineSet
  265 659 263 655 263 651 c 1
  274 679 298 706 323 716 c 0
  333 720 343 722 352 722 c 0
-136 87 m 0xfe80
+136 87 m 0
  134 79 140 76 148 76 c 0
  156 76 160 78 166 83 c 0
  171 88 174 90 175 96 c 0
@@ -26094,7 +26117,7 @@ SplineSet
  173 105 174 105 172 105 c 0
  172 105 172 105 171 105 c 0
  160 105 148 101 144 99 c 0
- 139 96 138 94 136 87 c 0xfe80
+ 139 96 138 94 136 87 c 0
 201 205 m 0
  203 212 202 211 201 212 c 0
  200 214 200 214 199 214 c 0
@@ -26129,6 +26152,7 @@ SplineSet
  57 417 l 1
  550 417 l 1
 EndSplineSet
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e9 slash u09ea
 EndChar
 
 StartChar: u09b7_u09cd_u0995_u09b0.vatu
@@ -30135,6 +30159,43 @@ SplineSet
 EndSplineSet
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09ac
+EndChar
+
+StartChar: .notdef
+Encoding: 44 -1 575
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+266 800 m 1
+ 734 800 l 1
+ 734 0 l 1
+ 266 0 l 1
+ 266 800 l 1
+326 742 m 1
+ 326 62 l 1
+ 686 62 l 1
+ 686 742 l 1
+ 326 742 l 1
+416 604 m 1
+ 474.668104851 649.331825906 530.66810486 649.331825895 584 604 c 1
+ 628.146057978 549.939946006 640.842484892 485.949080994 584 400 c 1
+ 490 400 l 1
+ 490 212 l 1
+ 448 212 l 1
+ 448 400 l 1
+ 448 446 l 1
+ 538 446 l 1
+ 596.718238405 484.397340208 585.701164669 526.28154246 538 570 c 1
+ 497.334498525 616.180153716 456.666653347 569.472103507 416 570 c 1
+ 416 604 l 1
+450 152 m 1
+ 494 152 l 1
+ 494 108 l 1
+ 450 108 l 1
+ 450 152 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

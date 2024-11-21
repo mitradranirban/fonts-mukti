@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1138213189
-ModificationTime: 1720336350
+ModificationTime: 1732206708
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -71,9 +71,9 @@ Lookup: 4 0 0 "'vatu' Vattu Variants in Bengali lookup 7" { "'vatu' Vattu Varian
 Lookup: 4 0 0 "'blws' Below Base Substitutions in Bengali lookup 10" { "'blws' Below Base Substitutions in Bengali lookup 10 subtable"  } ['blws' ('bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'abvs' Above Base Substitutions in Bengali lookup 11" { "'abvs' Above Base Substitutions in Bengali lookup 11 subtable"  } ['abvs' ('bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'haln' Halant Forms in Bengali lookup 12" { "'haln' Halant Forms in Bengali lookup 12 subtable"  } ['haln' ('bng2' <'dflt' > ) ]
-Lookup: 1 0 0 "'salt' Stylistic Alternatives in Bengali2 lookup 17" { "'salt' Stylistic Alternatives in Bengali2 lookup 17-1"  } ['salt' ('bng2' <'dflt' > ) ]
-Lookup: 4 0 0 "'afrc' Vertical Fractions in Bengali2 lookup 13" { } ['afrc' ('bng2' <'dflt' > ) ]
 Lookup: 2 0 0 "Reverse for conjunct" { "Reverse for conjunct-1"  } []
+Lookup: 4 0 0 "'afrc' Vertical Fractions lookup 0" { "'afrc' Vertical Fractions lookup 0-1"  } ['afrc' ('DFLT' <'dflt' > 'bng2' <'ASM ' 'dflt' > 'dev2' <'dflt' > ) ]
+Lookup: 1 0 0 "'salt' Stylistic Alternatives in Bengali2 lookup 17" { "'salt' Stylistic Alternatives in Bengali2 lookup 17-1"  } ['salt' ('bng2' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Bengali lookup 0" { "'abvm' Above Base Mark in Bengali lookup 0 subtable"  } ['abvm' ('bng2' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Bengali lookup 1" { "'blwm' Below Base Mark in Bengali lookup 1 subtable"  } ['blwm' ('bng2' <'dflt' > ) ]
 MarkAttachClasses: 2
@@ -94,7 +94,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 531 9 6
+WinInfo: 0 18 7
 BeginPrivate: 6
 BlueValues 31 [-23 0 524 539 709 709 729 741]
 OtherBlues 11 [-218 -218]
@@ -104,7 +104,7 @@ StdHW 4 [63]
 StdVW 4 [62]
 EndPrivate
 AnchorClass2: "Anchor-1" "'blwm' Below Base Mark in Bengali lookup 1 subtable" "Anchor-0" "'abvm' Above Base Mark in Bengali lookup 0 subtable"
-BeginChars: 577 575
+BeginChars: 577 576
 
 StartChar: .notdef
 Encoding: 154 -1 0
@@ -1582,6 +1582,7 @@ SplineSet
  43 914 58 905 69 888 c 1
 EndSplineSet
 Validated: 33
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u0981.salt
 EndChar
 
 StartChar: u0982
@@ -3982,6 +3983,7 @@ SplineSet
  445 954 552 897 638 783 c 1xf0
 EndSplineSet
 Validated: 1
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09bf.salt
 EndChar
 
 StartChar: u09c0
@@ -4024,6 +4026,7 @@ SplineSet
  230 590 l 1xf0
 EndSplineSet
 Validated: 33
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09c0.salt
 EndChar
 
 StartChar: u09c1
@@ -5922,7 +5925,7 @@ Fore
 Validated: 1
 EndChar
 
-StartChar: cbindusmall
+StartChar: u0981.salt
 Encoding: 156 -1 144
 Width: 0
 GlyphClass: 2
@@ -17586,6 +17589,7 @@ SplineSet
  578 590 l 1
 EndSplineSet
 Validated: 33
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09b8_u09cd_u09a4_u09b0.salt
 EndChar
 
 StartChar: u09b8_u09cd_u0995_u09b0.vatu
@@ -17676,6 +17680,7 @@ SplineSet
  578 590 l 1
 EndSplineSet
 Validated: 33
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09b8_u09cd_u0995_u09b0.salt
 EndChar
 
 StartChar: u09b9_u09cd_u09a8.cjct
@@ -27169,6 +27174,7 @@ SplineSet
  143 352 l 2
 EndSplineSet
 Validated: 1
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09e8
 EndChar
 
 StartChar: u09e7_slash_u09e9.afrc
@@ -27252,6 +27258,7 @@ SplineSet
  75.743148637 260 l 1
 EndSplineSet
 Validated: 33
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09e9
 EndChar
 
 StartChar: u09e7_slash_u09ea.afrc
@@ -27338,6 +27345,7 @@ SplineSet
  487 417 l 1
 EndSplineSet
 Validated: 1
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09ea
 EndChar
 
 StartChar: u09e7_slash_u09ee.afrc
@@ -27421,6 +27429,7 @@ SplineSet
  372 392 l 1
 EndSplineSet
 Validated: 1
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09ee
 EndChar
 
 StartChar: u09e8_slash_u09e9.afrc
@@ -27495,6 +27504,7 @@ SplineSet
  222.108043893 198.596755844 215.262133387 202.377208163 201.66980787 202.945385511 c 0
 EndSplineSet
 Validated: 1
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e8 slash u09e9
 EndChar
 
 StartChar: u09e9_slash_u09ea.afrc
@@ -27581,6 +27591,7 @@ SplineSet
  487 417 l 1
 EndSplineSet
 Validated: 5
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e9 slash u09ea
 EndChar
 
 StartChar: u09b7_u09cd_u0995_u09b0.vatu
@@ -31774,6 +31785,43 @@ EndSplineSet
 Validated: 1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09f1
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09ac
+EndChar
+
+StartChar: .notdef
+Encoding: 44 -1 575
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+266 800 m 1
+ 734 800 l 1
+ 734 0 l 1
+ 266 0 l 1
+ 266 800 l 1
+326 742 m 1
+ 326 62 l 1
+ 686 62 l 1
+ 686 742 l 1
+ 326 742 l 1
+416 604 m 1
+ 474.668104851 649.331825906 530.66810486 649.331825895 584 604 c 1
+ 628.146057978 549.939946006 640.842484892 485.949080994 584 400 c 1
+ 490 400 l 1
+ 490 212 l 1
+ 448 212 l 1
+ 448 400 l 1
+ 448 446 l 1
+ 538 446 l 1
+ 596.718238405 484.397340208 585.701164669 526.28154246 538 570 c 1
+ 497.334498525 616.180153716 456.666653347 569.472103507 416 570 c 1
+ 416 604 l 1
+450 152 m 1
+ 494 152 l 1
+ 494 108 l 1
+ 450 108 l 1
+ 450 152 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
