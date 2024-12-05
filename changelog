@@ -1,4 +1,15 @@
 changelog
+* Version 3.4.3 Dec 05 2024 Dr Anirban Mitra
+- minor bugfix - correction of typo in conjunct lookup 
+
+* Version 3.4.2  Nov 26 2024 Dr Anirban Mitra
+- Added Missing .notdef glyf
+- Added stylistic alternate of i-matra and ii-matra
+- reinstated vertical fraction lookup mistakenly deleted from previous version
+
+* Version 3.4.0 July 07 2024 
+- Added Italic and Bold Italic to Mukti Family thus completing the set
+
 * Version 3.0.3 Thu Feb 09 2024 22:10:40 +0530 Dr Anirban Mitra
 - addtion of few missing conjucts
 - miscelleneous bug fix in OT table 

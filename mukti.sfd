@@ -5,7 +5,7 @@ FamilyName: Mukti
 Weight: Medium
 Copyright: GNU GPL3+ FE (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-24. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
 FontLog: "muktiregular3.0beta1+AAoACgAA-v3.0.3"
-Version: 3.402
+Version: 3.4.3;December 5 2024
 ItalicAngle: 0
 UnderlinePosition: -166
 UnderlineWidth: 73
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1138213189
-ModificationTime: 1732206422
+ModificationTime: 1733374390
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -93,7 +93,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 18 7
+WinInfo: 468 18 6
 BeginPrivate: 6
 BlueValues 31 [-23 0 524 539 709 709 729 741]
 OtherBlues 11 [-218 -218]
@@ -103,7 +103,7 @@ StdHW 4 [63]
 StdVW 4 [62]
 EndPrivate
 AnchorClass2: "Anchor-1" "'blwm' Below Base Mark in Bengali lookup 1 subtable" "Anchor-0" "'abvm' Above Base Mark in Bengali lookup 0 subtable"
-BeginChars: 587 576
+BeginChars: 587 577
 
 StartChar: .notdef
 Encoding: 154 -1 0
@@ -29802,7 +29802,7 @@ SplineSet
  586 610 l 1
 EndSplineSet
 Validated: 33
-Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd zwnj u09a4
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd zwj u09a4
 EndChar
 
 StartChar: u09b9_u09cd_u09ae.salt
@@ -29969,7 +29969,7 @@ SplineSet
 EndSplineSet
 Validated: 33
 LCarets2: 3 0 0 0
-Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0999 u09cd zwnj u0997
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0999 u09cd zwj u0997
 EndChar
 
 StartChar: u0995_u09cd_u09b0.salt
@@ -31594,9 +31594,9 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: .notdef
-Encoding: 44 -1 575
+Encoding: 44 0 575
 Width: 1000
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -31628,6 +31628,84 @@ SplineSet
  450 108 l 1
  450 152 l 1
 EndSplineSet
+EndChar
+
+StartChar: NameMe.577
+Encoding: 577 -1 576
+Width: 678
+Flags: HW
+HStem: 3 63<595.176 731.36> 51 50<1002.23 1042.31> 251 57<951 1024.54> 367 58<851.268 890> 378 60<577.038 632.325> 610 63<495 690.714 758 889.613 957 1240>
+VStem: 690 68<560.25 610> 889 62<99.6286 251 327 367> 940 70<434.57 548.363> 1055 50<110.978 220.785>
+LayerCount: 2
+Fore
+SplineSet
+422.5 99.62890625 m 2x2740
+ 422.5 261 l 1
+ 269.5 201 l 1
+ 412.391601562 104.8046875 l 2
+ 415.82421875 103.291992188 419.193359375 101.567382812 422.5 99.62890625 c 2x2740
+519.5 445 m 1
+ 353.5 541 l 1
+ 338.5 522 331.5 501 333.5 479 c 2
+ 334.5 473 l 2
+ 337.5 454 344.5 439 357.5 426 c 1
+ 382.5 407 l 1
+ 400.5 400 415.5 396 427.5 396 c 0
+ 454.5 396 484.5 412 519.5 445 c 1
+540.5 594 m 0
+ 519.5 604 498.5 610 477.5 610 c 0
+ 446.5 610 415.5 598 383.5 575 c 1
+ 545.5 480 l 1
+ 558.5 501 565.5 523 565.5 544 c 0
+ 565.5 569 557.5 585 540.5 594 c 0
+-2.5 608 m 1
+ -2.5 671 l 1
+ 542.5 673 l 1
+ 578.5 673 l 1
+ 681.5 673 l 1
+ 681.5 610 l 1
+ 593.5 610 l 1
+ 609.5 585 616.5 558 616.5 532 c 0
+ 616.5 491 598.5 452 563.5 416 c 0
+ 536.538085938 389.038085938 509.934570312 369.973632812 483.690429688 359.021484375 c 1
+ 484.5 308 l 1
+ 503.5 308 521.5 306 539.5 300 c 0
+ 548.5 297 556.5 293 565.5 289 c 0
+ 614.5 265 638.5 226 638.5 173 c 0
+ 638.5 135 629.5 104 610.5 80 c 0
+ 596.5 62 579.5 52 558.5 51 c 0
+ 543.5 53 535.5 62 535.5 77 c 0
+ 535.5 86 540.5 94 547.5 101 c 1
+ 562.5 104 573.5 114 581.5 134 c 0
+ 586.5 145 588.5 156 588.5 168 c 0
+ 588.5 182 584.5 195 578.5 208 c 0
+ 556.5 238 526.5 253 488.5 251 c 2
+ 484.5 251 l 1
+ 484.5 44 l 2
+ 484.5 32.2158203125 473.819335938 26.18359375 453.202148438 25.158203125 c 0
+ 452.97265625 24.767578125 452.73828125 24.3818359375 452.5 24 c 0
+ 447.5 17 442.5 14 437.5 15 c 0
+ 414.5 41 390.5 54 368.5 54 c 0
+ 354.5 54 321.5 45 269.5 27 c 0
+ 235.5 11 206.5 3 181.5 3 c 0
+ 128.5 3 81.5 40 42.5 115 c 0
+ 40.5 120 39.5 124 39.5 129 c 0
+ 39.5 143 48.5 150 65.5 150 c 0
+ 71.5 150 78.5 149 85.5 146 c 1
+ 113.5 93 144.5 66 178.5 66 c 0
+ 191.5 66 210.5 70 234.5 78 c 2
+ 309.5 101 l 2
+ 312.043945312 101.814453125 314.537109375 102.586914062 316.98046875 103.318359375 c 1
+ 190.5 188 l 2
+ 183.5 193 179.5 199 179.5 208 c 0
+ 179.5 217 185.250976562 223.372070312 195.5 229 c 2
+ 414.265625 349.125976562 l 1
+ 401.379882812 350.825195312 388.680664062 354.450195312 375.5 360 c 0
+ 314.5 394 283.5 438 283.5 495 c 0
+ 283.5 542 302.5 581 339.5 610 c 1
+ -2.5 608 l 1
+EndSplineSet
+Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09b7_u09cd_u0995_u09b0.vatu
 EndChar
 EndChars
 EndSplineFont

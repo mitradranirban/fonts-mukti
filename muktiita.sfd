@@ -3,9 +3,9 @@ FontName: MuktiItalic
 FullName: Mukti Italic
 FamilyName: Mukti
 Weight: Medium
-Copyright: GNU GPL3+ FE (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-24. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
+Copyright: GNU GPL3+ with Font Exception (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-24. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
 FontLog: "muktiregular3.0beta1+AAoACgAA-v3.0.3"
-Version: 3.1.0 July 7, 2024
+Version: 3.4.3;Dec 5 2024
 ItalicAngle: 15
 UnderlinePosition: -166
 UnderlineWidth: 73
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1138213189
-ModificationTime: 1732206598
+ModificationTime: 1733374823
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -71,9 +71,9 @@ Lookup: 4 0 0 "'vatu' Vattu Variants in Bengali lookup 7" { "'vatu' Vattu Varian
 Lookup: 4 0 0 "'blws' Below Base Substitutions in Bengali lookup 10" { "'blws' Below Base Substitutions in Bengali lookup 10 subtable"  } ['blws' ('bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'abvs' Above Base Substitutions in Bengali lookup 11" { "'abvs' Above Base Substitutions in Bengali lookup 11 subtable"  } ['abvs' ('bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'haln' Halant Forms in Bengali lookup 12" { "'haln' Halant Forms in Bengali lookup 12 subtable"  } ['haln' ('bng2' <'dflt' > ) ]
-Lookup: 4 0 0 "'afrc' Vertical Fractions in Bengali2 lookup 13" { } ['afrc' ('bng2' <'dflt' > ) ]
 Lookup: 2 0 0 "Reverse for conjunct" { "Reverse for conjunct-1"  } []
 Lookup: 1 0 0 "'salt' Stylistic Alternatives in Bengali2 lookup 17" { "'salt' Stylistic Alternatives in Bengali2 lookup 17-1"  } ['salt' ('bng2' <'dflt' > ) ]
+Lookup: 4 0 0 "'afrc' Vertical Fractions lookup 0" { "'afrc' Vertical Fractions lookup 0-1"  } ['afrc' ('DFLT' <'dflt' > 'bng2' <'ASM ' 'dflt' > 'dev2' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Bengali lookup 0" { "'abvm' Above Base Mark in Bengali lookup 0 subtable"  } ['abvm' ('bng2' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Bengali lookup 1" { "'blwm' Below Base Mark in Bengali lookup 1 subtable"  } ['blwm' ('bng2' <'dflt' > ) ]
 MarkAttachClasses: 2
@@ -94,7 +94,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 18 7
+WinInfo: 0 18 6
 BeginPrivate: 6
 BlueValues 31 [-23 0 524 539 709 709 729 741]
 OtherBlues 11 [-218 -218]
@@ -565,7 +565,8 @@ Encoding: 16 47 16
 AltUni2: 002044.ffffffff.0
 Width: 257
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: -20 21G<-12 49.5207> 709 20G<370.506 433>
 LayerCount: 2
 Fore
 SplineSet
@@ -2843,13 +2844,14 @@ StartChar: u09a3
 Encoding: 79 2467 75
 Width: 476
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 283 56<215.449 264.526> 591 55<273.947 418.431> 610 63<557 626>
 AnchorPoint: "Anchor-1" 422 41 basechar 0
 AnchorPoint: "Anchor-0" 453 660 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-374 68 m 2xb8
+374 68 m 2xa0
  454 414 l 2
  457 429 460 455 461 493 c 0
  463 520 451 543 428 562 c 0
@@ -2864,7 +2866,7 @@ SplineSet
  174 297 141 336 137 398 c 0
  135 419 138 440 143 461 c 0
  153 506 174 544 207 578 c 0
- 251 623 307 646 377 646 c 0xd8
+ 251 623 307 646 377 646 c 0xc0
  421 646 460 627 494 588 c 1
  507 645 533 673 571 673 c 2
  641 673 l 1
@@ -2872,7 +2874,7 @@ SplineSet
  557 610 l 1
  432 69 l 2
  428 52 417 44 399 44 c 0
- 379 44 370 52 374 68 c 2xb8
+ 379 44 370 52 374 68 c 2xa0
 EndSplineSet
 EndChar
 
@@ -4070,7 +4072,9 @@ StartChar: u09cd
 Encoding: 110 2509 106
 Width: 8
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: -154 164
+VStem: -103 167
 AnchorPoint: "Anchor-1" -115 15 mark 0
 LayerCount: 2
 Fore
@@ -4650,7 +4654,9 @@ StartChar: u09e9
 Encoding: 123 2537 119
 Width: 598
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 74 59<314.093 450.435> 588 56<436.497 564.8>
+VStem: 156 50<289.485 533.463> 335 54<415.772 531.941>
 LayerCount: 2
 Fore
 SplineSet
@@ -4690,11 +4696,12 @@ StartChar: u09ea
 Encoding: 124 2538 120
 Width: 441
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 43 65<168.431 306.889> 335 58<240.355 378.803> 617 61<313.645 448.282>
 LayerCount: 2
 Fore
 SplineSet
-314 335 m 0xf4
+314 335 m 0
  220 328 164 287 147 213 c 0
  139 180 145 154 162 136 c 0
  179 117 202 108 233 108 c 0
@@ -4702,7 +4709,7 @@ SplineSet
  370 173 389 203 397 238 c 0
  404 267 401 290 387 309 c 0
  373 328 349 336 318 335 c 0
- 316 335 316 335 314 335 c 0xf4
+ 316 335 316 335 314 335 c 0
 397 678 m 0
  450 678 488 664 510 634 c 0
  531 608 536 573 527 532 c 0
@@ -4711,13 +4718,13 @@ SplineSet
  453 186 419 138 363 98 c 0
  312 61 264 43 218 43 c 0
  199 43 182 46 164 51 c 0
- 93 73 66 121 83 194 c 0xf4
+ 93 73 66 121 83 194 c 0
  90 224 104 253 127 283 c 0
  150 312 176 336 207 355 c 1
- 163 386 146 429 159 484 c 0xec
+ 163 386 146 429 159 484 c 0
  170 533 201 578 248 618 c 0
  295 658 345 678 397 678 c 0
-225 493 m 0xec
+225 493 m 0
  218 459 221 434 237 417 c 0
  251 401 271 393 298 393 c 0
  322 393 348 400 373 412 c 0
@@ -4727,7 +4734,7 @@ SplineSet
  440 610 420 619 393 618 c 0
  392 618 390 617 389 617 c 0
  355 614 323 603 291 582 c 0
- 255 558 233 528 225 493 c 0xec
+ 255 558 233 528 225 493 c 0
 EndSplineSet
 EndChar
 
@@ -5626,27 +5633,28 @@ StartChar: u0995_u09cd_u09b7.akhn
 Encoding: 158 -1 146
 Width: 759
 GlyphClass: 3
-Flags: HW
+Flags: W
+HStem: 610 63<144 238.726 298 454 500.852 595 648 914>
 LayerCount: 2
 Fore
 SplineSet
-518 610 m 1xdc
+518 610 m 1
  507 600 500 590 498 580 c 0
  492 553 515 524 568 494 c 1
  595 610 l 1
- 518 610 l 1xdc
+ 518 610 l 1
 485 133 m 1
  553 430 l 1
- 467 477 430 526 442 578 c 0xdc
+ 467 477 430 526 442 578 c 0
  444 588 448 599 454 610 c 1
  298 610 l 1
  305 591 306 570 301 548 c 0
  299 538 295 527 289 514 c 1
  329 508 361 490 385 460 c 0
- 411 427 418 388 408 343 c 0xec
+ 411 427 418 388 408 343 c 0
  402 319 391 294 374 269 c 1
  485 133 l 1
-346 342 m 0xec
+346 342 m 0
  353 373 348 400 331 423 c 0
  316 445 295 456 268 456 c 0
  261 456 255 455 248 453 c 1
@@ -5680,7 +5688,7 @@ SplineSet
  210 157 203 164 199 175 c 0
  197 180 198 186 199 191 c 0
  200 197 203 202 208 206 c 0
- 289 249 335 294 346 342 c 0xec
+ 289 249 335 294 346 342 c 0
 EndSplineSet
 Ligature2: "'akhn' Akhand in Bengali lookup 2 subtable" u0995 u09cd u09b7
 EndChar
@@ -10344,24 +10352,25 @@ StartChar: bn_ka_ssa.akhn_u09cd_u09a3.cjct
 Encoding: 244 -1 232
 Width: 774
 GlyphClass: 3
-Flags: HW
+Flags: W
+HStem: 3 46<313.146 407.653> 610 63<146 240.273 299 455 502.659 596 649 916>
 LayerCount: 2
 Fore
 SplineSet
-519 610 m 1xe7
+519 610 m 1
  508 600 502 590 500 580 c 0
  494 553 516 524 569 494 c 1
  596 610 l 1
- 519 610 l 1xe7
+ 519 610 l 1
 486 133 m 1
  554 430 l 1
- 468 477 431 526 443 578 c 0xe7
+ 468 477 431 526 443 578 c 0
  445 588 449 599 455 610 c 1
  299 610 l 1
  306 591 307 570 302 548 c 0
  300 538 297 527 291 514 c 1
  331 508 362 490 386 460 c 0
- 412 427 419 388 409 343 c 0xeb
+ 412 427 419 388 409 343 c 0
  403 319 392 294 375 269 c 1
  486 133 l 1
 359 3 m 0
@@ -10371,7 +10380,7 @@ SplineSet
  324 -100 325 -104 323 -111 c 0
  319 -129 310 -138 299 -138 c 0
  297 -138 297 -137 294 -136 c 0
- 258 -112 245 -77 256 -31 c 0xf3
+ 258 -112 245 -77 256 -31 c 0
  263 -1 280 21 308 36 c 0
  324 44 341 49 360 49 c 0
  402 49 433 31 454 -6 c 1
@@ -10382,7 +10391,7 @@ SplineSet
  212 157 205 164 201 175 c 0
  199 180 199 186 200 191 c 0
  201 197 205 202 210 206 c 0
- 291 249 337 294 348 342 c 0xeb
+ 291 249 337 294 348 342 c 0
  355 373 350 400 333 423 c 0
  318 445 297 456 270 456 c 0
  263 456 257 455 250 453 c 1
@@ -10415,7 +10424,7 @@ SplineSet
  435 -87 436 -61 429 -48 c 0
  410 -14 387 3 359 3 c 0
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995_u09cd_u09b7.akhn u09cd u09a3_u09b0_u09cd.blwf.vatu
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995_u09cd_u09b7.akhn u09cd u09a3
 EndChar
 
 StartChar: bn_ka_ssa.akhn_u09cd_u09ae.cjct
@@ -25840,6 +25849,7 @@ SplineSet
  92 355 l 1
  358 355 l 1
 EndSplineSet
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09e8
 EndChar
 
 StartChar: u09e7_slash_u09e9.afrc
@@ -25904,6 +25914,7 @@ SplineSet
  413 557 425 527 417 493 c 0
  416 490 416 486 415 483 c 0
 EndSplineSet
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09e9
 EndChar
 
 StartChar: u09e7_slash_u09ea.afrc
@@ -25974,6 +25985,7 @@ SplineSet
  369 489 381 458 373 424 c 0
  372 421 372 418 371 415 c 0xfa
 EndSplineSet
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09ea
 EndChar
 
 StartChar: u09e7_slash_u09ee.afrc
@@ -26039,6 +26051,7 @@ SplineSet
  118 320 l 1
  128 364 l 1
 EndSplineSet
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09ee
 EndChar
 
 StartChar: u09e8_slash_u09e9.afrc
@@ -26105,17 +26118,20 @@ SplineSet
  189 174 183 170 176 170 c 0
  169 170 167 180 172 200 c 0
 EndSplineSet
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e8 slash u09e9
 EndChar
 
 StartChar: u09e9_slash_u09ea.afrc
 Encoding: 512 -1 500
 Width: 359
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 17 26<143.492 209.704> 315 44<130 328> 381 24<231.826 296.998> 587 22<282.647 338.736>
+VStem: 172 21<461.53 574.288> 246 20<517.593 568.224>
 LayerCount: 2
 Fore
 SplineSet
-246 547 m 0xfe80
+246 547 m 0
  250 564 258 578 269 590 c 0
  281 603 294 609 309 609 c 0
  337 609 356 599 367 578 c 0
@@ -26138,13 +26154,13 @@ SplineSet
  285 583 273 571 268 549 c 0
  266 542 266 535 266 527 c 0
  264 520 258 517 251 517 c 0
- 244 517 241 527 246 547 c 0xfe80
+ 244 517 241 527 246 547 c 0
 205 134 m 0
  167 131 145 115 138 85 c 0
  135 72 137 61 144 54 c 0
  151 47 160 43 172 43 c 0
  188 43 201 49 214 59 c 0
- 227 69 235 81 238 95 c 0xff
+ 227 69 235 81 238 95 c 0
  241 106 239 117 233 124 c 0
  227 132 218 135 205 134 c 0
 237 271 m 0
@@ -26172,10 +26188,11 @@ SplineSet
  181 223 171 211 168 197 c 0
 130 359 m 1
  339 359 l 1
- 328 315 l 1xfe80
+ 328 315 l 1
  120 315 l 1
  130 359 l 1
 EndSplineSet
+Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e9 slash u09ea
 EndChar
 
 StartChar: u09b7_u09cd_u0995_u09b0.vatu
@@ -29275,7 +29292,7 @@ SplineSet
  602 673 l 1
 EndSplineSet
 LCarets2: 3 0 0 0
-Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09b9 
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09b9
 EndChar
 
 StartChar: u099f_u09cd_u09ac.cjct

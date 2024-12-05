@@ -3,9 +3,9 @@ FontName: MuktiBold
 FullName: Mukti Bold
 FamilyName: Mukti
 Weight: Bold
-Copyright: GNU GPL3+ FE (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-22. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
+Copyright: GNU GPL3+ FE (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-24. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
 FontLog: "muktiregular3.0beta1+AAoACgAA-version3.0.2"
-Version: 3.4.0 Feb 11,2024
+Version: 3.4.3;December 05 2024
 ItalicAngle: 0
 UnderlinePosition: -166
 UnderlineWidth: 73
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1138213189
-ModificationTime: 1732206708
+ModificationTime: 1733374518
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -94,7 +94,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 18 7
+WinInfo: 72 18 6
 BeginPrivate: 6
 BlueValues 31 [-23 0 524 539 709 709 729 741]
 OtherBlues 11 [-218 -218]
@@ -11056,7 +11056,7 @@ SplineSet
  837 590 l 1
 EndSplineSet
 Validated: 33
-Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" bn_ka_ssa.akhn u09cd u09a8
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" bn_ka_ssa.akhn u09cd u09a3
 EndChar
 
 StartChar: bn_ka_ssa.akhn_u09cd_u09ae.cjct
