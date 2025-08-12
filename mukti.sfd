@@ -1,4 +1,4 @@
-SplineFontDB: 3.2
+SplineFontDB: 3.0
 FontName: Mukti
 FullName: Mukti
 FamilyName: Mukti
@@ -93,7 +93,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 468 18 6
+WinInfo: 468 18 7
 BeginPrivate: 6
 BlueValues 31 [-23 0 524 539 709 709 729 741]
 OtherBlues 11 [-218 -218]
@@ -31630,7 +31630,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.577
+StartChar: u09b7_u09cd_u0995_u09cd_u09b0
 Encoding: 577 -1 576
 Width: 678
 Flags: HW
