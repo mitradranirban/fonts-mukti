@@ -1,18 +1,18 @@
-SplineFontDB: 3.2
+SplineFontDB: 3.0
 FontName: MuktiBold
 FullName: Mukti Bold
 FamilyName: Mukti
 Weight: Bold
-Copyright: GNU GPL3+ FE (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-24. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
+Copyright: GNU GPL3+ FE (c) Mukta Bangla Font Project, Dr Anirban Mitra 2002-26. For detail licence agreement see www.gnu.org/licences/gpl.txt\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version
 FontLog: "muktiregular3.0beta1+AAoACgAA-version3.0.2"
-Version: 3.4.3;December 05 2024
+Version: 3.5.0
 ItalicAngle: 0
 UnderlinePosition: -166
 UnderlineWidth: 73
 Ascent: 800
 Descent: 200
 InvalidEm: 0
-sfntRevision: 0x0001fd70
+sfntRevision: 0x00038000
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1138213189
-ModificationTime: 1733374518
+ModificationTime: 1776934262
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -88,13 +88,14 @@ ChainSub2: coverage "'cjct' Contextual Chaining Substitution in Bengali2 lookup 
 EndFPST
 LangName: 1093 "" "+Ca4JwQmVCc0JpAm/" "" "" "+Ca4JwQmVCc0JpAm/ +CawJywmyCc0JoQAA" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+CZwJlwmkCccA +CYYJqAmoCc0JpgmvCZwJzQmeCccA +CYYJrgm+CbAA +CagJvwmuCagJzQmkCc0JsAmo "
 LangName: 1033 "GNU GPL3+- +AKkA Mukta Bangla Font Project 2002-2022 Free Software. For detail licence agreement see www.gnu.org/licences/gpl.txt+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version." "" "" "" "" "" "" "" "Mukta Bangla Font Project" "Dr Anirban Mitra" "This is a font made by using good quality glyphs of GPLed font bng2-n from Cyberscape Multimedia <www.akruti.com/freedom>. It is made for Mukta Bangla Font project." "http://www.nongnu.org/freebangfont" "http://sites.google.com/site/mitradrani" "GNU GPL3+-+AKkA Mukta Bangla Font Project, Dr Anirban Mitra 2002-2022" "http://www.gnu.org/copyleft/gpl.htm" "" "Mukti" "Bold" "" "+CZwJlwmkCccA +CYYJqAmoCc0JpgmvCZwJzQmeCccA +CYYJrgm+CbAA +CagJvwmuCagJzQmkCc0JsAmo "
-Encoding: Custom
+Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 72 18 6
+WinInfo: 0 18 7
 BeginPrivate: 6
 BlueValues 31 [-23 0 524 539 709 709 729 741]
 OtherBlues 11 [-218 -218]
@@ -104,10 +105,10 @@ StdHW 4 [63]
 StdVW 4 [62]
 EndPrivate
 AnchorClass2: "Anchor-1" "'blwm' Below Base Mark in Bengali lookup 1 subtable" "Anchor-0" "'abvm' Above Base Mark in Bengali lookup 0 subtable"
-BeginChars: 577 576
+BeginChars: 65961 578
 
 StartChar: .notdef
-Encoding: 154 -1 0
+Encoding: 65536 -1 0
 Width: 431
 Flags: W
 HStem: 0 33<65 333> 633 33<65 333>
@@ -130,7 +131,7 @@ Validated: 1
 EndChar
 
 StartChar: nonmarkingreturn
-Encoding: 0 13 1
+Encoding: 13 13 1
 Width: 333
 GlyphClass: 2
 Flags: W
@@ -140,7 +141,7 @@ Validated: 1
 EndChar
 
 StartChar: space
-Encoding: 1 32 2
+Encoding: 32 32 2
 AltUni2: 0000a0.ffffffff.0
 Width: 277
 GlyphClass: 2
@@ -151,7 +152,7 @@ Validated: 1
 EndChar
 
 StartChar: exclam
-Encoding: 2 33 3
+Encoding: 33 33 3
 Width: 332
 GlyphClass: 2
 Flags: W
@@ -177,7 +178,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedbl
-Encoding: 3 34 4
+Encoding: 34 34 4
 Width: 473
 GlyphClass: 2
 Flags: W
@@ -205,7 +206,7 @@ Validated: 1
 EndChar
 
 StartChar: numbersign
-Encoding: 4 35 5
+Encoding: 35 35 5
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -252,7 +253,7 @@ Validated: 1
 EndChar
 
 StartChar: dollar
-Encoding: 5 36 6
+Encoding: 36 36 6
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -304,7 +305,7 @@ Validated: 33
 EndChar
 
 StartChar: percent
-Encoding: 6 37 7
+Encoding: 37 37 7
 Width: 888
 GlyphClass: 2
 Flags: W
@@ -362,7 +363,7 @@ Validated: 1
 EndChar
 
 StartChar: ampersand
-Encoding: 7 38 8
+Encoding: 38 38 8
 Width: 721
 GlyphClass: 2
 Flags: W
@@ -419,7 +420,7 @@ Validated: 1
 EndChar
 
 StartChar: quotesingle
-Encoding: 8 39 9
+Encoding: 39 39 9
 Width: 237
 GlyphClass: 2
 Flags: W
@@ -440,7 +441,7 @@ Validated: 1
 EndChar
 
 StartChar: parenleft
-Encoding: 9 40 10
+Encoding: 40 40 10
 Width: 332
 GlyphClass: 2
 Flags: W
@@ -465,7 +466,7 @@ Validated: 1
 EndChar
 
 StartChar: parenright
-Encoding: 10 41 11
+Encoding: 41 41 11
 Width: 332
 GlyphClass: 2
 Flags: W
@@ -490,7 +491,7 @@ Validated: 1
 EndChar
 
 StartChar: asterisk
-Encoding: 11 42 12
+Encoding: 42 42 12
 Width: 388
 GlyphClass: 2
 Flags: W
@@ -520,7 +521,7 @@ Validated: 1
 EndChar
 
 StartChar: plus
-Encoding: 12 43 13
+Encoding: 43 43 13
 Width: 583
 GlyphClass: 2
 Flags: W
@@ -547,7 +548,7 @@ Validated: 1
 EndChar
 
 StartChar: comma
-Encoding: 13 44 14
+Encoding: 44 44 14
 Width: 277
 GlyphClass: 2
 Flags: W
@@ -573,7 +574,7 @@ Validated: 1
 EndChar
 
 StartChar: period
-Encoding: 15 46 15
+Encoding: 46 46 15
 Width: 277
 GlyphClass: 2
 Flags: W
@@ -592,7 +593,7 @@ Validated: 1
 EndChar
 
 StartChar: slash
-Encoding: 16 47 16
+Encoding: 47 47 16
 AltUni2: 002044.ffffffff.0
 Width: 277
 GlyphClass: 2
@@ -611,7 +612,7 @@ Validated: 1
 EndChar
 
 StartChar: zero
-Encoding: 17 48 17
+Encoding: 48 48 17
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -646,7 +647,7 @@ Validated: 1
 EndChar
 
 StartChar: one
-Encoding: 18 49 18
+Encoding: 49 49 18
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -668,7 +669,7 @@ Validated: 1
 EndChar
 
 StartChar: two
-Encoding: 19 50 19
+Encoding: 50 50 19
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -705,7 +706,7 @@ Validated: 1
 EndChar
 
 StartChar: three
-Encoding: 20 51 20
+Encoding: 51 51 20
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -751,7 +752,7 @@ Validated: 1
 EndChar
 
 StartChar: four
-Encoding: 21 52 21
+Encoding: 52 52 21
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -781,7 +782,7 @@ Validated: 1
 EndChar
 
 StartChar: five
-Encoding: 22 53 22
+Encoding: 53 53 22
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -817,7 +818,7 @@ Validated: 1
 EndChar
 
 StartChar: six
-Encoding: 23 54 23
+Encoding: 54 54 23
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -868,7 +869,7 @@ Validated: 1
 EndChar
 
 StartChar: seven
-Encoding: 24 55 24
+Encoding: 55 55 24
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -894,7 +895,7 @@ Validated: 1
 EndChar
 
 StartChar: eight
-Encoding: 25 56 25
+Encoding: 56 56 25
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -944,7 +945,7 @@ Validated: 1
 EndChar
 
 StartChar: nine
-Encoding: 26 57 26
+Encoding: 57 57 26
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -986,7 +987,7 @@ Validated: 1
 EndChar
 
 StartChar: colon
-Encoding: 27 58 27
+Encoding: 58 58 27
 Width: 332
 GlyphClass: 2
 Flags: W
@@ -1010,7 +1011,7 @@ Validated: 1
 EndChar
 
 StartChar: semicolon
-Encoding: 28 59 28
+Encoding: 59 59 28
 Width: 332
 GlyphClass: 2
 Flags: W
@@ -1041,7 +1042,7 @@ Validated: 1
 EndChar
 
 StartChar: less
-Encoding: 29 60 29
+Encoding: 60 60 29
 Width: 583
 GlyphClass: 2
 Flags: W
@@ -1062,7 +1063,7 @@ Validated: 1
 EndChar
 
 StartChar: equal
-Encoding: 30 61 30
+Encoding: 61 61 30
 Width: 583
 GlyphClass: 2
 Flags: W
@@ -1085,7 +1086,7 @@ Validated: 1
 EndChar
 
 StartChar: greater
-Encoding: 31 62 31
+Encoding: 62 62 31
 Width: 583
 GlyphClass: 2
 Flags: W
@@ -1106,7 +1107,7 @@ Validated: 1
 EndChar
 
 StartChar: question
-Encoding: 32 63 32
+Encoding: 63 63 32
 Width: 610
 GlyphClass: 2
 Flags: W
@@ -1150,7 +1151,7 @@ Validated: 33
 EndChar
 
 StartChar: at
-Encoding: 33 64 33
+Encoding: 64 64 33
 Width: 974
 GlyphClass: 2
 Flags: W
@@ -1220,7 +1221,7 @@ Validated: 1
 EndChar
 
 StartChar: bracketleft
-Encoding: 34 91 34
+Encoding: 91 91 34
 Width: 332
 GlyphClass: 2
 Flags: W
@@ -1243,7 +1244,7 @@ Validated: 1
 EndChar
 
 StartChar: backslash
-Encoding: 35 92 35
+Encoding: 92 92 35
 Width: 277
 GlyphClass: 2
 Flags: W
@@ -1261,7 +1262,7 @@ Validated: 1
 EndChar
 
 StartChar: bracketright
-Encoding: 36 93 36
+Encoding: 93 93 36
 Width: 332
 GlyphClass: 2
 Flags: W
@@ -1284,7 +1285,7 @@ Validated: 1
 EndChar
 
 StartChar: asciicircum
-Encoding: 37 94 37
+Encoding: 94 94 37
 Width: 583
 GlyphClass: 2
 Flags: W
@@ -1304,7 +1305,7 @@ Validated: 1
 EndChar
 
 StartChar: underscore
-Encoding: 38 95 38
+Encoding: 95 95 38
 Width: 555
 GlyphClass: 2
 Flags: W
@@ -1322,7 +1323,7 @@ Validated: 1
 EndChar
 
 StartChar: grave
-Encoding: 39 96 39
+Encoding: 96 96 39
 Width: 332
 GlyphClass: 2
 Flags: W
@@ -1341,7 +1342,7 @@ Validated: 1
 EndChar
 
 StartChar: braceleft
-Encoding: 40 123 40
+Encoding: 123 123 40
 Width: 388
 GlyphClass: 2
 Flags: W
@@ -1391,7 +1392,7 @@ Validated: 1
 EndChar
 
 StartChar: bar
-Encoding: 41 124 41
+Encoding: 124 124 41
 Width: 279
 GlyphClass: 2
 Flags: W
@@ -1410,7 +1411,7 @@ Validated: 1
 EndChar
 
 StartChar: braceright
-Encoding: 42 125 42
+Encoding: 125 125 42
 Width: 388
 GlyphClass: 2
 Flags: W
@@ -1457,7 +1458,7 @@ Validated: 1
 EndChar
 
 StartChar: asciitilde
-Encoding: 43 126 43
+Encoding: 126 126 43
 Width: 583
 GlyphClass: 2
 Flags: W
@@ -1486,7 +1487,7 @@ Validated: 1
 EndChar
 
 StartChar: danda
-Encoding: 47 2404 44
+Encoding: 2404 2404 44
 Width: 294
 GlyphClass: 2
 Flags: W
@@ -1511,7 +1512,7 @@ Validated: 1
 EndChar
 
 StartChar: doubledanda
-Encoding: 48 2405 45
+Encoding: 2405 2405 45
 Width: 424
 GlyphClass: 2
 Flags: W
@@ -1549,7 +1550,7 @@ Validated: 1
 EndChar
 
 StartChar: u0981
-Encoding: 50 2433 46
+Encoding: 2433 2433 46
 Width: 5
 GlyphClass: 2
 Flags: MW
@@ -1586,7 +1587,7 @@ Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u0981.sal
 EndChar
 
 StartChar: u0982
-Encoding: 51 2434 47
+Encoding: 2434 2434 47
 Width: 470
 GlyphClass: 2
 Flags: MW
@@ -1626,7 +1627,7 @@ Validated: 33
 EndChar
 
 StartChar: u0983
-Encoding: 52 2435 48
+Encoding: 2435 2435 48
 Width: 437
 GlyphClass: 2
 Flags: W
@@ -1642,13 +1643,13 @@ SplineSet
  256 119 270 128 282 146 c 0
  294 164 300 182 300 200 c 0
  300 229 285 243 254 243 c 1
-245 584 m 1
- 225 583 209 573 196 556 c 0
- 183 539 176 520 176 500 c 0
- 176 471 191 457 219 457 c 0
- 238 457 254 467 269 486 c 0
- 282 504 289 522 289 541 c 0
- 289 568 274 583 245 584 c 1
+245 584 m 5
+ 225 583 209 573 196 556 c 4
+ 183 539 176 520 176 500 c 4
+ 176 471 191 457 219 457 c 4
+ 238 457 254 467 269 486 c 4
+ 282 504 289 522 289 541 c 4
+ 289 568 274 583 245 584 c 5
 377 178 m 1
  364 109 324 61 257 35 c 0
  249 34 240 33 232 33 c 0
@@ -1658,24 +1659,24 @@ SplineSet
  184 310 218 326 259 326 c 0
  293 326 321 315 344 292 c 0
  370 265 381 227 377 178 c 1
-362 506 m 0
- 358 478 347 452 327 429 c 0
- 305 402 277 385 244 378 c 0
- 234 376 223 375 213 375 c 0
- 180 375 154 386 133 409 c 0
- 112 432 101 462 101 497 c 0
- 101 510 101 523 104 536 c 0
- 112 572 129 603 153 627 c 0
- 177 651 205 664 238 665 c 0
- 279 666 311 653 335 628 c 0
- 356 605 368 576 368 543 c 0
- 368 530 366 518 362 506 c 0
+362 506 m 4
+ 358 478 347 452 327 429 c 4
+ 305 402 277 385 244 378 c 4
+ 234 376 223 375 213 375 c 4
+ 180 375 154 386 133 409 c 4
+ 112 432 101 462 101 497 c 4
+ 101 510 101 523 104 536 c 4
+ 112 572 129 603 153 627 c 4
+ 177 651 205 664 238 665 c 4
+ 279 666 311 653 335 628 c 4
+ 356 605 368 576 368 543 c 4
+ 368 530 366 518 362 506 c 4
 EndSplineSet
 Validated: 33
 EndChar
 
 StartChar: u0985
-Encoding: 53 2437 49
+Encoding: 2437 2437 49
 Width: 837
 GlyphClass: 2
 Flags: W
@@ -1728,7 +1729,7 @@ Validated: 1
 EndChar
 
 StartChar: u0986
-Encoding: 54 2438 50
+Encoding: 2438 2438 50
 Width: 1027
 GlyphClass: 2
 Flags: W
@@ -1790,7 +1791,7 @@ Validated: 1
 EndChar
 
 StartChar: u0987
-Encoding: 55 2439 51
+Encoding: 2439 2439 51
 Width: 443
 GlyphClass: 2
 Flags: W
@@ -1847,7 +1848,7 @@ Validated: 33
 EndChar
 
 StartChar: u0988
-Encoding: 56 2440 52
+Encoding: 2440 2440 52
 Width: 630
 GlyphClass: 2
 Flags: W
@@ -1910,7 +1911,7 @@ Validated: 33
 EndChar
 
 StartChar: u0989
-Encoding: 57 2441 53
+Encoding: 2441 2441 53
 Width: 731
 GlyphClass: 2
 Flags: W
@@ -1969,7 +1970,7 @@ Validated: 37
 EndChar
 
 StartChar: u098a
-Encoding: 58 2442 54
+Encoding: 2442 2442 54
 Width: 777
 GlyphClass: 2
 Flags: W
@@ -2031,7 +2032,7 @@ Validated: 33
 EndChar
 
 StartChar: u098b
-Encoding: 59 2443 55
+Encoding: 2443 2443 55
 Width: 722
 GlyphClass: 2
 Flags: W
@@ -2083,7 +2084,7 @@ Validated: 33
 EndChar
 
 StartChar: u098c
-Encoding: 60 2444 56
+Encoding: 2444 2444 56
 Width: 641
 GlyphClass: 2
 Flags: W
@@ -2131,7 +2132,7 @@ Validated: 33
 EndChar
 
 StartChar: u098f
-Encoding: 61 2447 57
+Encoding: 2447 2447 57
 Width: 677
 GlyphClass: 2
 Flags: W
@@ -2178,7 +2179,7 @@ Validated: 1
 EndChar
 
 StartChar: u0990
-Encoding: 62 2448 58
+Encoding: 2448 2448 58
 Width: 748
 GlyphClass: 2
 Flags: W
@@ -2241,7 +2242,7 @@ Validated: 33
 EndChar
 
 StartChar: u0993
-Encoding: 63 2451 59
+Encoding: 2451 2451 59
 Width: 751
 GlyphClass: 2
 Flags: W
@@ -2288,7 +2289,7 @@ Validated: 33
 EndChar
 
 StartChar: u0994
-Encoding: 64 2452 60
+Encoding: 2452 2452 60
 Width: 808
 GlyphClass: 2
 Flags: W
@@ -2354,7 +2355,7 @@ Validated: 33
 EndChar
 
 StartChar: u0995
-Encoding: 65 2453 61
+Encoding: 2453 2453 61
 Width: 707
 GlyphClass: 2
 Flags: W
@@ -2399,7 +2400,7 @@ Validated: 33
 EndChar
 
 StartChar: u0996
-Encoding: 66 2454 62
+Encoding: 2454 2454 62
 Width: 623
 GlyphClass: 2
 Flags: W
@@ -2445,7 +2446,7 @@ Validated: 33
 EndChar
 
 StartChar: u0997
-Encoding: 67 2455 63
+Encoding: 2455 2455 63
 Width: 615
 GlyphClass: 2
 Flags: W
@@ -2491,7 +2492,7 @@ Validated: 33
 EndChar
 
 StartChar: u0998
-Encoding: 68 2456 64
+Encoding: 2456 2456 64
 Width: 537
 GlyphClass: 2
 Flags: W
@@ -2537,7 +2538,7 @@ Validated: 1
 EndChar
 
 StartChar: u0999
-Encoding: 69 2457 65
+Encoding: 2457 2457 65
 Width: 639
 GlyphClass: 2
 Flags: MW
@@ -2595,7 +2596,7 @@ Validated: 33
 EndChar
 
 StartChar: u099a
-Encoding: 70 2458 66
+Encoding: 2458 2458 66
 Width: 507
 GlyphClass: 2
 Flags: W
@@ -2640,7 +2641,7 @@ Validated: 1
 EndChar
 
 StartChar: u099b
-Encoding: 71 2459 67
+Encoding: 2459 2459 67
 Width: 640
 GlyphClass: 2
 Flags: MW
@@ -2694,7 +2695,7 @@ Validated: 33
 EndChar
 
 StartChar: u099c
-Encoding: 72 2460 68
+Encoding: 2460 2460 68
 Width: 833
 GlyphClass: 2
 Flags: W
@@ -2748,7 +2749,7 @@ Validated: 33
 EndChar
 
 StartChar: u099d
-Encoding: 73 2461 69
+Encoding: 2461 2461 69
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -2793,7 +2794,7 @@ Validated: 1
 EndChar
 
 StartChar: u099e
-Encoding: 74 2462 70
+Encoding: 2462 2462 70
 Width: 937
 GlyphClass: 2
 Flags: W
@@ -2865,7 +2866,7 @@ Validated: 33
 EndChar
 
 StartChar: u099f
-Encoding: 75 2463 71
+Encoding: 2463 2463 71
 Width: 552
 GlyphClass: 2
 Flags: W
@@ -2920,7 +2921,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a0
-Encoding: 76 2464 72
+Encoding: 2464 2464 72
 Width: 515
 GlyphClass: 2
 Flags: W
@@ -2969,7 +2970,7 @@ Validated: 1
 EndChar
 
 StartChar: u09a1
-Encoding: 77 2465 73
+Encoding: 2465 2465 73
 Width: 733
 GlyphClass: 2
 Flags: W
@@ -3015,7 +3016,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a2
-Encoding: 78 2466 74
+Encoding: 2466 2466 74
 Width: 522
 GlyphClass: 2
 Flags: W
@@ -3057,7 +3058,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a3
-Encoding: 79 2467 75
+Encoding: 2467 2467 75
 Width: 517
 GlyphClass: 2
 Flags: W
@@ -3099,7 +3100,7 @@ Validated: 1
 EndChar
 
 StartChar: u09a4
-Encoding: 80 2468 76
+Encoding: 2468 2468 76
 Width: 719
 GlyphClass: 2
 Flags: W
@@ -3150,7 +3151,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a5
-Encoding: 81 2469 77
+Encoding: 2469 2469 77
 Width: 577
 GlyphClass: 2
 Flags: W
@@ -3194,7 +3195,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a6
-Encoding: 82 2470 78
+Encoding: 2470 2470 78
 Width: 439
 GlyphClass: 2
 Flags: W
@@ -3231,7 +3232,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a7
-Encoding: 83 2471 79
+Encoding: 2471 2471 79
 Width: 477
 GlyphClass: 2
 Flags: W
@@ -3276,7 +3277,7 @@ Validated: 1
 EndChar
 
 StartChar: u09a8
-Encoding: 84 2472 80
+Encoding: 2472 2472 80
 Width: 519
 GlyphClass: 2
 Flags: W
@@ -3320,7 +3321,7 @@ Validated: 33
 EndChar
 
 StartChar: u09aa
-Encoding: 85 2474 81
+Encoding: 2474 2474 81
 Width: 666
 GlyphClass: 2
 Flags: W
@@ -3367,7 +3368,7 @@ Validated: 1
 EndChar
 
 StartChar: u09ab
-Encoding: 86 2475 82
+Encoding: 2475 2475 82
 Width: 690
 GlyphClass: 2
 Flags: W
@@ -3414,7 +3415,7 @@ Validated: 33
 EndChar
 
 StartChar: u09ac
-Encoding: 87 2476 83
+Encoding: 2476 2476 83
 Width: 480
 GlyphClass: 2
 Flags: W
@@ -3449,7 +3450,7 @@ Validated: 1
 EndChar
 
 StartChar: u09ad
-Encoding: 88 2477 84
+Encoding: 2477 2477 84
 Width: 797
 GlyphClass: 2
 Flags: W
@@ -3500,7 +3501,7 @@ Validated: 1
 EndChar
 
 StartChar: u09ae
-Encoding: 89 2478 85
+Encoding: 2478 2478 85
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -3550,7 +3551,7 @@ Validated: 33
 EndChar
 
 StartChar: u09af
-Encoding: 90 2479 86
+Encoding: 2479 2479 86
 Width: 489
 GlyphClass: 2
 Flags: W
@@ -3588,7 +3589,7 @@ Validated: 1
 EndChar
 
 StartChar: u09b0
-Encoding: 91 2480 87
+Encoding: 2480 2480 87
 Width: 480
 GlyphClass: 2
 Flags: W
@@ -3632,7 +3633,7 @@ Validated: 33
 EndChar
 
 StartChar: u09b2
-Encoding: 92 2482 88
+Encoding: 2482 2482 88
 Width: 688
 GlyphClass: 2
 Flags: W
@@ -3678,7 +3679,7 @@ Validated: 33
 EndChar
 
 StartChar: u09b6
-Encoding: 93 2486 89
+Encoding: 2486 2486 89
 Width: 630
 GlyphClass: 2
 Flags: W
@@ -3730,7 +3731,7 @@ Validated: 33
 EndChar
 
 StartChar: u09b7
-Encoding: 94 2487 90
+Encoding: 2487 2487 90
 Width: 489
 GlyphClass: 2
 Flags: W
@@ -3770,7 +3771,7 @@ Validated: 1
 EndChar
 
 StartChar: u09b8
-Encoding: 95 2488 91
+Encoding: 2488 2488 91
 Width: 655
 GlyphClass: 2
 Flags: W
@@ -3820,7 +3821,7 @@ Validated: 1
 EndChar
 
 StartChar: u09b9
-Encoding: 96 2489 92
+Encoding: 2489 2489 92
 Width: 443
 GlyphClass: 2
 Flags: W
@@ -3864,7 +3865,7 @@ Validated: 33
 EndChar
 
 StartChar: u09bc
-Encoding: 97 2492 93
+Encoding: 2492 2492 93
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -3887,7 +3888,7 @@ Validated: 1
 EndChar
 
 StartChar: avagraha
-Encoding: 98 2493 94
+Encoding: 2493 2493 94
 Width: 443
 GlyphClass: 2
 Flags: W
@@ -3926,7 +3927,7 @@ Validated: 33
 EndChar
 
 StartChar: u09be
-Encoding: 99 2494 95
+Encoding: 2494 2494 95
 Width: 231
 GlyphClass: 2
 Flags: W
@@ -3950,7 +3951,7 @@ Validated: 1
 EndChar
 
 StartChar: u09bf
-Encoding: 100 2495 96
+Encoding: 2495 2495 96
 Width: 231
 GlyphClass: 2
 Flags: W
@@ -3987,7 +3988,7 @@ Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09bf.sal
 EndChar
 
 StartChar: u09c0
-Encoding: 101 2496 97
+Encoding: 2496 2496 97
 Width: 231
 GlyphClass: 2
 Flags: W
@@ -4030,7 +4031,7 @@ Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09c0.sal
 EndChar
 
 StartChar: u09c1
-Encoding: 102 2497 98
+Encoding: 2497 2497 98
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -4067,7 +4068,7 @@ Validated: 33
 EndChar
 
 StartChar: u09c2
-Encoding: 103 2498 99
+Encoding: 2498 2498 99
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -4104,7 +4105,7 @@ Validated: 33
 EndChar
 
 StartChar: u09c3
-Encoding: 104 2499 100
+Encoding: 2499 2499 100
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -4133,7 +4134,7 @@ Validated: 1
 EndChar
 
 StartChar: u09c4
-Encoding: 105 2500 101
+Encoding: 2500 2500 101
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -4168,7 +4169,7 @@ Validated: 9
 EndChar
 
 StartChar: u09c7
-Encoding: 106 2503 102
+Encoding: 2503 2503 102
 Width: 309
 GlyphClass: 2
 Flags: W
@@ -4204,7 +4205,7 @@ Substitution2: "'init' Initial Forms in Bengali lookup 0 subtable" u09c7.init
 EndChar
 
 StartChar: u09c8
-Encoding: 107 2504 103
+Encoding: 2504 2504 103
 Width: 349
 GlyphClass: 2
 Flags: W
@@ -4250,7 +4251,7 @@ Substitution2: "'init' Initial Forms in Bengali lookup 0 subtable" u09c8.init
 EndChar
 
 StartChar: u09cb
-Encoding: 108 2507 104
+Encoding: 2507 2507 104
 Width: 655
 GlyphClass: 2
 Flags: W
@@ -4295,7 +4296,7 @@ Validated: 33
 EndChar
 
 StartChar: u09cc
-Encoding: 109 2508 105
+Encoding: 2508 2508 105
 Width: 749
 GlyphClass: 2
 Flags: W
@@ -4352,7 +4353,7 @@ Validated: 33
 EndChar
 
 StartChar: u09cd
-Encoding: 110 2509 106
+Encoding: 2509 2509 106
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -4370,7 +4371,7 @@ Validated: 9
 EndChar
 
 StartChar: u09ce
-Encoding: 111 2510 107
+Encoding: 2510 2510 107
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -4412,11 +4413,10 @@ SplineSet
  112.142048514 682.016339449 154.810016538 701 201.357092256 701 c 0
 EndSplineSet
 Validated: 33
-Colour: ff0000
 EndChar
 
 StartChar: u09d7
-Encoding: 112 2519 108
+Encoding: 2519 2519 108
 Width: 231
 GlyphClass: 2
 Flags: W
@@ -4452,7 +4452,7 @@ Validated: 1
 EndChar
 
 StartChar: u09dc
-Encoding: 113 2524 109
+Encoding: 2524 2524 109
 Width: 734
 GlyphClass: 3
 Flags: W
@@ -4508,7 +4508,7 @@ Ligature2: "'nukt' Nukta Forms in Bengali lookup 1 subtable" u09a1 u09bc
 EndChar
 
 StartChar: u09dd
-Encoding: 114 2525 110
+Encoding: 2525 2525 110
 Width: 521
 GlyphClass: 3
 Flags: W
@@ -4560,7 +4560,7 @@ Ligature2: "'nukt' Nukta Forms in Bengali lookup 1 subtable" u09a2 u09bc
 EndChar
 
 StartChar: u09df
-Encoding: 115 2527 111
+Encoding: 2527 2527 111
 Width: 489
 GlyphClass: 3
 Flags: W
@@ -4608,7 +4608,7 @@ Ligature2: "'nukt' Nukta Forms in Bengali lookup 1 subtable" u09af u09bc
 EndChar
 
 StartChar: u09e0
-Encoding: 116 2528 112
+Encoding: 2528 2528 112
 Width: 673
 GlyphClass: 2
 Flags: W
@@ -4671,7 +4671,7 @@ Validated: 33
 EndChar
 
 StartChar: u09e1
-Encoding: 117 2529 113
+Encoding: 2529 2529 113
 Width: 548
 GlyphClass: 2
 Flags: W
@@ -4749,7 +4749,7 @@ Validated: 33
 EndChar
 
 StartChar: u09e2
-Encoding: 118 2530 114
+Encoding: 2530 2530 114
 Width: 1
 GlyphClass: 2
 Flags: W
@@ -4797,7 +4797,7 @@ Validated: 33
 EndChar
 
 StartChar: u09e3
-Encoding: 119 2531 115
+Encoding: 2531 2531 115
 Width: 4
 GlyphClass: 2
 Flags: W
@@ -4882,7 +4882,7 @@ Validated: 41
 EndChar
 
 StartChar: u09e6
-Encoding: 120 2534 116
+Encoding: 2534 2534 116
 Width: 576
 GlyphClass: 2
 Flags: W
@@ -4918,7 +4918,7 @@ Validated: 33
 EndChar
 
 StartChar: u09e7
-Encoding: 121 2535 117
+Encoding: 2535 2535 117
 Width: 480
 GlyphClass: 2
 Flags: W
@@ -4951,7 +4951,7 @@ Validated: 33
 EndChar
 
 StartChar: u09e8
-Encoding: 122 2536 118
+Encoding: 2536 2536 118
 Width: 479
 GlyphClass: 2
 Flags: W
@@ -4990,7 +4990,7 @@ Validated: 33
 EndChar
 
 StartChar: u09e9
-Encoding: 123 2537 119
+Encoding: 2537 2537 119
 Width: 681
 GlyphClass: 2
 Flags: W
@@ -5030,7 +5030,7 @@ Validated: 33
 EndChar
 
 StartChar: u09ea
-Encoding: 124 2538 120
+Encoding: 2538 2538 120
 Width: 510
 GlyphClass: 2
 Flags: W
@@ -5074,7 +5074,7 @@ Validated: 33
 EndChar
 
 StartChar: u09eb
-Encoding: 125 2539 121
+Encoding: 2539 2539 121
 Width: 573
 GlyphClass: 2
 Flags: W
@@ -5118,7 +5118,7 @@ Validated: 33
 EndChar
 
 StartChar: u09ec
-Encoding: 126 2540 122
+Encoding: 2540 2540 122
 Width: 637
 GlyphClass: 2
 Flags: W
@@ -5160,7 +5160,7 @@ Validated: 33
 EndChar
 
 StartChar: u09ed
-Encoding: 127 2541 123
+Encoding: 2541 2541 123
 Width: 473
 GlyphClass: 2
 Flags: W
@@ -5200,7 +5200,7 @@ Validated: 33
 EndChar
 
 StartChar: u09ee
-Encoding: 128 2542 124
+Encoding: 2542 2542 124
 Width: 651
 GlyphClass: 2
 Flags: W
@@ -5246,7 +5246,7 @@ Validated: 33
 EndChar
 
 StartChar: u09ef
-Encoding: 129 2543 125
+Encoding: 2543 2543 125
 Width: 641
 GlyphClass: 2
 Flags: W
@@ -5294,7 +5294,7 @@ Validated: 33
 EndChar
 
 StartChar: u09f0
-Encoding: 130 2544 126
+Encoding: 2544 2544 126
 Width: 480
 GlyphClass: 2
 Flags: W
@@ -5332,7 +5332,7 @@ Validated: 1
 EndChar
 
 StartChar: u09f1
-Encoding: 131 2545 127
+Encoding: 2545 2545 127
 Width: 480
 GlyphClass: 2
 Flags: W
@@ -5370,7 +5370,7 @@ Validated: 1
 EndChar
 
 StartChar: u09f2
-Encoding: 132 2546 128
+Encoding: 2546 2546 128
 Width: 566
 GlyphClass: 2
 Flags: W
@@ -5393,7 +5393,7 @@ Validated: 1
 EndChar
 
 StartChar: u09f3
-Encoding: 133 2547 129
+Encoding: 2547 2547 129
 Width: 655
 GlyphClass: 2
 Flags: W
@@ -5466,7 +5466,7 @@ Validated: 1
 EndChar
 
 StartChar: u09f4
-Encoding: 134 2548 130
+Encoding: 2548 2548 130
 Width: 338
 GlyphClass: 2
 Flags: W
@@ -5486,7 +5486,7 @@ Validated: 9
 EndChar
 
 StartChar: u09f5
-Encoding: 135 2549 131
+Encoding: 2549 2549 131
 Width: 641
 GlyphClass: 2
 Flags: W
@@ -5528,7 +5528,7 @@ Validated: 41
 EndChar
 
 StartChar: u09f6
-Encoding: 136 2550 132
+Encoding: 2550 2550 132
 Width: 641
 GlyphClass: 2
 Flags: W
@@ -5573,7 +5573,7 @@ Validated: 41
 EndChar
 
 StartChar: u09f7
-Encoding: 137 2551 133
+Encoding: 2551 2551 133
 Width: 316
 GlyphClass: 2
 Flags: W
@@ -5599,7 +5599,7 @@ Validated: 41
 EndChar
 
 StartChar: u09f8
-Encoding: 138 2552 134
+Encoding: 2552 2552 134
 Width: 316
 GlyphClass: 2
 Flags: W
@@ -5624,7 +5624,7 @@ Validated: 41
 EndChar
 
 StartChar: u09f9
-Encoding: 139 2553 135
+Encoding: 2553 2553 135
 Width: 251
 GlyphClass: 2
 Flags: W
@@ -5659,7 +5659,7 @@ Validated: 33
 EndChar
 
 StartChar: u09fa
-Encoding: 140 2554 136
+Encoding: 2554 2554 136
 Width: 383
 GlyphClass: 2
 Flags: W
@@ -5698,7 +5698,7 @@ Validated: 33
 EndChar
 
 StartChar: zwnj
-Encoding: 146 8204 137
+Encoding: 8204 8204 137
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -5716,7 +5716,7 @@ Validated: 1
 EndChar
 
 StartChar: zwj
-Encoding: 147 8205 138
+Encoding: 8205 8205 138
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -5746,7 +5746,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblleft
-Encoding: 148 8220 139
+Encoding: 8220 8220 139
 Width: 518
 GlyphClass: 2
 Flags: W
@@ -5792,7 +5792,7 @@ Validated: 33
 EndChar
 
 StartChar: quotedblright
-Encoding: 149 8221 140
+Encoding: 8221 8221 140
 Width: 516
 GlyphClass: 2
 Flags: W
@@ -5838,7 +5838,7 @@ Validated: 33
 EndChar
 
 StartChar: euro
-Encoding: 151 8364 141
+Encoding: 8364 8364 141
 Width: 519
 GlyphClass: 2
 Flags: W
@@ -5883,7 +5883,7 @@ Validated: 33
 EndChar
 
 StartChar: uni25CC
-Encoding: 153 9676 142
+Encoding: 9676 9676 142
 Width: 776
 GlyphClass: 2
 Flags: W
@@ -5916,7 +5916,7 @@ Validated: 1
 EndChar
 
 StartChar: .null
-Encoding: 155 -1 143
+Encoding: 65537 -1 143
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -5926,7 +5926,7 @@ Validated: 1
 EndChar
 
 StartChar: u0981.salt
-Encoding: 156 -1 144
+Encoding: 65538 -1 144
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -5968,7 +5968,7 @@ Validated: 1
 EndChar
 
 StartChar: bn_ja_nya.akhnd
-Encoding: 157 -1 145
+Encoding: 65539 -1 145
 Width: 883
 GlyphClass: 3
 Flags: W
@@ -6039,7 +6039,7 @@ Ligature2: "'akhn' Akhand in Bengali lookup 2 subtable" u099c u09cd u099e
 EndChar
 
 StartChar: bn_ka_ssa.akhn
-Encoding: 158 -1 146
+Encoding: 65540 -1 146
 Width: 834
 GlyphClass: 3
 Flags: W
@@ -6107,7 +6107,7 @@ Ligature2: "'akhn' Akhand in Bengali lookup 2 subtable" u0995 u09cd u09b7
 EndChar
 
 StartChar: u09b9_u09cd_u09ae.cjct
-Encoding: 159 -1 147
+Encoding: 65541 -1 147
 Width: 783
 GlyphClass: 3
 Flags: W
@@ -6174,7 +6174,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b9 u09cd u09ae
 EndChar
 
 StartChar: u09a4_u09cd_u09a4.cjct
-Encoding: 160 -1 148
+Encoding: 65542 -1 148
 Width: 692
 GlyphClass: 3
 Flags: W
@@ -6228,7 +6228,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09a4
 EndChar
 
 StartChar: u0995_u09cd.haln
-Encoding: 161 -1 149
+Encoding: 65543 -1 149
 Width: 707
 GlyphClass: 3
 Flags: W
@@ -6277,7 +6277,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u0995 u09cd
 EndChar
 
 StartChar: u0996_u09cd.hln
-Encoding: 162 -1 150
+Encoding: 65544 -1 150
 Width: 603
 GlyphClass: 3
 Flags: W
@@ -6327,7 +6327,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u0996 u09cd
 EndChar
 
 StartChar: u0996_u09cd.haln
-Encoding: 163 -1 151
+Encoding: 65545 -1 151
 Width: 599
 GlyphClass: 3
 Flags: W
@@ -6377,7 +6377,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u0997 u09cd
 EndChar
 
 StartChar: u0998_u09cd.haln
-Encoding: 164 -1 152
+Encoding: 65546 -1 152
 Width: 546
 GlyphClass: 3
 Flags: W
@@ -6427,7 +6427,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u0998 u09cd
 EndChar
 
 StartChar: u0999_u09cd.haln
-Encoding: 165 -1 153
+Encoding: 65547 -1 153
 Width: 628
 GlyphClass: 3
 Flags: W
@@ -6489,7 +6489,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u0989 u09cd
 EndChar
 
 StartChar: u099a_u09cd.haln
-Encoding: 166 -1 154
+Encoding: 65548 -1 154
 Width: 473
 GlyphClass: 3
 Flags: W
@@ -6538,7 +6538,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u099a u09cd
 EndChar
 
 StartChar: u099b_u09cd.haln
-Encoding: 167 -1 155
+Encoding: 65549 -1 155
 Width: 600
 GlyphClass: 3
 Flags: W
@@ -6596,7 +6596,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u099b u09cd
 EndChar
 
 StartChar: u099c_u09cd.haln
-Encoding: 168 -1 156
+Encoding: 65550 -1 156
 Width: 839
 GlyphClass: 3
 Flags: W
@@ -6654,7 +6654,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u099c u09cd
 EndChar
 
 StartChar: u099d_u09cd.haln
-Encoding: 169 -1 157
+Encoding: 65551 -1 157
 Width: 697
 GlyphClass: 3
 Flags: W
@@ -6703,7 +6703,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u099d u09cd
 EndChar
 
 StartChar: u099e_u09cd.haln
-Encoding: 170 -1 158
+Encoding: 65552 -1 158
 Width: 954
 GlyphClass: 3
 Flags: W
@@ -6779,7 +6779,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u099e u09cd
 EndChar
 
 StartChar: u099f_u09cd.haln
-Encoding: 171 -1 159
+Encoding: 65553 -1 159
 Width: 546
 GlyphClass: 3
 Flags: W
@@ -6838,7 +6838,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u099f u09cd
 EndChar
 
 StartChar: u09a0_u09cd.haln
-Encoding: 172 -1 160
+Encoding: 65554 -1 160
 Width: 502
 GlyphClass: 3
 Flags: W
@@ -6891,7 +6891,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09a0 u09cd
 EndChar
 
 StartChar: u09a1_u09cd.haln
-Encoding: 173 -1 161
+Encoding: 65555 -1 161
 Width: 741
 GlyphClass: 3
 Flags: W
@@ -6941,7 +6941,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09a1 u09cd
 EndChar
 
 StartChar: u09a2_u09cd.haln
-Encoding: 174 -1 162
+Encoding: 65556 -1 162
 Width: 497
 GlyphClass: 3
 Flags: W
@@ -6987,7 +6987,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09a2 u09cd
 EndChar
 
 StartChar: u09a3_u09cd.haln
-Encoding: 175 -1 163
+Encoding: 65557 -1 163
 Width: 507
 GlyphClass: 3
 Flags: W
@@ -7033,7 +7033,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09a3 u09cd
 EndChar
 
 StartChar: u09a4_u09cd.haln
-Encoding: 176 -1 164
+Encoding: 65558 -1 164
 Width: 668
 GlyphClass: 3
 Flags: W
@@ -7088,7 +7088,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09a4 u09cd
 EndChar
 
 StartChar: u09a5_u09cd.haln
-Encoding: 177 -1 165
+Encoding: 65559 -1 165
 Width: 567
 GlyphClass: 3
 Flags: W
@@ -7136,7 +7136,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09a5 u09cd
 EndChar
 
 StartChar: u09a6_u09cd.haln
-Encoding: 178 -1 166
+Encoding: 65560 -1 166
 Width: 453
 GlyphClass: 3
 Flags: W
@@ -7177,7 +7177,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09a6 u09cd
 EndChar
 
 StartChar: u09a7_u09cd.haln
-Encoding: 179 -1 167
+Encoding: 65561 -1 167
 Width: 498
 GlyphClass: 3
 Flags: W
@@ -7226,7 +7226,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09a7 u09cd
 EndChar
 
 StartChar: u09a8_u09cd.haln
-Encoding: 180 -1 168
+Encoding: 65562 -1 168
 Width: 526
 GlyphClass: 3
 Flags: W
@@ -7274,7 +7274,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09a8 u09cd
 EndChar
 
 StartChar: u09aa_u09cd.haln
-Encoding: 181 -1 169
+Encoding: 65563 -1 169
 Width: 672
 GlyphClass: 3
 Flags: W
@@ -7326,7 +7326,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09aa u09cd
 EndChar
 
 StartChar: u09ab_u09cd.haln
-Encoding: 182 -1 170
+Encoding: 65564 -1 170
 Width: 663
 GlyphClass: 3
 Flags: W
@@ -7377,7 +7377,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09ab u09cd
 EndChar
 
 StartChar: u09ac_u09cd.haln
-Encoding: 183 -1 171
+Encoding: 65565 -1 171
 Width: 482
 GlyphClass: 3
 Flags: W
@@ -7416,7 +7416,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09ac u09cd
 EndChar
 
 StartChar: u09ad_u09cd.haln
-Encoding: 184 -1 172
+Encoding: 65566 -1 172
 Width: 800
 GlyphClass: 3
 Flags: W
@@ -7471,7 +7471,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09ad u09cd
 EndChar
 
 StartChar: u09ae_u09cd.haln
-Encoding: 185 -1 173
+Encoding: 65567 -1 173
 Width: 561
 GlyphClass: 3
 Flags: W
@@ -7525,7 +7525,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09ae u09cd
 EndChar
 
 StartChar: u09af_u09cd.haln
-Encoding: 186 -1 174
+Encoding: 65568 -1 174
 Width: 502
 GlyphClass: 3
 Flags: W
@@ -7567,7 +7567,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09af u09cd
 EndChar
 
 StartChar: u09b0_u09cd.haln
-Encoding: 187 -1 175
+Encoding: 65569 -1 175
 Width: 482
 GlyphClass: 3
 Flags: W
@@ -7616,7 +7616,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09b0 u09cd
 EndChar
 
 StartChar: u09b2_u09cd.haln
-Encoding: 188 -1 176
+Encoding: 65570 -1 176
 Width: 697
 GlyphClass: 2
 Flags: W
@@ -7665,7 +7665,7 @@ Validated: 41
 EndChar
 
 StartChar: u09b6_u09cd.haln
-Encoding: 189 -1 177
+Encoding: 65571 -1 177
 Width: 631
 GlyphClass: 3
 Flags: W
@@ -7721,7 +7721,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09b6 u09cd
 EndChar
 
 StartChar: u09b7_u09cd.haln
-Encoding: 190 -1 178
+Encoding: 65572 -1 178
 Width: 487
 GlyphClass: 3
 Flags: W
@@ -7765,7 +7765,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09b7 u09cd
 EndChar
 
 StartChar: u09b8_u09cd.haln
-Encoding: 191 -1 179
+Encoding: 65573 -1 179
 Width: 653
 GlyphClass: 3
 Flags: W
@@ -7819,7 +7819,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09b8 u09cd
 EndChar
 
 StartChar: u09b9_u09cd.haln
-Encoding: 192 -1 180
+Encoding: 65574 -1 180
 Width: 448
 GlyphClass: 3
 Flags: W
@@ -7867,7 +7867,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09b9 u09cd
 EndChar
 
 StartChar: u09dc_u09cd.haln
-Encoding: 193 -1 181
+Encoding: 65575 -1 181
 Width: 736
 GlyphClass: 3
 Flags: W
@@ -7926,7 +7926,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09dc u09cd
 EndChar
 
 StartChar: u09dd_u09cd.haln
-Encoding: 194 -1 182
+Encoding: 65576 -1 182
 Width: 502
 GlyphClass: 3
 Flags: W
@@ -7981,7 +7981,7 @@ Ligature2: "'haln' Halant Forms in Bengali lookup 12 subtable" u09dd u09cd
 EndChar
 
 StartChar: glyph219
-Encoding: 195 -1 183
+Encoding: 65577 -1 183
 Width: 497
 GlyphClass: 2
 Flags: W
@@ -8031,7 +8031,7 @@ Validated: 41
 EndChar
 
 StartChar: janya_u09cd.half
-Encoding: 196 -1 184
+Encoding: 65578 -1 184
 Width: 888
 GlyphClass: 3
 Flags: W
@@ -8109,7 +8109,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" bn_ja_nya.akhnd u09c
 EndChar
 
 StartChar: kassa_u09cd.half
-Encoding: 197 -1 185
+Encoding: 65579 -1 185
 Width: 812
 GlyphClass: 3
 Flags: W
@@ -8181,7 +8181,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" bn_ka_ssa.akhn u09cd
 EndChar
 
 StartChar: u09b0_u09cd.rphf
-Encoding: 198 -1 186
+Encoding: 65580 -1 186
 Width: 5
 GlyphClass: 3
 Flags: W
@@ -8206,7 +8206,7 @@ Ligature2: "'rphf' Reph Form in Bengali lookup 3 subtable" u09b0 u09cd
 EndChar
 
 StartChar: u09af_u09cd.pstf
-Encoding: 199 -1 187
+Encoding: 65581 -1 187
 Width: 265
 GlyphClass: 3
 Flags: W
@@ -8238,7 +8238,7 @@ Ligature2: "'pstf' Post Base Forms in Bengali lookup 6 subtable" u09cd u09af
 EndChar
 
 StartChar: u09b0_u09cd.blwf
-Encoding: 200 -1 188
+Encoding: 65582 -1 188
 Width: 5
 GlyphClass: 3
 Flags: W
@@ -8272,7 +8272,7 @@ Ligature2: "'blwf' Below Base Forms in Bengali2 lookup 4 subtable" u09cd u09b0
 EndChar
 
 StartChar: u09ac_u09cd.blwf
-Encoding: 201 -1 189
+Encoding: 65583 -1 189
 Width: 5
 GlyphClass: 3
 Flags: W
@@ -8302,7 +8302,7 @@ Validated: 1
 EndChar
 
 StartChar: u0995_u09b0_u09cd.blwf.vatu
-Encoding: 202 -1 190
+Encoding: 65584 -1 190
 Width: 851
 GlyphClass: 3
 Flags: W
@@ -8374,7 +8374,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u0995 u09b0_u09c
 EndChar
 
 StartChar: u0996_u09b0_u09cd.blwf.vatu
-Encoding: 203 -1 191
+Encoding: 65585 -1 191
 Width: 647
 GlyphClass: 3
 Flags: W
@@ -8433,7 +8433,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u0996 u09b0_u09c
 EndChar
 
 StartChar: u0997_u09b0_u09cd.blwf.vatu
-Encoding: 204 -1 192
+Encoding: 65586 -1 192
 Width: 620
 GlyphClass: 3
 Flags: W
@@ -8494,7 +8494,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u0997 u09b0_u09c
 EndChar
 
 StartChar: u0998_u09b0_u09cd.blwf.vatu
-Encoding: 205 -1 193
+Encoding: 65587 -1 193
 Width: 544
 GlyphClass: 3
 Flags: W
@@ -8553,7 +8553,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u0998 u09b0_u09c
 EndChar
 
 StartChar: u0999_u09b0_u09cd.blwf.vatu
-Encoding: 206 -1 194
+Encoding: 65588 -1 194
 Width: 622
 GlyphClass: 3
 Flags: W
@@ -8629,7 +8629,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u0999 u09b0_u09c
 EndChar
 
 StartChar: u099a_u09b0_u09cd.blwf.vatu
-Encoding: 207 -1 195
+Encoding: 65589 -1 195
 Width: 474
 GlyphClass: 3
 Flags: W
@@ -8692,7 +8692,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u099a u09b0_u09c
 EndChar
 
 StartChar: u099b_u09b0_u09cd.blwf.vatu
-Encoding: 208 -1 196
+Encoding: 65590 -1 196
 Width: 625
 GlyphClass: 3
 Flags: W
@@ -8764,7 +8764,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u099b u09b0_u09c
 EndChar
 
 StartChar: u099c_u09b0_u09cd.blwf.vatu
-Encoding: 209 -1 197
+Encoding: 65591 -1 197
 Width: 665
 GlyphClass: 3
 Flags: W
@@ -8830,7 +8830,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u099c u09b0_u09c
 EndChar
 
 StartChar: u099d_u09b0_u09cd.blwf.vatu
-Encoding: 210 -1 198
+Encoding: 65592 -1 198
 Width: 705
 GlyphClass: 3
 Flags: W
@@ -8888,7 +8888,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u099d u09b0_u09c
 EndChar
 
 StartChar: u099e_u09b0_u09cd.blwf.vatu
-Encoding: 211 -1 199
+Encoding: 65593 -1 199
 Width: 924
 GlyphClass: 3
 Flags: W
@@ -8975,7 +8975,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u099e u09b0_u09c
 EndChar
 
 StartChar: u099f_u09b0_u09cd.blwf.vatu
-Encoding: 212 -1 200
+Encoding: 65594 -1 200
 Width: 560
 GlyphClass: 3
 Flags: W
@@ -9048,7 +9048,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u099f u09b0_u09c
 EndChar
 
 StartChar: u09a0_u09b0_u09cd.blwf.vatu
-Encoding: 213 -1 201
+Encoding: 65595 -1 201
 Width: 509
 GlyphClass: 3
 Flags: W
@@ -9115,7 +9115,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a0 u09b0_u09c
 EndChar
 
 StartChar: u09a1_u09b0_u09cd.blwf.vatu
-Encoding: 214 -1 202
+Encoding: 65596 -1 202
 Width: 736
 GlyphClass: 3
 Flags: W
@@ -9178,7 +9178,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a1 u09b0_u09c
 EndChar
 
 StartChar: u09a2_u09b0_u09cd.blwf.vatu
-Encoding: 215 -1 203
+Encoding: 65597 -1 203
 Width: 527
 GlyphClass: 3
 Flags: W
@@ -9238,7 +9238,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a2 u09b0_u09c
 EndChar
 
 StartChar: u09a3_u09b0_u09cd.blwf.vatu
-Encoding: 216 -1 204
+Encoding: 65598 -1 204
 Width: 502
 GlyphClass: 3
 Flags: W
@@ -9293,7 +9293,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a3 u09b0_u09c
 EndChar
 
 StartChar: u09a4_u09b0_u09cd.blwf.vatu
-Encoding: 217 -1 205
+Encoding: 65599 -1 205
 Width: 604
 GlyphClass: 3
 Flags: W
@@ -9347,7 +9347,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a4 u09b0_u09c
 EndChar
 
 StartChar: u09a5_u09b0_u09cd.blwf.vatu
-Encoding: 218 -1 206
+Encoding: 65600 -1 206
 Width: 526
 GlyphClass: 3
 Flags: W
@@ -9404,7 +9404,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a5 u09b0_u09c
 EndChar
 
 StartChar: u09a6_u09b0_u09cd.blwf.vatu
-Encoding: 219 -1 207
+Encoding: 65601 -1 207
 Width: 434
 GlyphClass: 3
 Flags: W
@@ -9453,7 +9453,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a6 u09b0_u09c
 EndChar
 
 StartChar: u09a7_u09b0_u09cd.blwf.vatu
-Encoding: 220 -1 208
+Encoding: 65602 -1 208
 Width: 498
 GlyphClass: 3
 Flags: W
@@ -9510,7 +9510,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a7 u09b0_u09c
 EndChar
 
 StartChar: u09a8_u09b0_u09cd.blwf.vatu
-Encoding: 221 -1 209
+Encoding: 65603 -1 209
 Width: 509
 GlyphClass: 3
 Flags: W
@@ -9569,7 +9569,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09a8 u09b0_u09c
 EndChar
 
 StartChar: u09aa_u09b0_u09cd.blwf.vatu
-Encoding: 222 -1 210
+Encoding: 65604 -1 210
 Width: 675
 GlyphClass: 3
 Flags: W
@@ -9630,7 +9630,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09aa u09b0_u09c
 EndChar
 
 StartChar: u09ab_u09b0_u09cd.blwf.vatu
-Encoding: 223 -1 211
+Encoding: 65605 -1 211
 Width: 699
 GlyphClass: 3
 Flags: W
@@ -9690,7 +9690,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09ab u09b0_u09c
 EndChar
 
 StartChar: u09ac_u09b0_u09cd.blwf.vatu
-Encoding: 224 -1 212
+Encoding: 65606 -1 212
 Width: 488
 GlyphClass: 3
 Flags: W
@@ -9738,7 +9738,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09ac u09b0_u09c
 EndChar
 
 StartChar: u09ad_u09b0_u09cd.blwf.vatu
-Encoding: 225 -1 213
+Encoding: 65607 -1 213
 Width: 625
 GlyphClass: 3
 Flags: W
@@ -9791,7 +9791,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09ad u09b0_u09c
 EndChar
 
 StartChar: u09ae_u09b0_u09cd.blwf.vatu
-Encoding: 226 -1 214
+Encoding: 65608 -1 214
 Width: 482
 GlyphClass: 3
 Flags: W
@@ -9854,7 +9854,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09ae u09b0_u09c
 EndChar
 
 StartChar: u09af_u09b0_u09cd.blwf.vatu
-Encoding: 227 -1 215
+Encoding: 65609 -1 215
 Width: 495
 GlyphClass: 3
 Flags: W
@@ -9906,7 +9906,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09af u09b0_u09c
 EndChar
 
 StartChar: u09b0_u09b0_u09cd.blwf.vatu
-Encoding: 228 -1 216
+Encoding: 65610 -1 216
 Width: 486
 GlyphClass: 3
 Flags: W
@@ -9964,7 +9964,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09b0 u09b0_u09c
 EndChar
 
 StartChar: u09b2_u09b0_u09cd.blwf.vatu
-Encoding: 229 -1 217
+Encoding: 65611 -1 217
 Width: 568
 GlyphClass: 2
 Flags: W
@@ -10026,7 +10026,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09b2 u09b0_u09c
 EndChar
 
 StartChar: u09b6_u09b0_u09cd.blwf.vatu
-Encoding: 230 -1 218
+Encoding: 65612 -1 218
 Width: 659
 GlyphClass: 3
 Flags: W
@@ -10091,7 +10091,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09b6 u09b0_u09c
 EndChar
 
 StartChar: u09b7_u09b0_u09cd.blwf.vatu
-Encoding: 231 -1 219
+Encoding: 65613 -1 219
 Width: 495
 GlyphClass: 3
 Flags: W
@@ -10143,7 +10143,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09b7 u09b0_u09c
 EndChar
 
 StartChar: u09b8_u09b0_u09cd.blwf.vatu
-Encoding: 232 -1 220
+Encoding: 65614 -1 220
 Width: 573
 GlyphClass: 3
 Flags: W
@@ -10204,7 +10204,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09b8 u09b0_u09c
 EndChar
 
 StartChar: u09b9_u09b0_u09cd.blwf.vatu
-Encoding: 233 -1 221
+Encoding: 65615 -1 221
 Width: 451
 GlyphClass: 3
 Flags: W
@@ -10266,7 +10266,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u09b9 u09b0_u09c
 EndChar
 
 StartChar: janya_u09b0_u09cd.blwf.vatu
-Encoding: 234 -1 222
+Encoding: 65616 -1 222
 Width: 893
 GlyphClass: 3
 Flags: W
@@ -10350,7 +10350,7 @@ Validated: 33
 EndChar
 
 StartChar: bn_ka_ssa.akhn_bn_raphala.vatu
-Encoding: 235 -1 223
+Encoding: 65617 -1 223
 Width: 832
 GlyphClass: 3
 Flags: W
@@ -10427,7 +10427,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" bn_ka_ssa.akhn u
 EndChar
 
 StartChar: u09a4_u09cd.half_u09a4_u09b0_u09cd.blwf.vatu.pres
-Encoding: 236 -1 224
+Encoding: 65618 -1 224
 Width: 694
 GlyphClass: 3
 Flags: W
@@ -10496,7 +10496,7 @@ Validated: 545
 EndChar
 
 StartChar: u0995_u09cd_u0995.cjct
-Encoding: 237 -1 225
+Encoding: 65619 -1 225
 Width: 588
 GlyphClass: 3
 Flags: W
@@ -10567,7 +10567,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u0995
 EndChar
 
 StartChar: u0995_u09cd_u099f.cjct
-Encoding: 238 -1 226
+Encoding: 65620 -1 226
 Width: 549
 GlyphClass: 3
 Flags: W
@@ -10637,7 +10637,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u099f
 EndChar
 
 StartChar: u0995_u09cd_u09a4.cjct
-Encoding: 239 -1 227
+Encoding: 65621 -1 227
 Width: 888
 GlyphClass: 3
 Flags: W
@@ -10712,7 +10712,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u09a4
 EndChar
 
 StartChar: u0995_u09cd_u09a8.cjct
-Encoding: 240 -1 228
+Encoding: 65622 -1 228
 Width: 590
 GlyphClass: 3
 Flags: W
@@ -10775,7 +10775,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u09a8
 EndChar
 
 StartChar: u0995_u09cd_u09ae.cjct
-Encoding: 241 -1 229
+Encoding: 65623 -1 229
 Width: 695
 GlyphClass: 3
 Flags: W
@@ -10846,7 +10846,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u09ae
 EndChar
 
 StartChar: u0995_u09cd_u09b2.cjct
-Encoding: 242 -1 230
+Encoding: 65624 -1 230
 Width: 587
 GlyphClass: 3
 Flags: W
@@ -10916,7 +10916,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u09b2
 EndChar
 
 StartChar: u0995_u09cd_u09b8.cjct
-Encoding: 243 -1 231
+Encoding: 65625 -1 231
 Width: 738
 GlyphClass: 3
 Flags: W
@@ -10979,7 +10979,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u09b8
 EndChar
 
 StartChar: bn_ka_ssa.akhn_u09cd_u09a8.cjct
-Encoding: 244 -1 232
+Encoding: 65626 -1 232
 Width: 834
 GlyphClass: 3
 Flags: W
@@ -11060,7 +11060,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" bn_ka_ssa.akhn u09cd u0
 EndChar
 
 StartChar: bn_ka_ssa.akhn_u09cd_u09ae.cjct
-Encoding: 245 -1 233
+Encoding: 65627 -1 233
 Width: 750
 GlyphClass: 3
 Flags: W
@@ -11141,7 +11141,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" bn_ka_ssa.akhn u09cd u0
 EndChar
 
 StartChar: u0997_u09cd_u0997.cjct
-Encoding: 246 -1 234
+Encoding: 65628 -1 234
 Width: 510
 GlyphClass: 3
 Flags: W
@@ -11210,7 +11210,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u0997
 EndChar
 
 StartChar: u0997_u09cd_u09a4.cjct
-Encoding: 247 -1 235
+Encoding: 65629 -1 235
 Width: 515
 GlyphClass: 3
 Flags: W
@@ -11271,7 +11271,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09a4
 EndChar
 
 StartChar: u0997_u09cd_u09a6.cjct
-Encoding: 248 -1 236
+Encoding: 65630 -1 236
 Width: 785
 GlyphClass: 3
 Flags: W
@@ -11333,7 +11333,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09a6
 EndChar
 
 StartChar: u0997_u09cd_u09a7.cjct
-Encoding: 249 -1 237
+Encoding: 65631 -1 237
 Width: 627
 GlyphClass: 3
 Flags: W
@@ -11412,7 +11412,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09a7
 EndChar
 
 StartChar: u0997_u09cd_u09a8.cjct
-Encoding: 250 -1 238
+Encoding: 65632 -1 238
 Width: 497
 GlyphClass: 3
 Flags: W
@@ -11472,7 +11472,7 @@ Validated: 33
 EndChar
 
 StartChar: u0997_u09cd_u09ae.cjct
-Encoding: 251 -1 239
+Encoding: 65633 -1 239
 Width: 722
 GlyphClass: 3
 Flags: W
@@ -11538,7 +11538,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09ae
 EndChar
 
 StartChar: u0997_u09cd_u09b2.cjct
-Encoding: 252 -1 240
+Encoding: 65634 -1 240
 Width: 509
 GlyphClass: 3
 Flags: W
@@ -11604,7 +11604,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09b2
 EndChar
 
 StartChar: u0999_u09cd_u0995.cjct
-Encoding: 253 -1 241
+Encoding: 65635 -1 241
 Width: 571
 GlyphClass: 3
 Flags: W
@@ -11672,7 +11672,7 @@ Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u0999_u09
 EndChar
 
 StartChar: u0999_u09cd_u0996.cjct
-Encoding: 254 -1 242
+Encoding: 65636 -1 242
 Width: 795
 GlyphClass: 3
 Flags: W
@@ -11742,7 +11742,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0999 u09cd u0996
 EndChar
 
 StartChar: u0999_u09cd_u0997.cjct
-Encoding: 255 -1 243
+Encoding: 65637 -1 243
 Width: 570
 GlyphClass: 3
 Flags: W
@@ -11811,7 +11811,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0999 u09cd u0997
 EndChar
 
 StartChar: u099a_u09cd_u099b.cjct
-Encoding: 256 -1 244
+Encoding: 65638 -1 244
 Width: 859
 GlyphClass: 3
 Flags: W
@@ -11885,7 +11885,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099a u09cd u099b
 EndChar
 
 StartChar: u099a_u09cd_u099e.cjct
-Encoding: 257 -1 245
+Encoding: 65639 -1 245
 Width: 546
 GlyphClass: 3
 Flags: W
@@ -11970,7 +11970,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099a u09cd u099e
 EndChar
 
 StartChar: u099c_u09cd_u099c.cjct
-Encoding: 258 -1 246
+Encoding: 65640 -1 246
 Width: 1104
 GlyphClass: 3
 Flags: W
@@ -12058,7 +12058,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099c u09cd u099c
 EndChar
 
 StartChar: u099c_u09cd_u099d.cjct
-Encoding: 259 -1 247
+Encoding: 65641 -1 247
 Width: 739
 GlyphClass: 3
 Flags: W
@@ -12129,7 +12129,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099c u09cd u099d
 EndChar
 
 StartChar: u099e_u09cd_u099a.cjct
-Encoding: 260 -1 248
+Encoding: 65642 -1 248
 Width: 775
 GlyphClass: 3
 Flags: W
@@ -12196,7 +12196,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099e u09cd u099a
 EndChar
 
 StartChar: u099e_u09cd_u099b.cjct
-Encoding: 261 -1 249
+Encoding: 65643 -1 249
 Width: 588
 GlyphClass: 3
 Flags: W
@@ -12278,7 +12278,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099e u09cd u099b
 EndChar
 
 StartChar: u099e_u09cd_u099c.cjct
-Encoding: 262 -1 250
+Encoding: 65644 -1 250
 Width: 677
 GlyphClass: 3
 Flags: W
@@ -12365,7 +12365,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099e u09cd u099c
 EndChar
 
 StartChar: u099e_u09cd_u099d.pres
-Encoding: 263 -1 251
+Encoding: 65645 -1 251
 Width: 763
 GlyphClass: 3
 Flags: W
@@ -12449,7 +12449,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099e u09cd u099d
 EndChar
 
 StartChar: u099f_u09cd_u099f.cjct
-Encoding: 264 -1 252
+Encoding: 65646 -1 252
 Width: 524
 GlyphClass: 3
 Flags: W
@@ -12515,7 +12515,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099f u09cd u099f
 EndChar
 
 StartChar: u09a1_u09cd_u09a1.cjct
-Encoding: 265 -1 253
+Encoding: 65647 -1 253
 Width: 1177
 GlyphClass: 3
 Flags: W
@@ -12587,7 +12587,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a1 u09cd u09a1
 EndChar
 
 StartChar: u09a3_u09cd_u099f.cjct
-Encoding: 266 -1 254
+Encoding: 65648 -1 254
 Width: 759
 GlyphClass: 3
 Flags: W
@@ -12650,7 +12650,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a3 u09cd u099f
 EndChar
 
 StartChar: u09a3_u09cd_u09a0.cjct
-Encoding: 267 -1 255
+Encoding: 65649 -1 255
 Width: 619
 GlyphClass: 3
 Flags: W
@@ -12708,7 +12708,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a3 u09cd u09a0
 EndChar
 
 StartChar: u09a3_u09cd_u09a1.cjct
-Encoding: 268 -1 256
+Encoding: 65650 -1 256
 Width: 708
 GlyphClass: 3
 Flags: W
@@ -12767,7 +12767,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a3 u09cd u09a1
 EndChar
 
 StartChar: u09a4_u09cd_u09a5.cjct
-Encoding: 269 -1 257
+Encoding: 65651 -1 257
 Width: 673
 GlyphClass: 3
 Flags: W
@@ -12820,7 +12820,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09a5
 EndChar
 
 StartChar: u09a4_u09cd_u09a8.cjct
-Encoding: 270 -1 258
+Encoding: 65652 -1 258
 Width: 446
 GlyphClass: 3
 Flags: W
@@ -12884,7 +12884,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09a8
 EndChar
 
 StartChar: u09a4_u09cd_u09ae.cjct
-Encoding: 271 -1 259
+Encoding: 65653 -1 259
 Width: 654
 GlyphClass: 3
 Flags: W
@@ -12955,7 +12955,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09ae
 EndChar
 
 StartChar: u09a6_u09cd_u09a6.cjct
-Encoding: 272 -1 260
+Encoding: 65654 -1 260
 Width: 632
 GlyphClass: 3
 Flags: W
@@ -13007,7 +13007,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09a6
 EndChar
 
 StartChar: u09a6_u09cd_u09a7.cjct
-Encoding: 273 -1 261
+Encoding: 65655 -1 261
 Width: 595
 GlyphClass: 3
 Flags: W
@@ -13078,7 +13078,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09a7
 EndChar
 
 StartChar: u09a6_u09cd_u09ae.cjct
-Encoding: 274 -1 262
+Encoding: 65656 -1 262
 Width: 567
 GlyphClass: 3
 Flags: W
@@ -13134,7 +13134,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09ae
 EndChar
 
 StartChar: u0998_u09cd_u09a8.cjct
-Encoding: 275 -1 263
+Encoding: 65657 -1 263
 Width: 543
 GlyphClass: 3
 Flags: W
@@ -13195,7 +13195,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0998 u09cd u09a8
 EndChar
 
 StartChar: u09a6_u09cd_u09ad.cjct
-Encoding: 276 -1 264
+Encoding: 65658 -1 264
 Width: 634
 GlyphClass: 3
 Flags: W
@@ -13255,7 +13255,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09ad
 EndChar
 
 StartChar: u0995_u09cd_u09ac.cjct
-Encoding: 277 -1 265
+Encoding: 65659 -1 265
 Width: 585
 GlyphClass: 3
 Flags: W
@@ -13315,7 +13315,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u09ac
 EndChar
 
 StartChar: u0997_u09cd_u09ac.cjct
-Encoding: 278 -1 266
+Encoding: 65660 -1 266
 Width: 507
 GlyphClass: 3
 Flags: W
@@ -13370,7 +13370,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0997 u09cd u09ac
 EndChar
 
 StartChar: u099b_u09cd_u09ac.cjct
-Encoding: 279 -1 267
+Encoding: 65661 -1 267
 Width: 602
 GlyphClass: 3
 Flags: W
@@ -13441,7 +13441,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099b u09cd u09ac
 EndChar
 
 StartChar: u099c_u09cd_u09ac.cjct
-Encoding: 280 -1 268
+Encoding: 65662 -1 268
 Width: 812
 GlyphClass: 3
 Flags: W
@@ -13506,7 +13506,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099c u09cd u09ac
 EndChar
 
 StartChar: u09a3_u09cd_u09ac.cjct
-Encoding: 281 -1 269
+Encoding: 65663 -1 269
 Width: 464
 GlyphClass: 3
 Flags: W
@@ -13557,7 +13557,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a3 u09cd u09f1
 EndChar
 
 StartChar: u09a4_u09cd_u09ac.cjct
-Encoding: 282 -1 270
+Encoding: 65664 -1 270
 Width: 451
 GlyphClass: 3
 Flags: W
@@ -13617,7 +13617,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09f1
 EndChar
 
 StartChar: u09a6_u09cd_u09ac.cjct
-Encoding: 283 -1 271
+Encoding: 65665 -1 271
 Width: 449
 GlyphClass: 3
 Flags: W
@@ -13668,7 +13668,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09f1
 EndChar
 
 StartChar: u09a7_u09cd_u09ac.cjct
-Encoding: 284 -1 272
+Encoding: 65666 -1 272
 Width: 823
 GlyphClass: 3
 Flags: W
@@ -13730,7 +13730,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a7 u09cd u09ac
 EndChar
 
 StartChar: u09a8_u09cd_u09ac.cjct
-Encoding: 285 -1 273
+Encoding: 65667 -1 273
 Width: 448
 GlyphClass: 3
 Flags: W
@@ -13784,7 +13784,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09ac
 EndChar
 
 StartChar: u09aa_u09cd_u09ac.cjct
-Encoding: 286 -1 274
+Encoding: 65668 -1 274
 Width: 534
 GlyphClass: 3
 Flags: W
@@ -13844,7 +13844,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09ac
 EndChar
 
 StartChar: u09ac_u09cd_u09ac.cjct
-Encoding: 287 -1 275
+Encoding: 65669 -1 275
 Width: 832
 GlyphClass: 3
 Flags: W
@@ -13897,7 +13897,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ac u09cd u09ac
 EndChar
 
 StartChar: u09b6_u09cd_u09ac.cjct
-Encoding: 288 -1 276
+Encoding: 65670 -1 276
 Width: 536
 GlyphClass: 3
 Flags: W
@@ -13961,7 +13961,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09ac
 EndChar
 
 StartChar: u09b8_u09cd_u09ac.cjct
-Encoding: 289 -1 277
+Encoding: 65671 -1 277
 Width: 575
 GlyphClass: 3
 Flags: W
@@ -14021,7 +14021,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09ac
 EndChar
 
 StartChar: u09a6_u09cd_u09a8.cjct
-Encoding: 290 -1 278
+Encoding: 65672 -1 278
 Width: 458
 GlyphClass: 3
 Flags: W
@@ -14076,7 +14076,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09a8
 EndChar
 
 StartChar: u09a7_u09cd_u09a8.cjct
-Encoding: 291 -1 279
+Encoding: 65673 -1 279
 Width: 469
 GlyphClass: 3
 Flags: W
@@ -14136,7 +14136,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a7 u09cd u09a8
 EndChar
 
 StartChar: u09a8_u09cd._u09a4.cjct
-Encoding: 292 -1 280
+Encoding: 65674 -1 280
 Width: 437
 GlyphClass: 3
 Flags: W
@@ -14195,7 +14195,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a4
 EndChar
 
 StartChar: u09a8_u09cd_u09a4_u09b0.vatu
-Encoding: 293 -1 281
+Encoding: 65675 -1 281
 Width: 446
 GlyphClass: 3
 Flags: W
@@ -14265,10 +14265,11 @@ SplineSet
  444 590 l 1x7b40
 EndSplineSet
 Validated: 1
+Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a4_u09b0_u09cd.blwf.vatu
 EndChar
 
 StartChar: u09a8_u09cd_u09a4_u09c1.blws
-Encoding: 294 -1 282
+Encoding: 65676 -1 282
 Width: 443
 GlyphClass: 3
 Flags: W
@@ -14337,7 +14338,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a8
 EndChar
 
 StartChar: u09a8_u09cd_u09a5.cjct
-Encoding: 295 -1 283
+Encoding: 65677 -1 283
 Width: 436
 GlyphClass: 3
 Flags: W
@@ -14402,7 +14403,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a5
 EndChar
 
 StartChar: u09a8_u09cd_u09a6.cjct
-Encoding: 296 -1 284
+Encoding: 65678 -1 284
 Width: 673
 GlyphClass: 3
 Flags: W
@@ -14457,7 +14458,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a6
 EndChar
 
 StartChar: u09a8_u09cd_u09a7.cjct
-Encoding: 297 -1 285
+Encoding: 65679 -1 285
 Width: 585
 GlyphClass: 3
 Flags: W
@@ -14534,7 +14535,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a7
 EndChar
 
 StartChar: u09a8_u09cd_u09a8.cjct
-Encoding: 298 -1 286
+Encoding: 65680 -1 286
 Width: 443
 GlyphClass: 3
 Flags: W
@@ -14594,7 +14595,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a8
 EndChar
 
 StartChar: u09a8_u09cd_u09ae.cjct
-Encoding: 299 -1 287
+Encoding: 65681 -1 287
 Width: 661
 GlyphClass: 3
 Flags: W
@@ -14659,7 +14660,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09ae
 EndChar
 
 StartChar: u09a8_u09cd_u09b8.cjct
-Encoding: 300 -1 288
+Encoding: 65682 -1 288
 Width: 646
 GlyphClass: 3
 Flags: W
@@ -14726,7 +14727,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09b8
 EndChar
 
 StartChar: u09aa_u09cd_u09a4.cjct
-Encoding: 301 -1 289
+Encoding: 65683 -1 289
 Width: 763
 GlyphClass: 3
 Flags: W
@@ -14791,7 +14792,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09a4
 EndChar
 
 StartChar: u09aa_u09cd_u09aa.cjct
-Encoding: 302 -1 290
+Encoding: 65684 -1 290
 Width: 561
 GlyphClass: 3
 Flags: W
@@ -14860,7 +14861,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09aa
 EndChar
 
 StartChar: u09aa_u09cd_u09ae.cjct
-Encoding: 303 -1 291
+Encoding: 65685 -1 291
 Width: 771
 GlyphClass: 3
 Flags: W
@@ -14930,7 +14931,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09ae
 EndChar
 
 StartChar: u09aa_u09cd_u09a8.cjct
-Encoding: 304 -1 292
+Encoding: 65686 -1 292
 Width: 507
 GlyphClass: 3
 Flags: W
@@ -14996,7 +14997,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09a8
 EndChar
 
 StartChar: u09aa_u09cd_u09b2.cjct
-Encoding: 305 -1 293
+Encoding: 65687 -1 293
 Width: 509
 GlyphClass: 3
 Flags: W
@@ -15067,7 +15068,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09b2
 EndChar
 
 StartChar: u09ab_u09cd_u09b2.cjct
-Encoding: 306 -1 294
+Encoding: 65688 -1 294
 Width: 707
 GlyphClass: 3
 Flags: W
@@ -15137,7 +15138,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ab u09cd u09b2
 EndChar
 
 StartChar: u09ae_u09cd_u09aa.cjct
-Encoding: 307 -1 295
+Encoding: 65689 -1 295
 Width: 1079
 GlyphClass: 3
 Flags: W
@@ -15214,7 +15215,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09aa
 EndChar
 
 StartChar: u09ae_u09cd_u09ab.cjct
-Encoding: 308 -1 296
+Encoding: 65690 -1 296
 Width: 934
 GlyphClass: 3
 Flags: W
@@ -15294,7 +15295,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09ab
 EndChar
 
 StartChar: u09ae_u09cd_u09ad.cjct
-Encoding: 309 -1 297
+Encoding: 65691 -1 297
 Width: 705
 GlyphClass: 3
 Flags: W
@@ -15365,7 +15366,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09ad
 EndChar
 
 StartChar: u09ae_u09cd_u09a8.cjct
-Encoding: 310 -1 298
+Encoding: 65692 -1 298
 Width: 434
 GlyphClass: 3
 Flags: W
@@ -15429,7 +15430,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09a8
 EndChar
 
 StartChar: u09ae_u09cd_u09ae.cjct
-Encoding: 311 -1 299
+Encoding: 65693 -1 299
 Width: 707
 GlyphClass: 3
 Flags: W
@@ -15501,7 +15502,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09ae
 EndChar
 
 StartChar: u09ae_u09cd_u09b2.cjct
-Encoding: 312 -1 300
+Encoding: 65694 -1 300
 Width: 478
 GlyphClass: 3
 Flags: W
@@ -15572,7 +15573,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09b2
 EndChar
 
 StartChar: u09ae_u09cd_u09ad.09b0_u09cd
-Encoding: 313 -1 301
+Encoding: 65695 -1 301
 Width: 582
 GlyphClass: 3
 Flags: W
@@ -15643,7 +15644,7 @@ Validated: 33
 EndChar
 
 StartChar: u09b2_u09cd_u0995.cjct
-Encoding: 314 -1 302
+Encoding: 65696 -1 302
 Width: 715
 GlyphClass: 3
 Flags: W
@@ -15717,7 +15718,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u0995
 EndChar
 
 StartChar: u09b2_u09cd._u0997.cjct
-Encoding: 315 -1 303
+Encoding: 65697 -1 303
 Width: 558
 GlyphClass: 3
 Flags: W
@@ -15789,7 +15790,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u0997
 EndChar
 
 StartChar: u09b2_u09cd_u09ac.cjct
-Encoding: 316 -1 304
+Encoding: 65698 -1 304
 Width: 561
 GlyphClass: 3
 Flags: W
@@ -15849,7 +15850,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09ac
 EndChar
 
 StartChar: u09b2_u09cd_u09aa.cjct
-Encoding: 317 -1 305
+Encoding: 65699 -1 305
 Width: 563
 GlyphClass: 3
 Flags: W
@@ -15918,7 +15919,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09aa
 EndChar
 
 StartChar: u09b2_u09cd_u09ae.cjct
-Encoding: 318 -1 306
+Encoding: 65700 -1 306
 Width: 769
 GlyphClass: 3
 Flags: W
@@ -15986,7 +15987,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09ae
 EndChar
 
 StartChar: u09b2_u09cd_u09b2.cjct
-Encoding: 319 -1 307
+Encoding: 65701 -1 307
 Width: 551
 GlyphClass: 3
 Flags: W
@@ -16055,7 +16056,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09b2
 EndChar
 
 StartChar: u09ac_u09cd_u099c.cjct
-Encoding: 320 -1 308
+Encoding: 65702 -1 308
 Width: 871
 GlyphClass: 3
 Flags: W
@@ -16113,7 +16114,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ac u09cd u099c
 EndChar
 
 StartChar: u09ac_u09cd_u09a6.cjct
-Encoding: 321 -1 309
+Encoding: 65703 -1 309
 Width: 668
 GlyphClass: 3
 Flags: W
@@ -16162,7 +16163,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ac u09cd u09a6
 EndChar
 
 StartChar: u09ac_u09cd_u09a7.cjct
-Encoding: 322 -1 310
+Encoding: 65704 -1 310
 Width: 585
 GlyphClass: 3
 Flags: W
@@ -16222,7 +16223,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ac u09cd u09a7
 EndChar
 
 StartChar: u09ac_u09cd_u09a8.cjct
-Encoding: 323 -1 311
+Encoding: 65705 -1 311
 Width: 424
 GlyphClass: 3
 Flags: W
@@ -16275,7 +16276,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ac u09cd u09a8
 EndChar
 
 StartChar: u09ac_u09cd_u09b2.cjct
-Encoding: 324 -1 312
+Encoding: 65706 -1 312
 Width: 399
 GlyphClass: 3
 Flags: W
@@ -16335,7 +16336,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ac u09cd u09b2
 EndChar
 
 StartChar: u09b6_u09cd_u09b2.cjct
-Encoding: 325 -1 313
+Encoding: 65707 -1 313
 Width: 543
 GlyphClass: 3
 Flags: W
@@ -16409,7 +16410,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09b2
 EndChar
 
 StartChar: u09b7_u09cd_u0995.cjct
-Encoding: 326 -1 314
+Encoding: 65708 -1 314
 Width: 526
 GlyphClass: 3
 Flags: W
@@ -16481,7 +16482,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u0995
 EndChar
 
 StartChar: u09b7_u09cd_u099f.cjct
-Encoding: 327 -1 315
+Encoding: 65709 -1 315
 Width: 434
 GlyphClass: 3
 Flags: W
@@ -16556,7 +16557,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u099f
 EndChar
 
 StartChar: u09b7_u09cd_u09a0.cjct
-Encoding: 328 -1 316
+Encoding: 65710 -1 316
 Width: 602
 GlyphClass: 3
 Flags: W
@@ -16620,7 +16621,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09a0
 EndChar
 
 StartChar: u09b7_u09cd_u09a3.cjct
-Encoding: 329 -1 317
+Encoding: 65711 -1 317
 Width: 731
 GlyphClass: 3
 Flags: W
@@ -16682,7 +16683,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09a3
 EndChar
 
 StartChar: u09b7_u09cd._u09aa.cjct
-Encoding: 330 -1 318
+Encoding: 65712 -1 318
 Width: 956
 GlyphClass: 3
 Flags: W
@@ -16753,7 +16754,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09aa
 EndChar
 
 StartChar: u09b8_u09cd_u0995.cjct
-Encoding: 331 -1 319
+Encoding: 65713 -1 319
 Width: 731
 GlyphClass: 3
 Flags: W
@@ -16826,7 +16827,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u0995
 EndChar
 
 StartChar: u09b8_u09cd_u09a4.cjct
-Encoding: 332 -1 320
+Encoding: 65714 -1 320
 Width: 575
 GlyphClass: 3
 Flags: W
@@ -16890,7 +16891,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09a4
 EndChar
 
 StartChar: u09b8_u09cd_u09a5.cjct
-Encoding: 333 -1 321
+Encoding: 65715 -1 321
 Width: 570
 GlyphClass: 3
 Flags: W
@@ -16961,7 +16962,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09a5
 EndChar
 
 StartChar: u09b8_u09cd_u09a8.cjct
-Encoding: 334 -1 322
+Encoding: 65716 -1 322
 Width: 478
 GlyphClass: 3
 Flags: W
@@ -17031,7 +17032,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09a8
 EndChar
 
 StartChar: u09b8_u09cd_u09ae.cjct
-Encoding: 335 -1 323
+Encoding: 65717 -1 323
 Width: 800
 GlyphClass: 3
 Flags: W
@@ -17104,7 +17105,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09ae
 EndChar
 
 StartChar: u09b8_u09cd_u09b2.cjct
-Encoding: 336 -1 324
+Encoding: 65718 -1 324
 Width: 575
 GlyphClass: 3
 Flags: W
@@ -17174,7 +17175,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09b2
 EndChar
 
 StartChar: u09b8_u09cd_u09ab.cjct
-Encoding: 337 -1 325
+Encoding: 65719 -1 325
 Width: 969
 GlyphClass: 3
 Flags: W
@@ -17252,7 +17253,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09ab
 EndChar
 
 StartChar: u09b8_u09cd_u099f.cjct
-Encoding: 338 -1 326
+Encoding: 65720 -1 326
 Width: 746
 GlyphClass: 3
 Flags: W
@@ -17336,7 +17337,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u099f
 EndChar
 
 StartChar: u09b8_u09cd.u099f_u09b0.vatu
-Encoding: 339 -1 327
+Encoding: 65721 -1 327
 Width: 742
 GlyphClass: 3
 Flags: W
@@ -17438,7 +17439,7 @@ Validated: 33
 EndChar
 
 StartChar: u09b8_u09cd_u09aa.cjct
-Encoding: 340 -1 328
+Encoding: 65722 -1 328
 Width: 1098
 GlyphClass: 3
 Flags: W
@@ -17515,7 +17516,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u09aa
 EndChar
 
 StartChar: u09b8_u09cd_u09a4_u09b0.vatu
-Encoding: 341 -1 329
+Encoding: 65723 -1 329
 Width: 578
 GlyphClass: 3
 Flags: W
@@ -17593,7 +17594,7 @@ Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09b8_u09
 EndChar
 
 StartChar: u09b8_u09cd_u0995_u09b0.vatu
-Encoding: 342 -1 330
+Encoding: 65724 -1 330
 Width: 769
 GlyphClass: 3
 Flags: W
@@ -17684,7 +17685,7 @@ Substitution2: "'salt' Stylistic Alternatives in Bengali2 lookup 17-1" u09b8_u09
 EndChar
 
 StartChar: u09b9_u09cd_u09a8.cjct
-Encoding: 343 -1 331
+Encoding: 65725 -1 331
 Width: 705
 GlyphClass: 3
 Flags: W
@@ -17745,7 +17746,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b9 u09cd u09a8
 EndChar
 
 StartChar: u099c_u09cd_u099c_u09ac
-Encoding: 344 -1 332
+Encoding: 65726 -1 332
 Width: 1143
 GlyphClass: 3
 Flags: W
@@ -17842,7 +17843,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099c u09cd u099c u09cd
 EndChar
 
 StartChar: u0995_u09cd_u099f_u09b0.vatu
-Encoding: 345 -1 333
+Encoding: 65727 -1 333
 Width: 554
 GlyphClass: 3
 Flags: W
@@ -17928,7 +17929,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd u099f_u09b0
 EndChar
 
 StartChar: u09a8_u09cd_u09a6_u09b0.vatu
-Encoding: 346 -1 334
+Encoding: 65728 -1 334
 Width: 627
 GlyphClass: 3
 Flags: W
@@ -17992,7 +17993,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a6_u09b0
 EndChar
 
 StartChar: u09a8_u09cd_u09a7_u09b0.vatu
-Encoding: 347 -1 335
+Encoding: 65729 -1 335
 Width: 628
 GlyphClass: 3
 Flags: W
@@ -18069,7 +18070,7 @@ Validated: 33
 EndChar
 
 StartChar: u09aa_u09cd_u09a4_u09b0.vatu
-Encoding: 348 -1 336
+Encoding: 65730 -1 336
 Width: 503
 GlyphClass: 3
 Flags: W
@@ -18151,7 +18152,7 @@ Validated: 33
 EndChar
 
 StartChar: u09ae_u09cd_u09aa_u09b0.vatu
-Encoding: 349 -1 337
+Encoding: 65731 -1 337
 Width: 1081
 GlyphClass: 3
 Flags: W
@@ -18244,7 +18245,7 @@ Validated: 33
 EndChar
 
 StartChar: u09b7_u09cd_u099f_u09b0.vatu
-Encoding: 350 -1 338
+Encoding: 65732 -1 338
 Width: 431
 GlyphClass: 3
 Flags: W
@@ -18335,7 +18336,7 @@ Validated: 37
 EndChar
 
 StartChar: u09b8_u09cd_u09aa_u09b0.vatu
-Encoding: 351 -1 339
+Encoding: 65733 -1 339
 Width: 1091
 GlyphClass: 3
 Flags: W
@@ -18426,7 +18427,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a4_u09cd_u09a4_u09ac.cjct
-Encoding: 352 -1 340
+Encoding: 65734 -1 340
 Width: 677
 GlyphClass: 3
 Flags: W
@@ -18495,7 +18496,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a4 u09cd u09a4 u09cd
 EndChar
 
 StartChar: u09a8_u09cd_u09a6_u09ac.cjct
-Encoding: 353 -1 341
+Encoding: 65735 -1 341
 Width: 678
 GlyphClass: 3
 Flags: W
@@ -18563,7 +18564,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a6 u09cd
 EndChar
 
 StartChar: u09a8_u09cd_u099f.cjct
-Encoding: 354 -1 342
+Encoding: 65736 -1 342
 Width: 717
 GlyphClass: 3
 Flags: W
@@ -18635,7 +18636,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u099f
 EndChar
 
 StartChar: u09a8_u09cd_u09a0.cjct
-Encoding: 355 -1 343
+Encoding: 65737 -1 343
 Width: 644
 GlyphClass: 3
 Flags: W
@@ -18703,7 +18704,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a0
 EndChar
 
 StartChar: u09a8_u09cd_u09a1.cjct
-Encoding: 356 -1 344
+Encoding: 65738 -1 344
 Width: 793
 GlyphClass: 3
 Flags: W
@@ -18764,7 +18765,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a1
 EndChar
 
 StartChar: u09a8_u09cd_u099a.cjct
-Encoding: 357 -1 345
+Encoding: 65739 -1 345
 Width: 720
 GlyphClass: 3
 Flags: W
@@ -18828,7 +18829,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u099a
 EndChar
 
 StartChar: u09a3_u09cd_u09a1_u09b0.vatu
-Encoding: 358 -1 346
+Encoding: 65740 -1 346
 Width: 681
 GlyphClass: 3
 Flags: W
@@ -18903,7 +18904,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a8_u09cd_u099f_u09b0.vatu
-Encoding: 359 -1 347
+Encoding: 65741 -1 347
 Width: 717
 GlyphClass: 3
 Flags: W
@@ -18992,7 +18993,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a8_u09cd_u09a0_u09b0.vatu
-Encoding: 360 -1 348
+Encoding: 65742 -1 348
 Width: 625
 GlyphClass: 3
 Flags: W
@@ -19077,7 +19078,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a8_u09cd_u09a1_u09b0.cjct
-Encoding: 361 -1 349
+Encoding: 65743 -1 349
 Width: 800
 GlyphClass: 3
 Flags: W
@@ -19155,7 +19156,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u09a1_u09b0
 EndChar
 
 StartChar: u09b8_u09cd_u0996.cjct
-Encoding: 362 -1 350
+Encoding: 65744 -1 350
 Width: 686
 GlyphClass: 3
 Flags: W
@@ -19218,7 +19219,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b8 u09cd u0996
 EndChar
 
 StartChar: u09b6_u09cd_u099a.cjct
-Encoding: 363 -1 351
+Encoding: 65745 -1 351
 Width: 808
 GlyphClass: 3
 Flags: W
@@ -19285,7 +19286,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u099a
 EndChar
 
 StartChar: u09a8_u09cd_u0995.cjct
-Encoding: 364 -1 352
+Encoding: 65746 -1 352
 Width: 603
 GlyphClass: 3
 Flags: W
@@ -19353,7 +19354,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u0995
 EndChar
 
 StartChar: u09a8_u09cd_u0995_u09b0.cjct
-Encoding: 365 -1 353
+Encoding: 65747 -1 353
 Width: 602
 GlyphClass: 3
 Flags: W
@@ -19441,7 +19442,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a8 u09cd u0995_u09b0
 EndChar
 
 StartChar: u09b6_u09cd_u099b.cjct
-Encoding: 366 -1 354
+Encoding: 65748 -1 354
 Width: 897
 GlyphClass: 3
 Flags: W
@@ -19517,7 +19518,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u099b
 EndChar
 
 StartChar: u09a3_u09cd_u09ae.cjct
-Encoding: 367 -1 355
+Encoding: 65749 -1 355
 Width: 659
 GlyphClass: 3
 Flags: W
@@ -19578,7 +19579,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a3 u09cd u09ae
 EndChar
 
 StartChar: u09b6_u09cd_u09ae.cjct
-Encoding: 368 -1 356
+Encoding: 65750 -1 356
 Width: 748
 GlyphClass: 3
 Flags: W
@@ -19653,7 +19654,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09ae
 EndChar
 
 StartChar: u09a6_u09cd_u09a6_u09ac.cjct
-Encoding: 369 -1 357
+Encoding: 65751 -1 357
 Width: 623
 GlyphClass: 3
 Flags: W
@@ -19707,7 +19708,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09a6 u09cd
 EndChar
 
 StartChar: u09b7_u09cd_u09ae.cjct
-Encoding: 370 -1 358
+Encoding: 65752 -1 358
 Width: 583
 GlyphClass: 3
 Flags: W
@@ -19774,7 +19775,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09ae
 EndChar
 
 StartChar: u09ac_u09cd_u09a6_u09b0.vatu
-Encoding: 371 -1 359
+Encoding: 65753 -1 359
 Width: 676
 GlyphClass: 3
 Flags: W
@@ -19834,7 +19835,7 @@ Validated: 33
 EndChar
 
 StartChar: u099a_u09cd_u099a.cjct
-Encoding: 372 -1 360
+Encoding: 65754 -1 360
 Width: 744
 GlyphClass: 3
 Flags: W
@@ -19897,7 +19898,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099a u09cd u099a
 EndChar
 
 StartChar: u099a_u09cd_u099b_u09ac.cjct
-Encoding: 373 -1 361
+Encoding: 65755 -1 361
 Width: 858
 GlyphClass: 3
 Flags: W
@@ -19986,7 +19987,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099a u09cd u099c u09cd
 EndChar
 
 StartChar: u0999_u09cd_u09ae.cjct
-Encoding: 374 -1 362
+Encoding: 65756 -1 362
 Width: 645
 GlyphClass: 3
 Flags: W
@@ -20056,7 +20057,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0999 u09cd u09ae
 EndChar
 
 StartChar: u09a8_u09cd_u09a4_u09ac.blws
-Encoding: 375 -1 363
+Encoding: 65757 -1 363
 Width: 443
 GlyphClass: 3
 Flags: W
@@ -20129,7 +20130,7 @@ Validated: 33
 EndChar
 
 StartChar: u09aa_u09cd_u099f.cjct
-Encoding: 376 -1 364
+Encoding: 65758 -1 364
 Width: 791
 GlyphClass: 3
 Flags: W
@@ -20207,7 +20208,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u099f
 EndChar
 
 StartChar: u09b6_u09cd_u09a8.cjct
-Encoding: 377 -1 365
+Encoding: 65759 -1 365
 Width: 534
 GlyphClass: 3
 Flags: W
@@ -20276,7 +20277,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09a8
 EndChar
 
 StartChar: u09aa_u09cd_u09b8.cjct
-Encoding: 378 -1 366
+Encoding: 65760 -1 366
 Width: 686
 GlyphClass: 3
 Flags: W
@@ -20348,7 +20349,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09aa u09cd u09b8
 EndChar
 
 StartChar: u09b9_u09cd_u09b2.cjct
-Encoding: 379 -1 367
+Encoding: 65761 -1 367
 Width: 451
 GlyphClass: 3
 Flags: W
@@ -20418,7 +20419,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b9 u09cd u09b2
 EndChar
 
 StartChar: u09b2_u09cd_u09a1.cjct
-Encoding: 380 -1 368
+Encoding: 65762 -1 368
 Width: 825
 GlyphClass: 3
 Flags: W
@@ -20487,7 +20488,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09a1
 EndChar
 
 StartChar: u09b7_u09cd_u09ab.cjct
-Encoding: 381 -1 369
+Encoding: 65763 -1 369
 Width: 805
 GlyphClass: 3
 Flags: W
@@ -20560,7 +20561,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09ab
 EndChar
 
 StartChar: u09dc_u09cd_u0997.cjct
-Encoding: 382 -1 370
+Encoding: 65764 -1 370
 Width: 1118
 GlyphClass: 3
 Flags: W
@@ -20640,7 +20641,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09dc u09cd u0997
 EndChar
 
 StartChar: u09ae_u09cd_u09a4_u09b0.vatu
-Encoding: 383 -1 371
+Encoding: 65765 -1 371
 Width: 527
 GlyphClass: 3
 Flags: W
@@ -20715,7 +20716,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09aa
 EndChar
 
 StartChar: u09a6_u09cd_u09ad_u09b0.vatu
-Encoding: 384 -1 372
+Encoding: 65766 -1 372
 Width: 570
 GlyphClass: 3
 Flags: W
@@ -20778,7 +20779,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: u09ac_u09cd_u09ad.cjct
-Encoding: 385 -1 373
+Encoding: 65767 -1 373
 Width: 431
 GlyphClass: 3
 Flags: W
@@ -20840,7 +20841,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ac u09cd u09ad
 EndChar
 
 StartChar: u09b9_u09cd_u09ac.cjct
-Encoding: 386 -1 374
+Encoding: 65768 -1 374
 Width: 837
 GlyphClass: 3
 Flags: W
@@ -20903,7 +20904,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b9 u09cd u09ac
 EndChar
 
 StartChar: u09b8_u09cd_u09a4_u09c1.blws
-Encoding: 387 -1 375
+Encoding: 65769 -1 375
 Width: 576
 GlyphClass: 3
 Flags: W
@@ -20976,7 +20977,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b8
 EndChar
 
 StartChar: u09b9_u09cd_u09a3.cjct
-Encoding: 388 -1 376
+Encoding: 65770 -1 376
 Width: 448
 GlyphClass: 3
 Flags: W
@@ -21038,7 +21039,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b9 u09cd u09a3
 EndChar
 
 StartChar: u0987_u0981.abvs
-Encoding: 389 -1 377
+Encoding: 65771 -1 377
 Width: 458
 GlyphClass: 3
 Flags: W
@@ -21117,7 +21118,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u0987
 EndChar
 
 StartChar: u0988_u0981.abvs
-Encoding: 390 -1 378
+Encoding: 65772 -1 378
 Width: 636
 GlyphClass: 3
 Flags: W
@@ -21199,7 +21200,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u0988
 EndChar
 
 StartChar: u0999_u0981.abvs
-Encoding: 391 -1 379
+Encoding: 65773 -1 379
 Width: 729
 GlyphClass: 3
 Flags: W
@@ -21280,7 +21281,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u0989
 EndChar
 
 StartChar: u098a_u0981.abvs
-Encoding: 392 -1 380
+Encoding: 65774 -1 380
 Width: 790
 GlyphClass: 3
 Flags: W
@@ -21364,7 +21365,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u098a
 EndChar
 
 StartChar: u099f_u0981.abvs
-Encoding: 393 -1 381
+Encoding: 65775 -1 381
 Width: 549
 GlyphClass: 3
 Flags: W
@@ -21441,7 +21442,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u099f
 EndChar
 
 StartChar: u09a0_u0981.abvs
-Encoding: 394 -1 382
+Encoding: 65776 -1 382
 Width: 514
 GlyphClass: 3
 Flags: W
@@ -21510,7 +21511,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09a0
 EndChar
 
 StartChar: u09be_u0981.abvs
-Encoding: 395 -1 383
+Encoding: 65777 -1 383
 Width: 240
 GlyphClass: 2
 Flags: W
@@ -21556,7 +21557,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09be
 EndChar
 
 StartChar: u09be_u09b0_u09cd.rphf.abvs
-Encoding: 396 -1 384
+Encoding: 65778 -1 384
 Width: 238
 GlyphClass: 2
 Flags: W
@@ -21589,7 +21590,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09be
 EndChar
 
 StartChar: u09bf_u0981.abvs
-Encoding: 397 -1 385
+Encoding: 65779 -1 385
 Width: 238
 GlyphClass: 2
 Flags: W
@@ -21647,7 +21648,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09bf
 EndChar
 
 StartChar: u09c0_u0981.abvs
-Encoding: 398 -1 386
+Encoding: 65780 -1 386
 Width: 197
 GlyphClass: 3
 Flags: W
@@ -21710,7 +21711,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09c0
 EndChar
 
 StartChar: u09c0_u09b0_u09cd.rphf.abvs
-Encoding: 399 -1 387
+Encoding: 65781 -1 387
 Width: 197
 GlyphClass: 3
 Flags: W
@@ -21768,7 +21769,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09c0
 EndChar
 
 StartChar: u09d7_u0981.abvs
-Encoding: 400 -1 388
+Encoding: 65782 -1 388
 Width: 209
 GlyphClass: 3
 Flags: W
@@ -21826,7 +21827,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09d7
 EndChar
 
 StartChar: u0997_u09c1.blws
-Encoding: 401 -1 389
+Encoding: 65783 -1 389
 Width: 727
 GlyphClass: 3
 Flags: W
@@ -21886,7 +21887,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u0997
 EndChar
 
 StartChar: u09b6_u09c1.blws
-Encoding: 402 -1 390
+Encoding: 65784 -1 390
 Width: 731
 GlyphClass: 3
 Flags: W
@@ -21954,7 +21955,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b6
 EndChar
 
 StartChar: u09b0_u09c1.blws
-Encoding: 403 -1 391
+Encoding: 65785 -1 391
 Width: 739
 GlyphClass: 3
 Flags: W
@@ -22017,7 +22018,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b0
 EndChar
 
 StartChar: u09b0_u09c2.blws
-Encoding: 404 -1 392
+Encoding: 65786 -1 392
 Width: 661
 GlyphClass: 3
 Flags: W
@@ -22081,7 +22082,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b0
 EndChar
 
 StartChar: u09a4_u09b0_u09cd.blwf.vatu_u09c1.blws
-Encoding: 405 -1 393
+Encoding: 65787 -1 393
 Width: 849
 GlyphClass: 3
 Flags: W
@@ -22153,7 +22154,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a4
 EndChar
 
 StartChar: u09a4_u09b0_u09cd.blwf.vatu_u09c2.blws
-Encoding: 406 -1 394
+Encoding: 65788 -1 394
 Width: 788
 GlyphClass: 3
 Flags: W
@@ -22225,7 +22226,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a4
 EndChar
 
 StartChar: u09a6_u09b0_u09cd.blwf.vatu_u09c1.blws
-Encoding: 407 -1 395
+Encoding: 65789 -1 395
 Width: 675
 GlyphClass: 3
 Flags: W
@@ -22293,7 +22294,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a6
 EndChar
 
 StartChar: u09a6_u09b0_u09cd.blwf.vatu_u09c2.blws
-Encoding: 408 -1 396
+Encoding: 65790 -1 396
 Width: 617
 GlyphClass: 3
 Flags: W
@@ -22361,7 +22362,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a6
 EndChar
 
 StartChar: u09ad_u09b0_u09cd.blwf.vatu_u09c1.blws
-Encoding: 409 -1 397
+Encoding: 65791 -1 397
 Width: 854
 GlyphClass: 3
 Flags: W
@@ -22431,7 +22432,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09ad
 EndChar
 
 StartChar: u09ad_u09b0_u09cd.blwf.vatu_u09c2.blws
-Encoding: 410 -1 398
+Encoding: 65792 -1 398
 Width: 788
 GlyphClass: 3
 Flags: W
@@ -22504,7 +22505,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09ad
 EndChar
 
 StartChar: u09b6_u09b0_u09cd.blwf.vatu_u09c1.blws
-Encoding: 411 -1 399
+Encoding: 65793 -1 399
 Width: 890
 GlyphClass: 3
 Flags: W
@@ -22586,7 +22587,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b6
 EndChar
 
 StartChar: u09b6_u09b0_u09cd.blwf.vatu_u09c2.blws
-Encoding: 412 -1 400
+Encoding: 65794 -1 400
 Width: 824
 GlyphClass: 3
 Flags: W
@@ -22669,7 +22670,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b6
 EndChar
 
 StartChar: u09b9_u09c1.blws
-Encoding: 413 -1 401
+Encoding: 65795 -1 401
 Width: 515
 GlyphClass: 3
 Flags: W
@@ -22720,7 +22721,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b9
 EndChar
 
 StartChar: u09b9_u09c3.blws
-Encoding: 414 -1 402
+Encoding: 65796 -1 402
 Width: 631
 GlyphClass: 3
 Flags: W
@@ -22784,7 +22785,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b9
 EndChar
 
 StartChar: u09d7_u09b0_u09cd.rphf.abvs
-Encoding: 415 -1 403
+Encoding: 65797 -1 403
 Width: 209
 GlyphClass: 3
 Flags: W
@@ -22832,7 +22833,7 @@ Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 11 subtable" u09d7
 EndChar
 
 StartChar: u0997_u09b0_u09cd.blwf.vatu_u09c1.blws
-Encoding: 416 -1 404
+Encoding: 65798 -1 404
 Width: 854
 GlyphClass: 3
 Flags: W
@@ -22912,7 +22913,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u0997
 EndChar
 
 StartChar: u0997_u09b0_u09cd.blwf.vatu_u09c2.blws
-Encoding: 417 -1 405
+Encoding: 65799 -1 405
 Width: 800
 GlyphClass: 3
 Flags: W
@@ -22993,7 +22994,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u0997
 EndChar
 
 StartChar: u09a7_u09b0_u09cd.blwf.vatu_u09c1.blws
-Encoding: 418 -1 406
+Encoding: 65800 -1 406
 Width: 732
 GlyphClass: 3
 Flags: W
@@ -23069,7 +23070,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a7
 EndChar
 
 StartChar: u09a7_u09b0_u09cd.blwf.vatu_u09c2.blws
-Encoding: 419 -1 407
+Encoding: 65801 -1 407
 Width: 673
 GlyphClass: 3
 Flags: W
@@ -23147,7 +23148,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a7
 EndChar
 
 StartChar: u09aa_u09b0_u09cd.blwf.vatu_u09c1.blws
-Encoding: 420 -1 408
+Encoding: 65802 -1 408
 Width: 879
 GlyphClass: 3
 Flags: W
@@ -23227,7 +23228,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09aa
 EndChar
 
 StartChar: u09aa_u09b0_u09cd.blwf.vatu_u09c2.blws
-Encoding: 421 -1 409
+Encoding: 65803 -1 409
 Width: 845
 GlyphClass: 3
 Flags: W
@@ -23308,7 +23309,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09aa
 EndChar
 
 StartChar: u09a5_u09b0_u09cd.blwf.vatu_u09c1.blws
-Encoding: 422 -1 410
+Encoding: 65804 -1 410
 Width: 842
 GlyphClass: 3
 Flags: W
@@ -23385,7 +23386,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a5
 EndChar
 
 StartChar: u09a5_u09b0_u09cd.blwf.vatu_u09c2.blws
-Encoding: 423 -1 411
+Encoding: 65805 -1 411
 Width: 773
 GlyphClass: 3
 Flags: W
@@ -23463,7 +23464,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09a5
 EndChar
 
 StartChar: u09ac_u09b0_u09cd.blwf.vatu_u09c1.blws
-Encoding: 424 -1 412
+Encoding: 65806 -1 412
 Width: 739
 GlyphClass: 3
 Flags: W
@@ -23530,7 +23531,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09ac
 EndChar
 
 StartChar: u09ac_u09b0_u09cd.blwf.vatu_u09c2.blws
-Encoding: 425 -1 413
+Encoding: 65807 -1 413
 Width: 666
 GlyphClass: 3
 Flags: W
@@ -23599,7 +23600,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09ac
 EndChar
 
 StartChar: u09b0_u09cd.half_u0997.pres_u09c1.blws
-Encoding: 426 -1 414
+Encoding: 65808 -1 414
 Width: 565
 GlyphClass: 3
 Flags: W
@@ -23690,7 +23691,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09b2
 EndChar
 
 StartChar: u0999_u09cd_u0998.cjct
-Encoding: 427 -1 415
+Encoding: 65809 -1 415
 Width: 966
 GlyphClass: 3
 Flags: W
@@ -23773,7 +23774,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a6_u09cd_u09a7_u09ac.cjct
-Encoding: 428 -1 416
+Encoding: 65810 -1 416
 Width: 560
 GlyphClass: 3
 Flags: W
@@ -23848,7 +23849,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u09a7 u09cd
 EndChar
 
 StartChar: u09b2_u09cd_u09ab.cjct
-Encoding: 429 -1 417
+Encoding: 65811 -1 417
 Width: 893
 GlyphClass: 3
 Flags: W
@@ -23913,7 +23914,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09ab
 EndChar
 
 StartChar: u09b7_u09cd_u0996.cjct
-Encoding: 430 -1 418
+Encoding: 65812 -1 418
 Width: 647
 GlyphClass: 3
 Flags: W
@@ -23976,7 +23977,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u0996
 EndChar
 
 StartChar: u09b2_u09cd_u099f.cjct
-Encoding: 431 -1 419
+Encoding: 65813 -1 419
 Width: 824
 GlyphClass: 3
 Flags: W
@@ -24054,7 +24055,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u099f
 EndChar
 
 StartChar: u09ae_u09cd_u09ac.cjct
-Encoding: 432 -1 420
+Encoding: 65814 -1 420
 Width: 480
 GlyphClass: 3
 Flags: W
@@ -24116,7 +24117,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09ac
 EndChar
 
 StartChar: u09a3_u09cd_u09a2.cjct
-Encoding: 433 -1 421
+Encoding: 65815 -1 421
 Width: 722
 GlyphClass: 3
 Flags: W
@@ -24176,7 +24177,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a3 u09cd u09a2
 EndChar
 
 StartChar: glyph475
-Encoding: 434 -1 422
+Encoding: 65816 -1 422
 Width: 881
 GlyphClass: 2
 Flags: W
@@ -24254,7 +24255,7 @@ Validated: 33
 EndChar
 
 StartChar: u099a_u09cd_u099b_u09b0.vatu
-Encoding: 435 -1 423
+Encoding: 65817 -1 423
 Width: 861
 GlyphClass: 3
 Flags: W
@@ -24346,7 +24347,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: u09a3_u09cd_u09a3.cjct
-Encoding: 436 -1 424
+Encoding: 65818 -1 424
 Width: 502
 GlyphClass: 3
 Flags: W
@@ -24400,7 +24401,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph478
-Encoding: 437 -1 425
+Encoding: 65819 -1 425
 Width: 424
 GlyphClass: 2
 Flags: W
@@ -24444,7 +24445,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph479
-Encoding: 438 -1 426
+Encoding: 65820 -1 426
 Width: 508
 GlyphClass: 2
 Flags: W
@@ -24483,7 +24484,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph480
-Encoding: 439 -1 427
+Encoding: 65821 -1 427
 Width: 387
 GlyphClass: 2
 Flags: W
@@ -24535,7 +24536,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph481
-Encoding: 440 -1 428
+Encoding: 65822 -1 428
 Width: 381
 GlyphClass: 2
 Flags: W
@@ -24571,7 +24572,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph482
-Encoding: 441 -1 429
+Encoding: 65823 -1 429
 Width: 39
 GlyphClass: 2
 Flags: W
@@ -24611,7 +24612,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph483
-Encoding: 442 -1 430
+Encoding: 65824 -1 430
 Width: 458
 GlyphClass: 2
 Flags: W
@@ -24648,7 +24649,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph484
-Encoding: 443 -1 431
+Encoding: 65825 -1 431
 Width: 447
 GlyphClass: 2
 Flags: W
@@ -24691,7 +24692,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph485
-Encoding: 444 -1 432
+Encoding: 65826 -1 432
 Width: 235
 GlyphClass: 2
 Flags: W
@@ -24726,7 +24727,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph486
-Encoding: 445 -1 433
+Encoding: 65827 -1 433
 Width: 448
 GlyphClass: 2
 Flags: W
@@ -24760,7 +24761,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph487
-Encoding: 446 -1 434
+Encoding: 65828 -1 434
 Width: 437
 GlyphClass: 2
 Flags: W
@@ -24798,7 +24799,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph488
-Encoding: 447 -1 435
+Encoding: 65829 -1 435
 Width: 214
 GlyphClass: 2
 Flags: W
@@ -24831,7 +24832,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph489
-Encoding: 448 -1 436
+Encoding: 65830 -1 436
 Width: 554
 GlyphClass: 2
 Flags: W
@@ -24875,7 +24876,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph490
-Encoding: 449 -1 437
+Encoding: 65831 -1 437
 Width: 225
 GlyphClass: 2
 Flags: W
@@ -24907,7 +24908,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph491
-Encoding: 450 -1 438
+Encoding: 65832 -1 438
 Width: 433
 GlyphClass: 2
 Flags: W
@@ -24950,7 +24951,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph492
-Encoding: 451 -1 439
+Encoding: 65833 -1 439
 Width: 554
 GlyphClass: 2
 Flags: W
@@ -24992,7 +24993,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph493
-Encoding: 452 -1 440
+Encoding: 65834 -1 440
 Width: 530
 GlyphClass: 2
 Flags: W
@@ -25039,7 +25040,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph494
-Encoding: 453 -1 441
+Encoding: 65835 -1 441
 Width: 293
 GlyphClass: 2
 Flags: W
@@ -25079,7 +25080,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph495
-Encoding: 454 -1 442
+Encoding: 65836 -1 442
 Width: 317
 GlyphClass: 2
 Flags: W
@@ -25117,7 +25118,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph496
-Encoding: 455 -1 443
+Encoding: 65837 -1 443
 Width: 475
 GlyphClass: 2
 Flags: W
@@ -25165,7 +25166,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph498
-Encoding: 456 -1 444
+Encoding: 65838 -1 444
 Width: 473
 GlyphClass: 2
 Flags: W
@@ -25205,7 +25206,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph499
-Encoding: 457 -1 445
+Encoding: 65839 -1 445
 Width: 473
 GlyphClass: 2
 Flags: W
@@ -25250,7 +25251,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph500
-Encoding: 458 -1 446
+Encoding: 65840 -1 446
 Width: 571
 GlyphClass: 2
 Flags: W
@@ -25293,7 +25294,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph501
-Encoding: 459 -1 447
+Encoding: 65841 -1 447
 Width: 489
 GlyphClass: 2
 Flags: W
@@ -25329,7 +25330,7 @@ Validated: 1
 EndChar
 
 StartChar: u0995_alt
-Encoding: 460 -1 448
+Encoding: 65842 -1 448
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -25369,7 +25370,7 @@ Validated: 1
 EndChar
 
 StartChar: u0997_alt
-Encoding: 461 -1 449
+Encoding: 65843 -1 449
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -25411,7 +25412,7 @@ Validated: 1
 EndChar
 
 StartChar: u09a4_alt
-Encoding: 462 -1 450
+Encoding: 65844 -1 450
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -25445,7 +25446,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a5_alt
-Encoding: 463 -1 451
+Encoding: 65845 -1 451
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -25484,7 +25485,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a7_alt
-Encoding: 464 -1 452
+Encoding: 65846 -1 452
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -25532,7 +25533,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a8_alt
-Encoding: 465 -1 453
+Encoding: 65847 -1 453
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -25566,7 +25567,7 @@ Validated: 1
 EndChar
 
 StartChar: u09aa_alt
-Encoding: 466 -1 454
+Encoding: 65848 -1 454
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -25603,7 +25604,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph509
-Encoding: 467 -1 455
+Encoding: 65849 -1 455
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -25631,7 +25632,7 @@ Validated: 1
 EndChar
 
 StartChar: u09ad_alt
-Encoding: 468 -1 456
+Encoding: 65850 -1 456
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -25672,7 +25673,7 @@ Validated: 33
 EndChar
 
 StartChar: u09b2_alt
-Encoding: 469 -1 457
+Encoding: 65851 -1 457
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -25711,7 +25712,7 @@ Validated: 33
 EndChar
 
 StartChar: u09ae_alt
-Encoding: 470 -1 458
+Encoding: 65852 -1 458
 Width: 224
 GlyphClass: 2
 Flags: W
@@ -25752,7 +25753,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph513
-Encoding: 471 -1 459
+Encoding: 65853 -1 459
 Width: 263
 GlyphClass: 2
 Flags: W
@@ -25794,7 +25795,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph514
-Encoding: 472 -1 460
+Encoding: 65854 -1 460
 Width: 281
 GlyphClass: 2
 Flags: W
@@ -25845,7 +25846,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph515
-Encoding: 473 -1 461
+Encoding: 65855 -1 461
 Width: 131
 GlyphClass: 2
 Flags: W
@@ -25895,7 +25896,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph516
-Encoding: 474 -1 462
+Encoding: 65856 -1 462
 Width: 15
 GlyphClass: 2
 Flags: W
@@ -25943,7 +25944,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph517
-Encoding: 475 -1 463
+Encoding: 65857 -1 463
 Width: 413
 GlyphClass: 2
 Flags: W
@@ -25974,7 +25975,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph518
-Encoding: 476 -1 464
+Encoding: 65858 -1 464
 Width: 416
 GlyphClass: 2
 Flags: W
@@ -26014,7 +26015,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph519
-Encoding: 477 -1 465
+Encoding: 65859 -1 465
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26046,7 +26047,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph520
-Encoding: 478 -1 466
+Encoding: 65860 -1 466
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26085,7 +26086,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph521
-Encoding: 479 -1 467
+Encoding: 65861 -1 467
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26115,7 +26116,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph522
-Encoding: 480 -1 468
+Encoding: 65862 -1 468
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26145,7 +26146,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph523
-Encoding: 481 -1 469
+Encoding: 65863 -1 469
 Width: 268
 GlyphClass: 2
 Flags: W
@@ -26190,7 +26191,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph524
-Encoding: 482 -1 470
+Encoding: 65864 -1 470
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26252,7 +26253,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph525
-Encoding: 483 -1 471
+Encoding: 65865 -1 471
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26300,7 +26301,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph526
-Encoding: 484 -1 472
+Encoding: 65866 -1 472
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26343,7 +26344,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph527
-Encoding: 485 -1 473
+Encoding: 65867 -1 473
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26362,7 +26363,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph528
-Encoding: 486 -1 474
+Encoding: 65868 -1 474
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26411,7 +26412,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph529
-Encoding: 487 -1 475
+Encoding: 65869 -1 475
 Width: 303
 GlyphClass: 2
 Flags: W
@@ -26449,7 +26450,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph530
-Encoding: 488 -1 476
+Encoding: 65870 -1 476
 Width: 122
 GlyphClass: 2
 Flags: W
@@ -26480,7 +26481,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph531
-Encoding: 489 -1 477
+Encoding: 65871 -1 477
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26510,7 +26511,7 @@ Validated: 37
 EndChar
 
 StartChar: glyph532
-Encoding: 490 -1 478
+Encoding: 65872 -1 478
 Width: 187
 GlyphClass: 2
 Flags: W
@@ -26548,7 +26549,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph533
-Encoding: 491 -1 479
+Encoding: 65873 -1 479
 Width: 293
 GlyphClass: 2
 Flags: W
@@ -26597,7 +26598,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph534
-Encoding: 492 -1 480
+Encoding: 65874 -1 480
 Width: 191
 GlyphClass: 2
 Flags: W
@@ -26646,7 +26647,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph535
-Encoding: 493 -1 481
+Encoding: 65875 -1 481
 Width: 191
 GlyphClass: 2
 Flags: W
@@ -26682,7 +26683,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph536
-Encoding: 494 -1 482
+Encoding: 65876 -1 482
 Width: 240
 GlyphClass: 2
 Flags: W
@@ -26718,7 +26719,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph537
-Encoding: 495 -1 483
+Encoding: 65877 -1 483
 Width: 171
 GlyphClass: 2
 Flags: W
@@ -26755,7 +26756,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph538
-Encoding: 496 -1 484
+Encoding: 65878 -1 484
 Width: 240
 GlyphClass: 2
 Flags: W
@@ -26789,7 +26790,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph539
-Encoding: 497 -1 485
+Encoding: 65879 -1 485
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26821,7 +26822,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph540
-Encoding: 498 -1 486
+Encoding: 65880 -1 486
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26853,7 +26854,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph541
-Encoding: 499 -1 487
+Encoding: 65881 -1 487
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26884,7 +26885,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph542
-Encoding: 500 -1 488
+Encoding: 65882 -1 488
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26917,7 +26918,7 @@ Validated: 33
 EndChar
 
 StartChar: glyph543
-Encoding: 501 -1 489
+Encoding: 65883 -1 489
 Width: 5
 GlyphClass: 2
 Flags: W
@@ -26946,7 +26947,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph544
-Encoding: 502 -1 490
+Encoding: 65884 -1 490
 Width: 177
 GlyphClass: 2
 Flags: W
@@ -26970,7 +26971,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph545
-Encoding: 503 -1 491
+Encoding: 65885 -1 491
 Width: 54
 GlyphClass: 2
 Flags: W
@@ -26989,7 +26990,7 @@ Validated: 1
 EndChar
 
 StartChar: Ra_yaphala
-Encoding: 504 -1 492
+Encoding: 65886 -1 492
 Width: 149
 GlyphClass: 2
 Flags: W
@@ -27009,40 +27010,42 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b0 zwnj u09cd u09af
 EndChar
 
 StartChar: glyph547
-Encoding: 505 -1 493
+Encoding: 65887 -1 493
 Width: 235
 GlyphClass: 2
-Flags: W
+Flags: HW
 VStem: 218 46<137 413>
 LayerCount: 2
 Fore
 SplineSet
 242 673 m 1
- -6 673 l 1
- -6 599 l 1
- 40 599 l 1
- 40 315 l 2
- 40 300 48 292 63 292 c 0
- 71 292 78 295 84 300 c 0
- 131 365 184 412 245 440 c 1
- 227 372 218 313 218 260 c 0
- 218 191 233 124 264 60 c 1
- 275 58 285 59 292 62 c 0
- 303 66 307 75 305 87 c 1
- 278 148 264 208 264 267 c 0
- 264 321 277 390 303 474 c 1
- 304 495 296 505 278 506 c 1
- 255 512 219 495 170 457 c 0
- 130 425 102 398 87 376 c 1
- 87 599 l 1
  242 599 l 1
+ 87 599 l 1
+ 87 376 l 1
+ 102 398 130 425 170 457 c 0
+ 212.572033044 490.015046034 245.331107335 507.178389466 268.277222871 507.178389466 c 0
+ 271.741865311 507.178389466 274.982791021 506.787097995 278 506 c 1
+ 295.003067514 505.055385138 303.083162655 496.080095141 303.083162655 477.388375546 c 0
+ 303.083162655 476.292433153 303.055385138 475.163087901 303 474 c 1
+ 277 390 264 321 264 267 c 0
+ 264 208 278 148 305 87 c 1
+ 307 75 303 66 292 62 c 0
+ 285 59 275 58 264 60 c 1
+ 233 124 218 191 218 260 c 0
+ 218 313 227 372 245 440 c 1
+ 184 412 131 365 84 300 c 0
+ 78 295 71 292 63 292 c 0
+ 48 292 40 300 40 315 c 2
+ 40 599 l 1
+ -6 599 l 1
+ -6 673 l 1
  242 673 l 1
 EndSplineSet
-Validated: 41
+Validated: 524289
 EndChar
 
 StartChar: u099e_u09cd_u099a.salt
-Encoding: 506 -1 494
+Encoding: 65888 -1 494
 Width: 452
 GlyphClass: 2
 Flags: W
@@ -27107,7 +27110,7 @@ Validated: 33
 EndChar
 
 StartChar: u09e7_slash_u09e8.afrc
-Encoding: 507 -1 495
+Encoding: 65889 -1 495
 Width: 327
 GlyphClass: 2
 Flags: W
@@ -27178,7 +27181,7 @@ Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09e8
 EndChar
 
 StartChar: u09e7_slash_u09e9.afrc
-Encoding: 508 -1 496
+Encoding: 65890 -1 496
 Width: 604
 GlyphClass: 2
 Flags: W
@@ -27262,7 +27265,7 @@ Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09e9
 EndChar
 
 StartChar: u09e7_slash_u09ea.afrc
-Encoding: 509 -1 497
+Encoding: 65891 -1 497
 Width: 385
 GlyphClass: 2
 Flags: W
@@ -27349,7 +27352,7 @@ Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09ea
 EndChar
 
 StartChar: u09e7_slash_u09ee.afrc
-Encoding: 510 -1 498
+Encoding: 65892 -1 498
 Width: 399
 GlyphClass: 2
 Flags: W
@@ -27433,7 +27436,7 @@ Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e7 slash u09ee
 EndChar
 
 StartChar: u09e8_slash_u09e9.afrc
-Encoding: 511 -1 499
+Encoding: 65893 -1 499
 Width: 390
 GlyphClass: 2
 Flags: W
@@ -27508,17 +27511,17 @@ Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e8 slash u09e9
 EndChar
 
 StartChar: u09e9_slash_u09ea.afrc
-Encoding: 512 -1 500
+Encoding: 65894 -1 500
 Width: 390
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-201.038792212 641.622386639 m 1
- 201.049525736 641.640919299 201.038792212 641.622386639 201.038792212 641.622386639 c 1
-201.66980787 641.945385511 m 0
- 200.737469259 641.617133438 200 639.450747705 200 634 c 0
+201 642 m 1
+ 201 642 l 1
+202 642 m 0
+ 201 642 200 639.450747705 200 634 c 0
  200 632.491244241 201.376179504 620.565206455 202 615.574642484 c 2
  202 614 l 2
  202 599.486304207 191.847003749 589.498597499 189.674203125 587.325796875 c 0
@@ -27531,7 +27534,7 @@ SplineSet
  238.1875 580.805523363 238.125378933 582.274347889 238.030624722 583.695661055 c 2
  238.016753402 584.077122367 l 2
  237.220479838 605.974645362 232.862381723 620.519201269 227.815832644 628.532964522 c 0
- 222.108043893 637.596755844 215.262133387 641.377208163 201.66980787 641.945385511 c 0
+ 222.108043893 637.596755844 215 641 202 642 c 0
 198 722 m 0
  235.220958332 722 267.244829275 707.563065743 288.631969021 680.47268873 c 0
  308.553126619 655.23922244 318.093507279 622.738997231 318.093507279 583.319523421 c 0
@@ -27590,12 +27593,13 @@ SplineSet
  -43 417 l 1
  487 417 l 1
 EndSplineSet
-Validated: 5
+Validated: 524289
+LCarets2: 2 0 0
 Ligature2: "'afrc' Vertical Fractions lookup 0-1" u09e9 slash u09ea
 EndChar
 
 StartChar: u09b7_u09cd_u0995_u09b0.vatu
-Encoding: 513 -1 501
+Encoding: 65895 -1 501
 Width: 561
 GlyphClass: 3
 Flags: W
@@ -27680,7 +27684,7 @@ Validated: 33
 EndChar
 
 StartChar: u09a6_u09cd_u0997.cjct
-Encoding: 514 -1 502
+Encoding: 65896 -1 502
 Width: 873
 GlyphClass: 3
 Flags: W
@@ -27746,7 +27750,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u0997
 EndChar
 
 StartChar: u09a6_u09cd_u0998.cjct
-Encoding: 515 -1 503
+Encoding: 65897 -1 503
 Width: 795
 GlyphClass: 3
 Flags: W
@@ -27813,7 +27817,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a6 u09cd u0998
 EndChar
 
 StartChar: u09c7.init
-Encoding: 516 -1 504
+Encoding: 65898 -1 504
 Width: 302
 GlyphClass: 2
 Flags: W
@@ -27846,7 +27850,7 @@ Validated: 33
 EndChar
 
 StartChar: u09c8.init
-Encoding: 517 -1 505
+Encoding: 65899 -1 505
 Width: 334
 GlyphClass: 2
 Flags: W
@@ -27891,7 +27895,7 @@ Validated: 33
 EndChar
 
 StartChar: u0995_u09cd.half
-Encoding: 518 -1 506
+Encoding: 65900 -1 506
 Width: 504
 GlyphClass: 3
 Flags: W
@@ -27934,7 +27938,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u0995 u09cd zwj
 EndChar
 
 StartChar: u0996_u09cd.half
-Encoding: 519 -1 507
+Encoding: 65901 -1 507
 Width: 484
 GlyphClass: 3
 Flags: W
@@ -27981,7 +27985,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u0996 u09cd zwj
 EndChar
 
 StartChar: u0997_u09cd.half
-Encoding: 520 -1 508
+Encoding: 65902 -1 508
 Width: 508
 GlyphClass: 3
 Flags: W
@@ -28021,7 +28025,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u0997 u09cd zwj
 EndChar
 
 StartChar: u0998_u09cd.half
-Encoding: 521 -1 509
+Encoding: 65903 -1 509
 Width: 387
 GlyphClass: 3
 Flags: W
@@ -28066,7 +28070,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u0998 u09cd zwj
 EndChar
 
 StartChar: u0999_u09cd.half
-Encoding: 522 -1 510
+Encoding: 65904 -1 510
 Width: 438
 GlyphClass: 3
 Flags: W
@@ -28123,7 +28127,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u0999 u09cd zwj
 EndChar
 
 StartChar: u099a_u09cd.half
-Encoding: 523 -1 511
+Encoding: 65905 -1 511
 Width: 507
 GlyphClass: 3
 Flags: W
@@ -28167,7 +28171,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u099a u09cd zwj
 EndChar
 
 StartChar: u099b_u09cd.half
-Encoding: 524 -1 512
+Encoding: 65906 -1 512
 Width: 453
 GlyphClass: 3
 Flags: W
@@ -28219,7 +28223,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u099b u09cd zwj
 EndChar
 
 StartChar: u099c_u09cd.half
-Encoding: 525 -1 513
+Encoding: 65907 -1 513
 Width: 588
 GlyphClass: 3
 Flags: W
@@ -28270,7 +28274,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u099c u09cd zwj
 EndChar
 
 StartChar: u099d_u09cd.half
-Encoding: 526 -1 514
+Encoding: 65908 -1 514
 Width: 489
 GlyphClass: 3
 Flags: W
@@ -28314,7 +28318,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u099d u09cd zwj
 EndChar
 
 StartChar: u099e_u09cd.half
-Encoding: 527 -1 515
+Encoding: 65909 -1 515
 Width: 612
 GlyphClass: 3
 Flags: W
@@ -28385,7 +28389,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u099e u09cd zwj
 EndChar
 
 StartChar: u099f_u09cd.half
-Encoding: 528 -1 516
+Encoding: 65910 -1 516
 Width: 394
 GlyphClass: 3
 Flags: W
@@ -28439,7 +28443,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u099f u09cd zwj
 EndChar
 
 StartChar: u09a0_u09cd.half
-Encoding: 529 -1 517
+Encoding: 65911 -1 517
 Width: 356
 GlyphClass: 3
 Flags: W
@@ -28487,7 +28491,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09a0 u09cd zwj
 EndChar
 
 StartChar: u09a1_u09cd.half
-Encoding: 530 -1 518
+Encoding: 65912 -1 518
 Width: 512
 GlyphClass: 3
 Flags: W
@@ -28533,10 +28537,10 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09a1 u09cd zwj
 EndChar
 
 StartChar: u09a2_u09cd.half
-Encoding: 531 -1 519
+Encoding: 65913 -1 519
 Width: 364
 GlyphClass: 3
-Flags: W
+Flags: HW
 HStem: 203 70<139 208> 591 84<-3 77 133 364>
 VStem: 77 56<283 591>
 LayerCount: 2
@@ -28547,32 +28551,32 @@ SplineSet
  133 307 l 2
  133 298 137 290 143 283 c 0
  149 276 157 273 167 273 c 0
- 182 273 196 280 210 296 c 0
- 247 336 264 376 260 413 c 0
+ 182 273 195.563369445 280.392831832 210 296 c 0
+ 247 336 263.090586374 375.912963507 260 413 c 0
  259 425 254 435 246 442 c 0
- 238 449 229 455 221 461 c 0
+ 238 449 226.547001962 452.679497057 221 461 c 0
  219 464 217 468 217 473 c 0
  217 480 220 488 226 494 c 0
  232 500 241 503 250 503 c 1
  271 488 286 474 295 462 c 0
  307 446 313 427 313 406 c 0
- 313 363 297 319 264 274 c 0
+ 313 363 297.329377556 318.756592718 264 274 c 0
  229 227 193 203 155 203 c 0
  137 203 120 213 103 232 c 0
- 86 251 77 272 77 295 c 2
- 77 599 l 1
+ 86 251 77 272.002811607 77 295 c 2
  77 593 l 1
  -6 593 l 1
  -3 677 l 1
  367 675 l 1
  364 591 l 1
 EndSplineSet
-Validated: 37
+Validated: 524321
+LCarets2: 2 0 0
 Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09a2 u09cd zwj
 EndChar
 
 StartChar: u09a3_u09cd.half
-Encoding: 532 -1 520
+Encoding: 65914 -1 520
 Width: 458
 GlyphClass: 3
 Flags: W
@@ -28610,7 +28614,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09a3 u09cd zwj
 EndChar
 
 StartChar: u09a4_u09cd.half
-Encoding: 533 -1 521
+Encoding: 65915 -1 521
 Width: 447
 GlyphClass: 3
 Flags: W
@@ -28654,7 +28658,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09a4 u09cd zwj
 EndChar
 
 StartChar: u09a5_u09cd.half
-Encoding: 534 -1 522
+Encoding: 65916 -1 522
 Width: 392
 GlyphClass: 3
 Flags: W
@@ -28698,7 +28702,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09a5 u09cd zwj
 EndChar
 
 StartChar: u09a6_u09cd.half
-Encoding: 535 -1 523
+Encoding: 65917 -1 523
 Width: 439
 GlyphClass: 3
 Flags: W
@@ -28734,7 +28738,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09a6 u09cd zwj
 EndChar
 
 StartChar: u09a7_u09cd.half
-Encoding: 536 -1 524
+Encoding: 65918 -1 524
 Width: 320
 GlyphClass: 3
 Flags: W
@@ -28779,7 +28783,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09a7 u09cd zwj
 EndChar
 
 StartChar: u09a8_u09cd.half
-Encoding: 537 -1 525
+Encoding: 65919 -1 525
 Width: 437
 GlyphClass: 3
 Flags: W
@@ -28818,7 +28822,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09a8 u09cd zwj
 EndChar
 
 StartChar: u09aa_u09cd.half
-Encoding: 538 -1 526
+Encoding: 65920 -1 526
 Width: 554
 GlyphClass: 3
 Flags: W
@@ -28863,7 +28867,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09aa u09cd zwj
 EndChar
 
 StartChar: u09ab_u09cd.half
-Encoding: 539 -1 527
+Encoding: 65921 -1 527
 Width: 504
 GlyphClass: 3
 Flags: W
@@ -28909,7 +28913,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09ab u09cd zwj
 EndChar
 
 StartChar: u09ac_u09cd.half
-Encoding: 540 -1 528
+Encoding: 65922 -1 528
 Width: 340
 GlyphClass: 3
 Flags: W
@@ -28943,7 +28947,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09ac u09cd zwj
 EndChar
 
 StartChar: u09ad_u09cd.half
-Encoding: 541 -1 529
+Encoding: 65923 -1 529
 Width: 517
 GlyphClass: 3
 Flags: W
@@ -28993,7 +28997,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09ad u09cd zwj
 EndChar
 
 StartChar: u09ae_u09cd.half
-Encoding: 542 -1 530
+Encoding: 65924 -1 530
 Width: 480
 GlyphClass: 3
 Flags: W
@@ -29039,7 +29043,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09ae u09cd zwj
 EndChar
 
 StartChar: u09af_u09cd.half
-Encoding: 543 -1 531
+Encoding: 65925 -1 531
 Width: 346
 GlyphClass: 3
 Flags: W
@@ -29076,7 +29080,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09af u09cd zwj
 EndChar
 
 StartChar: u09b0_u09cd.half
-Encoding: 544 -1 532
+Encoding: 65926 -1 532
 Width: 0
 GlyphClass: 3
 Flags: W
@@ -29099,7 +29103,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09b0 u09cd zwj
 EndChar
 
 StartChar: u09b2_u09cd.half
-Encoding: 545 -1 533
+Encoding: 65927 -1 533
 Width: 554
 GlyphClass: 2
 Flags: W
@@ -29142,7 +29146,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09b2 u09cd zwj
 EndChar
 
 StartChar: u09b6_u09cd.half
-Encoding: 546 -1 534
+Encoding: 65928 -1 534
 Width: 530
 GlyphClass: 3
 Flags: W
@@ -29191,7 +29195,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09b6 u09cd zwj
 EndChar
 
 StartChar: u09b7_u09cd.half
-Encoding: 547 -1 535
+Encoding: 65929 -1 535
 Width: 353
 GlyphClass: 3
 Flags: W
@@ -29230,7 +29234,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09b7 u09cd zwj
 EndChar
 
 StartChar: u09b8_u09cd.half
-Encoding: 548 -1 536
+Encoding: 65930 -1 536
 Width: 578
 GlyphClass: 3
 Flags: W
@@ -29274,7 +29278,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09b8 u09cd zwj
 EndChar
 
 StartChar: u09b9_u09cd.half
-Encoding: 549 -1 537
+Encoding: 65931 -1 537
 Width: 318
 GlyphClass: 3
 Flags: W
@@ -29319,7 +29323,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09b9 u09cd zwj
 EndChar
 
 StartChar: u09dc_u09cd.half
-Encoding: 550 -1 538
+Encoding: 65932 -1 538
 Width: 512
 GlyphClass: 3
 Flags: W
@@ -29374,7 +29378,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09dc u09cd zwj
 EndChar
 
 StartChar: u09dd_u09cd.half
-Encoding: 551 -1 539
+Encoding: 65933 -1 539
 Width: 367
 GlyphClass: 3
 Flags: W
@@ -29423,7 +29427,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09dd u09cd zwj
 EndChar
 
 StartChar: u09df_u09cd.half
-Encoding: 552 -1 540
+Encoding: 65934 -1 540
 Width: 358
 GlyphClass: 3
 Flags: W
@@ -29470,7 +29474,7 @@ Ligature2: "'half' Half Forms in Bengali lookup 5 subtable" u09df u09cd zwj
 EndChar
 
 StartChar: uni20B9
-Encoding: 152 8377 541
+Encoding: 8377 8377 541
 Width: 501
 VWidth: 375
 Flags: W
@@ -29506,7 +29510,7 @@ Validated: 33
 EndChar
 
 StartChar: u09fb
-Encoding: 141 2555 542
+Encoding: 2555 2555 542
 Width: 654
 VWidth: 2048
 Flags: W
@@ -29575,11 +29579,10 @@ SplineSet
  355.290039062 522.1796875 l 1
 EndSplineSet
 Validated: 1
-Colour: ff0000
 EndChar
 
 StartChar: uni200B
-Encoding: 145 8203 543
+Encoding: 8203 8203 543
 Width: 0
 Flags: W
 LayerCount: 2
@@ -29588,7 +29591,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0951
-Encoding: 45 2385 544
+Encoding: 2385 2385 544
 Width: 5
 VWidth: 0
 Flags: W
@@ -29610,11 +29613,10 @@ SplineSet
  -199 1179 l 1
 EndSplineSet
 Validated: 1
-Colour: ff0000
 EndChar
 
 StartChar: uni0952
-Encoding: 46 2386 545
+Encoding: 2386 2386 545
 Width: 0
 VWidth: 0
 Flags: W
@@ -29636,11 +29638,10 @@ SplineSet
  -640 -48 l 1
 EndSplineSet
 Validated: 1
-Colour: ff0000
 EndChar
 
 StartChar: hyphen
-Encoding: 14 45 546
+Encoding: 45 45 546
 Width: 332
 Flags: W
 HStem: 207 135<26 298>
@@ -29658,7 +29659,7 @@ Validated: 1
 EndChar
 
 StartChar: u0995_u09cd_u09a4.salt
-Encoding: 553 -1 547
+Encoding: 65935 -1 547
 Width: 600
 Flags: W
 HStem: -22 91<167.48 343.867> 595 93<-7 276.775 434.213 601>
@@ -29733,7 +29734,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0995 u09cd zwnj u09a4
 EndChar
 
 StartChar: u09b9_u09cd_u09ae.salt
-Encoding: 554 -1 548
+Encoding: 65936 -1 548
 Width: 536
 Flags: W
 HStem: 544 144<116.02 221.153> 590.72 97.2803<-21 76.5731 244.8 272.977 273.086 397.38 483.8 550.374>
@@ -29828,7 +29829,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b9 u09cd zwnj u09ae
 EndChar
 
 StartChar: u0999_u09cd_u0997.salt
-Encoding: 555 -1 549
+Encoding: 65937 -1 549
 Width: 718
 Flags: W
 HStem: 10 225<230.865 319.418> 136 99<323.343 370.354> 463.974 87.0263<269.416 321.622> 595 93<279.804 342.904 615.782 732>
@@ -29926,7 +29927,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0999 u09cd zwnj u0997
 EndChar
 
 StartChar: u0995_u09cd_u09b0.salt
-Encoding: 556 -1 550
+Encoding: 65938 -1 550
 Width: 709
 Flags: W
 HStem: -44 88<76.2757 268.442> -20 87<164.365 316.047> 215.814 85.6759<475.99 542.807> 595 93<-22 342 434 726>
@@ -29994,7 +29995,7 @@ Ligature2: "'vatu' Vattu Variants in Bengali lookup 7 subtable" u0995 zwnj u09b0
 EndChar
 
 StartChar: u0999_u09cd_u0995.salt
-Encoding: 557 -1 551
+Encoding: 65939 -1 551
 Width: 500
 Flags: W
 HStem: -114.04 78.9638<503.714 529.688> 87.0908 85.4725<463 517.134> 463.974 87.0263<269.416 321.622> 600.968 87.7135<284.885 342.904>
@@ -30089,7 +30090,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u0999 u09cd zwnj u0995
 EndChar
 
 StartChar: u09f0_u09c1.blws
-Encoding: 558 -1 552
+Encoding: 65940 -1 552
 Width: 743
 Flags: W
 HStem: 276 67<488.064 577.523> 462 85.0005<513.576 576.359> 595 93<-21 334 426 757>
@@ -30153,7 +30154,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09f0
 EndChar
 
 StartChar: u09f0_u09c2.blws
-Encoding: 559 -1 553
+Encoding: 65941 -1 553
 Width: 669
 Flags: W
 HStem: 426 85.4013<426 514.928> 595 93<-21 334 426 681>
@@ -30216,7 +30217,7 @@ Ligature2: "'blws' Below Base Substitutions in Bengali lookup 10 subtable" u09f0
 EndChar
 
 StartChar: uni0980
-Encoding: 49 2432 554
+Encoding: 2432 2432 554
 Width: 473
 Flags: W
 HStem: 279 120<133.399 217>
@@ -30262,11 +30263,10 @@ SplineSet
  272 346 l 0
 EndSplineSet
 Validated: 41
-Colour: ff0000
 EndChar
 
 StartChar: uni09FC
-Encoding: 142 2556 555
+Encoding: 2556 2556 555
 Width: 5
 Flags: W
 HStem: 822 59<-266.763 -133.542> 914 102<-241.435 -150.565>
@@ -30311,11 +30311,10 @@ SplineSet
  -302 941 -290 921 -269 904 c 0
 EndSplineSet
 Validated: 1
-Colour: ff0000
 EndChar
 
 StartChar: uni09FD
-Encoding: 143 2557 556
+Encoding: 2557 2557 556
 Width: 401
 Flags: W
 HStem: 33 63<184.557 279.413> 250 64<209.787 306.955>
@@ -30344,11 +30343,10 @@ SplineSet
  364 106 324 59 257 35 c 0
 EndSplineSet
 Validated: 1
-Colour: ff0000
 EndChar
 
 StartChar: uni09FE
-Encoding: 144 2558 557
+Encoding: 2558 2558 557
 Width: 0
 Flags: W
 HStem: 723.57 27.9844<-146.317 -88.8922> 759.275 30.3975<-244.97 -171.524>
@@ -30388,11 +30386,10 @@ SplineSet
  -244.969726562 789.672851562 l 1
 EndSplineSet
 Validated: 33
-Colour: ff0000
 EndChar
 
 StartChar: u09a4_u09b0_u09cd.vatu.salt
-Encoding: 560 -1 558
+Encoding: 65942 -1 558
 Width: 726
 Flags: W
 HStem: 4.55957 69.6006<284.341 394.67> 117.016 80.3446<360.606 460.003> 512.485 80.8751<422.376 536.556> 595 93<-21 741>
@@ -30474,7 +30471,7 @@ Validated: 37
 EndChar
 
 StartChar: u09b8_u09cd_u0995_u09b0.salt
-Encoding: 561 -1 559
+Encoding: 65943 -1 559
 Width: 738
 Flags: W
 LayerCount: 2
@@ -30558,7 +30555,7 @@ Validated: 1
 EndChar
 
 StartChar: u09b8_u09cd_u09a4_u09b0.salt
-Encoding: 562 -1 560
+Encoding: 65944 -1 560
 Width: 578
 Flags: W
 LayerCount: 2
@@ -30652,7 +30649,7 @@ Validated: 1
 EndChar
 
 StartChar: u09bf.salt
-Encoding: 563 -1 561
+Encoding: 65945 -1 561
 Width: 245
 Flags: W
 LayerCount: 2
@@ -30695,7 +30692,7 @@ Validated: 1
 EndChar
 
 StartChar: u09c0.salt
-Encoding: 564 -1 562
+Encoding: 65946 -1 562
 Width: 243
 Flags: W
 LayerCount: 2
@@ -30740,7 +30737,7 @@ Validated: 1
 EndChar
 
 StartChar: u09ae_u09cd_u09a4.cjct
-Encoding: 565 -1 563
+Encoding: 65947 -1 563
 Width: 485
 Flags: W
 LayerCount: 2
@@ -30820,7 +30817,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09a4
 EndChar
 
 StartChar: u09ae_u09cd_u09a6.cjct
-Encoding: 566 -1 564
+Encoding: 65948 -1 564
 Width: 597
 Flags: W
 LayerCount: 2
@@ -30900,7 +30897,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09a6
 EndChar
 
 StartChar: u09ae_u09cd_u09b9.cjct
-Encoding: 567 -1 565
+Encoding: 65949 -1 565
 Width: 473
 Flags: W
 AnchorPoint: "Anchor-1" 501 -59 basechar 0
@@ -30980,7 +30977,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09ae u09cd u09b9
 EndChar
 
 StartChar: u099f_u09cd_u09ac.cjct
-Encoding: 568 -1 566
+Encoding: 65950 -1 566
 Width: 525
 Flags: W
 AnchorPoint: "Anchor-0" 274 799 basechar 0
@@ -31080,7 +31077,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099f u09cd u09ac
 EndChar
 
 StartChar: u099f_09cd_09ae.cjct
-Encoding: 569 -1 567
+Encoding: 65951 -1 567
 Width: 711
 Flags: W
 AnchorPoint: "Anchor-0" 296 798 basechar 0
@@ -31198,7 +31195,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u099f u09cd u09ae
 EndChar
 
 StartChar: u09b2_u09cd_u09a4.cjct
-Encoding: 570 -1 568
+Encoding: 65952 -1 568
 Width: 556
 Flags: W
 LayerCount: 2
@@ -31281,7 +31278,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09a4
 EndChar
 
 StartChar: u09b2_u09cd_u09a7.cjct
-Encoding: 571 -1 569
+Encoding: 65953 -1 569
 Width: 554
 Flags: W
 AnchorPoint: "Anchor-0" 330 677 basechar 0
@@ -31378,7 +31375,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09a7
 EndChar
 
 StartChar: u09a7_u09cd_u09ae.cjct
-Encoding: 572 -1 570
+Encoding: 65954 -1 570
 Width: 532
 Flags: W
 AnchorPoint: "Anchor-1" 441 35.4004 basechar 0
@@ -31462,51 +31459,32 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09a7 u09cd u09ae
 EndChar
 
 StartChar: u09b2_u09cd_u09ad.cjct
-Encoding: 573 -1 571
+Encoding: 65955 -1 571
 Width: 564
-Flags: W
+Flags: HW
 AnchorPoint: "Anchor-1" 456 -39 basechar 0
 AnchorPoint: "Anchor-0" 298 673 basechar 0
 LayerCount: 2
 Fore
 SplineSet
+308.790178711 595 m 1
+ 207.340383307 595 l 1
+ 225.759279613 588.106627755 243.300187126 577.371372049 259.959169436 563.203922001 c 1
+ 275.032106785 578.450481358 291.512950962 589.202350777 308.790178711 595 c 1
+408 595 m 1
+ 369.731941321 595 l 1
+ 382.326108248 591.00572187 395.062283458 584.704692099 408 576.410213008 c 1
+ 408 595 l 1
 266 266 m 0
  281.323762613 266 295.843063054 257.965765702 306.138772006 243.809165894 c 2
- 309.936323948 238.587531973 l 1
+ 309.936323948 238.587531973 l 2
  309.122756307 234.248504551 308.054541605 229.763555964 308.054541605 224.760416338 c 0
  308.054541605 215.072072015 311.418180223 203.565663708 320.489704743 190.305348576 c 0
  332.306645214 172.57993787 346.661951916 165 362 165 c 0
  371.175900386 165 380.719573054 167.579833257 390.994652904 173.497681777 c 1
  398.003844647 182.821172258 401.99999979 196.406677329 402 215 c 0
  402 221.218960742 396.987777077 263.194348218 395.024434453 279.555536754 c 1
- 414.542018179 278.925937279 440.86415397 277.969677651 454.743598246 276.101290922 c 0
- 463.106121765 274.975566602 469.757806481 273.717212776 475.904030324 270.809271152 c 0
- 537.7431617 247.570764647 578.867381933 207.116308315 595.31738282 151.490738586 c 0
- 600.577199266 135.658007706 604 120.264326888 604 105 c 0
- 604 56.7677355616 580.747664706 18.0815407121 541.039295178 -11.9680362281 c 0
- 499.711397211 -43.2432022574 449.279043163 -59.0576923077 388.800238962 -59.0576923077 c 0
- 335.002273178 -59.0576923077 287.035508063 -46.3212931068 245.120621332 -20.7634353441 c 0
- 222.907547097 -7.01248462709 202.651727041 10.0370851568 184.644350548 31.2028871947 c 0
- 139.095552289 83.1515259614 101.59078632 164.817597833 68.2439714964 274.963137706 c 0
- 67.9830213219 277.311689276 67.7488303661 279.882844438 67.7488303661 282.321595662 c 0
- 67.7488303661 294.540425899 73.1982497479 306.355848733 84.0350980192 312.792669401 c 0
- 92.1443321415 317.60935452 101.31045737 319 111 319 c 0
- 123.693831055 319 134.761295845 314.100191716 143.75371081 306.39240746 c 2
- 146.993973594 303.61503936 l 1
- 148.288183014 299.57553723 l 2
- 181.017975396 197.418912523 210.059504511 131.294691389 232.966568801 100.043978799 c 0
- 268.89625087 54.0813023684 319.745366309 29.9738719551 391.101018601 29.0000275142 c 0
- 426.078459752 29.0191323902 454.417461682 38.9620187066 477.585236959 57.6744526531 c 0
- 501.101961103 76.6687298465 511 96.2988103985 511 118 c 0
- 511 137.095299345 502.783545213 154.001933319 483.631028022 168.933015472 c 1
- 477.963323765 145.113836067 466.532904595 124.323860845 449.460147464 107.251103714 c 0
- 427.860078143 86.7878801466 401.680267958 76 371 76 c 0
- 351.457143185 76 333.324331422 80.721220356 314.335006255 88.1059579209 c 0
- 276.725223269 104.224436344 246.004244724 131.261048078 231.94974037 168.739726355 c 0
- 224.541155604 188.495952399 221.88617825 212.540614453 220.766289196 240.537840802 c 1
- 224.89935003 245.084207719 l 2
- 236.663631015 258.024916802 250.592268454 266 266 266 c 0
-408 237 m 1
+ 399.110279744 279.423735293 403.494327532 279.277618287 408 279.111814552 c 1
  408 414 l 2
  408 460.678377842 393.788351478 489.512358074 366.206135133 507.180264347 c 0
  355.517285265 513.378221292 346.901960391 515.999999681 341 516 c 0
@@ -31529,7 +31507,24 @@ SplineSet
  213.925847924 386.5345207 222 372.339905644 222 355 c 0
  222 338.049455973 216.022047839 318.525227699 197.263454132 314.356651319 c 0
  187.474155256 312.181251569 178.2880133 311 169 311 c 0
- 127.430986731 311 90.5074919896 325.498767956 60.8140347183 352.992709874 c 0
+ 154.133941904 311 139.862020559 312.854314179 126.302447179 316.494171611 c 1
+ 132.746653135 314.315833942 138.592026474 310.816707534 143.75371081 306.39240746 c 2
+ 146.993973594 303.61503936 l 1
+ 148.288183014 299.57553723 l 2
+ 181.017975396 197.418912523 210.059504511 131.294691389 232.966568801 100.043978799 c 0
+ 268.89625087 54.0813023684 319.745366309 29.9738719551 391.101018601 29.0000275142 c 0
+ 426.078459752 29.0191323902 454.417461682 38.9620187066 477.585236959 57.6744526531 c 0
+ 501.101961103 76.6687298465 511 96.2988103985 511 118 c 0
+ 511 137.095299345 502.783545213 154.001933319 483.631028022 168.933015472 c 1
+ 477.963323765 145.113836067 466.532904595 124.323860845 449.460147464 107.251103714 c 0
+ 427.860078143 86.7878801466 401.680267958 76 371 76 c 0
+ 351.457143185 76 333.324331422 80.721220356 314.335006255 88.1059579209 c 0
+ 276.725223269 104.224436344 246.004244724 131.261048078 231.94974037 168.739726355 c 0
+ 224.541155604 188.495952399 221.88617825 212.540614453 220.766289196 240.537840802 c 1
+ 224.89935003 245.084207719 l 2
+ 236.663631015 258.024916802 250.592268454 266 266 266 c 0
+121.832429549 317.766478551 m 1
+ 99.2428804781 324.566164131 78.7146678896 336.418048534 60.8140347183 352.992709874 c 0
  31.1898208536 380.422537526 15 414.703417167 15 454 c 0
  15 483.980241813 24.0379141805 513.280868438 43.8205167257 539.757165704 c 0
  62.2063185668 566.235580045 84.4412934566 584.850671452 109.911706589 595 c 1
@@ -31538,23 +31533,26 @@ SplineSet
  576 688 l 1
  576 595 l 1
  500 595 l 1
- 500 237 l 1
- 408 237 l 1
-408 595 m 1
- 369.731941321 595 l 1
- 382.326108248 591.00572187 395.062283458 584.704692099 408 576.410213008 c 1
- 408 595 l 1
-308.790178711 595 m 1
- 207.340383307 595 l 1
- 225.759279613 588.106627755 243.300187126 577.371372049 259.959169436 563.203922001 c 1
- 275.032106785 578.450481358 291.512950962 589.202350777 308.790178711 595 c 1
+ 500 260.365408656 l 1
+ 548.483786288 236.273925887 581.107023646 199.542974605 595.31738282 151.490738586 c 0
+ 600.577199266 135.658007706 604 120.264326888 604 105 c 0
+ 604 56.7677355616 580.747664706 18.0815407121 541.039295178 -11.9680362281 c 0
+ 499.711397211 -43.2432022574 449.279043163 -59.0576923077 388.800238962 -59.0576923077 c 0
+ 335.002273178 -59.0576923077 287.035508063 -46.3212931068 245.120621332 -20.7634353441 c 0
+ 222.907547097 -7.01248462709 202.651727041 10.0370851568 184.644350548 31.2028871947 c 0
+ 139.095552289 83.1515259614 101.59078632 164.817597833 68.2439714964 274.963137706 c 0
+ 67.9830213219 277.311689276 67.7488303661 279.882844438 67.7488303661 282.321595662 c 0
+ 67.7488303661 294.540425899 73.1982497479 306.355848733 84.0350980192 312.792669401 c 0
+ 92.1443321415 317.60935452 101.31045737 319 111 319 c 0
+ 114.757167986 319 118.371855889 318.570745471 121.832429549 317.766478551 c 1
 EndSplineSet
-Validated: 5
+Validated: 524289
+LCarets2: 2 0 0
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b2 u09cd u09ad
 EndChar
 
 StartChar: u09b6_u09cd_u09a4.cjct
-Encoding: 574 -1 572
+Encoding: 65956 -1 572
 Width: 540
 Flags: W
 LayerCount: 2
@@ -31651,9 +31649,9 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b6 u09cd u09a4
 EndChar
 
 StartChar: u09b7_u09cd_u09aa_u09b0.cjct
-Encoding: 575 -1 573
+Encoding: 65957 -1 573
 Width: 964
-Flags: W
+Flags: HW
 HStem: -38 82<712.028 824> -29 58<146.64 498.93> -5 57<404.224 741.336> 348 48<121.605 230.87> 535 21G<361.5 384.5> 608 60<500.618 653.509> 610 63<148.99 285.016>
 VStem: 311 51<535.087 591.812> 824 61<44.0008 64 331 419.513 611 611.982>
 AnchorPoint: "Anchor-0" 897 678 basechar 0
@@ -31661,83 +31659,84 @@ AnchorPoint: "Anchor-1" 828 -39 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-825.5 44 m 24x9b80
- 753 42 687.849609375 52 640.700195312 52 c 0x3980
- 585.349609375 52 509.5 47 413.150390625 39 c 0
- 341.400390625 32 292.200195312 29 263.5 29 c 0
- 218.400390625 29 183.549804688 35 154.849609375 47 c 0
- 126.150390625 59 99.5 82 72.849609375 115 c 1
- 54.400390625 121 35.9501953125 124 17.5 124 c 0
- 3.150390625 124 -9.150390625 123 -17.349609375 120 c 0
- -33.75 115 -39.900390625 106 -37.849609375 91 c 1
- 5.2001953125 44 48.25 13 91.2998046875 -3 c 0
- 134.349609375 -19 199.950195312 -28 288.099609375 -29 c 0x5980
- 329.099609375 -29 384.450195312 -26 456.200195312 -18 c 0
- 527.950195312 -10 581.25 -5 612 -5 c 0x3980
- 671.450195312 -5 718.599609375 -14 755.5 -33 c 0
- 761.650390625 -36 776 -38 798.549804688 -38 c 0
- 853.900390625 -38 882.599609375 -31 882.599609375 -16 c 1
- 902.740871984 17.8757176554 884.978137508 52.0193542937 885 64 c 2
- 886 612 l 1
- 961 612 l 1
- 961 675 l 1
- 886 675 l 2
- 872 675 860 671 849 663 c 0
- 832 650 824 632 824 611 c 2
- 824 504 l 1
- 753 613 672 668 584 668 c 0x9d80
- 569 668 556 667 541 664 c 0
- 467 646 407 603 362 535 c 1
- 361 561 353 586 338 610 c 1
- 351 610 l 1
- 351 673 l 1
- -8 673 l 1
- -8 610 l 1
- 84 610 l 1
- 47 581 29 542 29 495 c 0
- 29 438 60 394 121 360 c 1
- 140 352 158 348 177 348 c 0
- 220 348 264 371 309 416 c 0
- 321 428 331 441 339 454 c 1
- 346 446 356 441 366 441 c 0
- 371 441 374 442 379 445 c 1
- 410 496 l 1
+826 49 m 24x9b80
+ 831 49 824 49.9975943607 824 62 c 2
+ 824 331 l 2
+ 824 362 816 392 800 424 c 0
+ 793 439 776 465 751 502 c 1
+ 522 278 l 1
+ 506 274 494 279 486 290 c 0
+ 482 295 479 302 479 309 c 0
+ 479 313 480 316 481 319 c 2
  521 360 l 1
- 481 319 l 2
- 480 316 479 313 479 309 c 0
- 479 302 482 295 486 290 c 0
- 494 279 506 274 522 278 c 1
- 751 502 l 1
- 776 465 793 439 800 424 c 0
- 816 392 824 362 824 331 c 2
- 824 57 l 2
- 824 44.9975943607 831 44 825.5 44 c 24x9b80
+ 410 496 l 1
+ 379 445 l 1
+ 374 442 371 441 366 441 c 0
+ 356 441 346 446 339 454 c 1
+ 331 441 321 428 309 416 c 0
+ 264 371 220 348 177 348 c 0
+ 158 348 140 352 121 360 c 1
+ 60 394 29 438 29 495 c 0
+ 29 542 47 581 84 610 c 1
+ -8 610 l 1
+ -8 673 l 1
+ 351 673 l 1
+ 351 610 l 1
+ 338 610 l 1
+ 353 586 361 561 362 535 c 1
+ 407 603 467 646 541 664 c 0
+ 556 667 569 668 584 668 c 0x9d80
+ 672 668 753 613 824 504 c 1
+ 824 611 l 2
+ 824 632 832 650 849 663 c 0
+ 860 671 872 675 886 675 c 2
+ 961 675 l 1
+ 961 612 l 1
+ 886 612 l 1
+ 885 64 l 2
+ 884.978137508 52.0193542937 902.740871984 17.8757176554 882.599609375 -16 c 1
+ 882.599609375 -31 853.900390625 -38 798.549804688 -38 c 0
+ 776 -38 761.650390625 -36 755.5 -33 c 0
+ 718.599609375 -14 671.450195312 -5 612 -5 c 0x3980
+ 581.25 -5 527.950195312 -10 456.200195312 -18 c 0
+ 384.450195312 -26 329.099609375 -29 288.099609375 -29 c 0x5980
+ 199.950195312 -28 134.349609375 -19 91.2998046875 -3 c 0
+ 48.25 13 5.2001953125 44 -37.849609375 91 c 1
+ -39.900390625 106 -34 115 -17 120 c 0
+ -9 123 3 124 18 124 c 0
+ 36 124 54 123 73 120 c 1
+ 100 87 126 64 155 52 c 0
+ 184 40 218 34 264 34 c 0
+ 292 34 341 37 413 44 c 0
+ 510 52 585 57 641 57 c 0x3980
+ 688 57 753 47 826 49 c 24x9b80
 265 445 m 5
- 230 412 199 396 172 396 c 4
- 160 396 145 400 127 407 c 5
- 103 426 l 5
- 92 437 85 450 81 465 c 4
- 74 493 81 518 99 541 c 5
- 265 445 l 5
+ 99 541 l 5
+ 81 518 74 493 81 465 c 4
+ 85 450 92 437 103 426 c 5
+ 127 407 l 5
+ 145 400 160 396 172 396 c 4
+ 199 396 230 412 265 445 c 5
 286 594 m 0
- 303 585 311 569 311 544 c 0
- 311 523 304 501 291 480 c 1
- 128 575 l 1
- 160 598 192 610 223 610 c 0x1b80
- 244 610 265 604 286 594 c 0
+ 265 604 244 610 223 610 c 0x1b80
+ 192 610 160 598 128 575 c 1
+ 291 480 l 1
+ 304 501 311 523 311 544 c 0
+ 311 569 303 585 286 594 c 0
 711 544 m 1
+ 666 587 622 608 577 608 c 0x1d80
+ 532 608 489 587 445 544 c 1
  567 400 l 1
- 445 544 l 1
- 489 587 532 608 577 608 c 0x1d80
- 622 608 666 587 711 544 c 1
+ 711 544 l 1
 EndSplineSet
-Validated: 41
+Validated: 524321
+LCarets2: 4 0 0 0 0
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09aa u09cd u09f0
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09aa u09cd u09b0
 EndChar
 
 StartChar: u09b7_u09cd_u09ac.cjct
-Encoding: 576 -1 574
+Encoding: 65958 -1 574
 Width: 357
 Flags: W
 LayerCount: 2
@@ -31788,7 +31787,7 @@ Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 13" u09b7 u09cd u09ac
 EndChar
 
 StartChar: .notdef
-Encoding: 44 -1 575
+Encoding: 65959 -1 575
 Width: 1000
 Flags: HW
 LayerCount: 2
@@ -31822,6 +31821,52 @@ SplineSet
  450 108 l 1
  450 152 l 1
 EndSplineSet
+Validated: 2621473
+EndChar
+
+StartChar: uni0984
+Encoding: 2436 2436 576
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "Anchor-0" -63 744 mark 0
+LayerCount: 2
+Fore
+SplineSet
+6 998 m 1
+ -14 997 -30 987 -43 970 c 0
+ -56 953 -63 934 -63 914 c 0
+ -63 885 -48 871 -20 871 c 0
+ -1 871 15 881 30 900 c 0
+ 43 918 50 936 50 955 c 0
+ 50 982 35 997 6 998 c 1
+123 920 m 0
+ 119 892 108 866 88 843 c 0
+ 66 816 38 799 5 792 c 0
+ -5 790 -16 789 -26 789 c 0
+ -59 789 -85 800 -106 823 c 0
+ -127 846 -138 876 -138 911 c 0
+ -138 924 -138 937 -135 950 c 0
+ -127 986 -110 1017 -86 1041 c 0
+ -62 1065 -34 1078 -1 1079 c 0
+ 0.468040317726 1079.03580586 1.92454209805 1079.05366289 3.36955124623 1079.05366289 c 0
+ 42.2813186524 1079.05366289 72.8593406738 1066.10485346 96 1042 c 0
+ 117 1019 129 990 129 957 c 0
+ 129 944 127 932 123 920 c 0
+EndSplineSet
+Validated: 524289
+Colour: ff0000
+EndChar
+
+StartChar: uni09FF
+Encoding: 2559 2559 577
+Width: 480
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 126 2544 N 1 0 0 1 0 0 2
+Validated: 1
+Colour: ff0000
 EndChar
 EndChars
 EndSplineFont
